@@ -1,0 +1,168 @@
+<a href="https://www.kellogg.edu/wp-content/uploads/2016/01/KCC-electricity-electronics.jpg"><img class="alignright size-full wp-image-35882" src="https://www.kellogg.edu/wp-content/uploads/2016/01/KCC-electricity-electronics.jpg" alt="A KCC Industrial Electricity/Electronics student works with electrical equipment at the RMTC." width="430" height="287"></a>In the processes of advanced manufacturing and electrical construction, electrical and electronic control systems are crucial components that require sophisticated computer programming, monitoring and diagnostics skills. The Industrial Electricity and Electronics Program at Kellogg Community College prepares students to install, maintain and repair such systems.
+
+KCC offers the following Industrial Electricity and Electronics&nbsp;Program credentials:
+<ul>
+ 	<li>Industrial Electricity and Electronics Certificate (30 credits)</li>
+ 	<li>Associate in Applied Science: Industrial Electricity and Electronics (60 credits)</li>
+ 	<li>Associate in Applied Science: Skilled Trades (60 credits)</li>
+</ul>
+For more information about KCC’s Industrial Electricity and Electronics&nbsp;Program, see:
+<ul>
+ 	<li>KCC's latest&nbsp;<strong><a href="http://catalog.kellogg.edu" target="_blank" rel="noopener noreferrer">Academic Catalog</a></strong></li>
+ 	<li>KCC's&nbsp;<strong><a href="https://www.kellogg.edu/wp-content/uploads/2018/11/RMTC_Overall-program-brochure.pdf" target="_blank" rel="noreferrer noopener">Industrial Trades program brochure</a></strong></li>
+ 	<li>KCC's<strong> <a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Electricity-1.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Industrial Electricity/Electronics cost sheet</a></strong></li>
+ 	<li>Information about <strong><a href="#industrialelectricityelectronicscareers">Industrial Electricity and Electronics careers</a></strong></li>
+ 	<li>Information about <strong><a href="#studyindustrialelectricityelectronicsatkcc">why you should study Industrial Electricity and Electronics&nbsp;at KCC</a></strong></li>
+</ul>
+<h2>Course Sequences</h2>
+Unlike traditional academic courses, the offerings in KCC's Industrial Electricity and Electronics Program&nbsp;consist of short modules that are components of larger units. Modules are often less than 1 credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from one to 30 modules, depending on the area of instruction.
+
+Industrial Electricity and Electronics modules carry the course designator INEL as detailed in the most recent <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Electricity-1.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Industrial Electricity/Electronics cost sheet.</a></strong> Units in this program include:
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Unit</th>
+<th style="text-align: center">Title</th>
+<th style="text-align: center">Credits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center">Unit 5</td>
+<td style="text-align: left">Electrical Safety</td>
+<td style="text-align: center">.17</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 10</td>
+<td style="text-align: left">Mathematics for Electricians</td>
+<td style="text-align: center">.58</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 15</td>
+<td style="text-align: left">Electrical Theory</td>
+<td style="text-align: center">5.19</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 20</td>
+<td style="text-align: left">Electrical Motor Controls 1</td>
+<td style="text-align: center">4.59</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 25</td>
+<td style="text-align: left">Electrical Motor Controls 2</td>
+<td style="text-align: center">2.82</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 30</td>
+<td style="text-align: left">Rotating Electrical Machines</td>
+<td style="text-align: center">2.24</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 35</td>
+<td style="text-align: left">National Electrical Code (NEC)</td>
+<td style="text-align: center">3.90</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 40</td>
+<td style="text-align: left">Power Distribution Systems</td>
+<td style="text-align: center">2.58</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 45</td>
+<td style="text-align: left">Facility Maintenance</td>
+<td style="text-align: center">3.91</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 50</td>
+<td style="text-align: left">Electrical Control Wiring</td>
+<td style="text-align: center">1.42</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 55</td>
+<td style="text-align: left">Industrial Electronics</td>
+<td style="text-align: center">6.41</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 60</td>
+<td style="text-align: left">Program Logic Controllers 1</td>
+<td style="text-align: center">2.24</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 65</td>
+<td style="text-align: left">Program Logic Controllers 2</td>
+<td style="text-align: center">2.91</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 67</td>
+<td style="text-align: left">Siemens S7-300 PLCs</td>
+<td style="text-align: center">3.00</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 70</td>
+<td style="text-align: left">Panel View</td>
+<td style="text-align: center">3.25</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 75</td>
+<td style="text-align: left">Intro to Control Logix</td>
+<td style="text-align: center">2.18</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 80</td>
+<td style="text-align: left">Machine Safety Controls</td>
+<td style="text-align: center">1.83</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 95</td>
+<td style="text-align: left">Mechatronics</td>
+<td style="text-align: center">2.31</td>
+</tr>
+</tbody>
+</table>
+<h2>Transfer&nbsp;Opportunities</h2>
+<strong><a href="https://www.kellogg.edu/services/academic-advising/educational-planning/transfer-guides/" target="_blank" rel="noopener noreferrer">Transfer Guides</a></strong> are available to view opportunities for students looking to transfer their KCC credits to a four-year institution. Popular transfer destinations for KCC’s Industrial Electricity and Electronics students include Siena Heights University and Western Michigan University.
+
+For additional advice on transfer opportunities, contact:
+<ul>
+ 	<li>KCC’s Regional Manufacturing Technology Center at 269-965-4137 or <strong><a href="mailto:rmtc@kellogg.edu" target="_blank" rel="noopener noreferrer">rmtc@kellogg.edu</a></strong>.</li>
+ 	<li>KCC Academic Advising offices at 269-965-4124 or <strong><a href="mailto:advising@kellogg.edu" target="_blank" rel="noopener noreferrer">advising@kellogg.edu</a></strong>.</li>
+</ul>
+<a name="industrialelectricityelectronicscareers"></a>
+<h2>Industrial Electricity &amp; Electronics Careers</h2>
+Electricians and technicians trained at KCC work for companies and private contractors in a wide variety of residential, commercial and industrial settings, including homes, schools, hospitals, manufacturing facilities, shopping centers, office buildings and apartment complexes. Industrial electricians work in manufacturing facilities on machines and automated equipment.
+
+Possible job areas/titles for graduates with an education in industrial electricity and electronics&nbsp;include:
+<ul>
+ 	<li>Controls technician</li>
+ 	<li>Electrician</li>
+ 	<li>Electrical and electronic equipment mechanic</li>
+ 	<li>Electrical and electronic installation, maintenance and repair worker</li>
+ 	<li>Electrical engineering technician</li>
+ 	<li>Electro-mechanical technician</li>
+ 	<li>Instrumentation and/or electrical technician</li>
+ 	<li>Self-employed</li>
+</ul>
+With additional education after the program, opportunities include:
+<ul>
+ 	<li>Controls engineer</li>
+ 	<li>Electrical engineer</li>
+ 	<li>Maintenance supervisor</li>
+ 	<li>Production supervisor</li>
+ 	<li>Quality control engineer</li>
+ 	<li>Sales manager</li>
+</ul>
+<h3>Projected Job Outlook &amp; Salary Info</h3>
+For the latest employment and wage estimates for industrial electricity and electronics careers in Michigan, visit the U.S. Department of Labor’s Bureau of Labor Statistics website at <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">U.S. Department of Labor's Bureau of Labor Statistics website</a>.</strong>
+<a name="studyindustrialelectricityelectronicsatkcc"></a>
+<h2>Why Study Industrial Electricity &amp; Electronics at KCC?</h2>
+Electricians work for companies, private contractors and themselves in a variety of residential, commercial and industrial settings, including homes, schools, hospitals, manufacturing facilities, shopping centers, office buildings and apartment complexes. Industrial electricians work in manufacturing facilities on high-tech machines and automated equipment.
+<h3>RMTC Equipment &amp; Facilities</h3>
+Across Michigan, there are few facilities like the Regional Manufacturing Technology Center, which KCC started in 1990 as a way to serve the workforce needs of the industries that are active and growing in south central Michigan. Thanks to an ongoing commitment from the College, private employers and local, state and federal agencies, the RMTC is a premier provider of industrial and skilled-trades education with highly experienced instructors and top-notch equipment. Machinery used for training at the RMTC is similar or identical to the equipment that students will use in the workplace.
+<h3>Self-Paced Learning</h3>
+Because of the self-paced instructional model at the RMTC, students can move at their own pace through the modules and units. As their work and life schedules allow, they can spend as many or as few hours each week learning alongside our instructors, who are available during lab hours<strong>.&nbsp;</strong>
+
+Please see the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/RMTC-Fall-2021-Lab-Schedule-1.pdf" target="_blank" rel="noreferrer noopener">RMTC Fall 2021 Lab Schedule</a></strong><b>&nbsp;</b>for current lab and resource room availability.
+<h3>Prior-Learning Credits</h3>
+Students who hold a journeyman or U.S. Department of Labor (USDOL) apprenticeship certificate are eligible to receive prior learning credits that can be applied toward a KCC certificate or degree.
+<h3>Tour the RMTC</h3>
+Prospective students have an open invitation to visit the RMTC to take a tour of the facility, meet instructors and learn more about individual programs.

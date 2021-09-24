@@ -1,0 +1,126 @@
+<a href="https://www.kellogg.edu/wp-content/uploads/2016/01/KCC-Renewable-Energy.jpg"><img class="alignright wp-image-36216" src="https://www.kellogg.edu/wp-content/uploads/2016/01/KCC-Renewable-Energy.jpg" alt="KCC Industrial Electricity and Electronics professor Kevin Barnes assists a student at the RMTC." width="430" height="289"></a>Kellogg Community College's Industrial Trades Renewal Energy Program trains industrial electricians to install, monitor and maintain small-scale solar and wind energy systems in residential, commercial and industrial facilities. The program follows the Electronics Technicians Association training guides for photovoltaic and small-scale wind installers.
+
+KCC offers the following Renewable Energy credential:
+<ul>
+ 	<li>Renewable Energy Certificate (25 credits)</li>
+</ul>
+<h2>For more information about KCC’s Renewable Energy&nbsp;Program, see:</h2>
+<ul>
+ 	<li>KCC's latest&nbsp;<strong><a href="http://catalog.kellogg.edu" target="_blank" rel="noopener noreferrer">Academic Catalog</a></strong></li>
+ 	<li>KCC's <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Renewable-Energy.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Renewable Energy Cost Sheet</a></strong>
+<ul>
+ 	<li>Please Note: Renewable Energy is not offered during summer semesters.</li>
+</ul>
+</li>
+ 	<li>Information about <strong><a href="#renewableenergycareers">renewable energy careers</a></strong></li>
+ 	<li>Information about <strong><a href="#studyrenewableenergyatkcc">why you should study renewable energy&nbsp;at KCC</a></strong></li>
+</ul>
+<h2>Course Sequences</h2>
+Unlike traditional academic courses, the offerings in KCC’s Industrial Electricity and Electronics Program&nbsp;consist of short modules that are components of larger units. Modules are often less than 1 credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from one to 30 modules, depending on the area of instruction.
+
+Renewable Energy modules carry the course designators INEL &amp; INRE as detailed in the most recent<strong> <a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Renewable-Energy.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Renewable Energy Cost Sheet</a>. </strong>Units in this program include:
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Unit</th>
+<th style="text-align: center">Title</th>
+<th style="text-align: center">Credits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center">Unit 5 (INEL)</td>
+<td style="text-align: left">Electrical Safety</td>
+<td style="text-align: center">.17</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 10 (INEL)</td>
+<td style="text-align: left">Mathematics for Electricians</td>
+<td style="text-align: center">.50</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 15 (INEL)</td>
+<td style="text-align: left">Electrical Theory</td>
+<td style="text-align: center">5.19</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 35 (INEL)</td>
+<td style="text-align: left">National Electrical Code (NEC)</td>
+<td style="text-align: center">2.07</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 40 (INEL)</td>
+<td style="text-align: left">Power Distribution Systems</td>
+<td style="text-align: center">2.58</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 5 (INRE)</td>
+<td style="text-align: left">Energy Use</td>
+<td style="text-align: center">2.08</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 10 (INRE)</td>
+<td style="text-align: left">Photovoltaic Theory</td>
+<td style="text-align: center">1</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 15 (INRE)</td>
+<td style="text-align: left">PV Components</td>
+<td style="text-align: center">2.38</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 20 (INRE)</td>
+<td style="text-align: left">Photovoltaic Installation</td>
+<td style="text-align: center">3.38</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 25 (INRE)</td>
+<td style="text-align: left">Wind Theory</td>
+<td style="text-align: center">1.41</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 30 (INRE)</td>
+<td style="text-align: left">Wind Components</td>
+<td style="text-align: center">1.92</td>
+</tr>
+<tr>
+<td style="text-align: center">Unit 35 (INRE)</td>
+<td style="text-align: left">Wind Installation</td>
+<td style="text-align: center">2.74</td>
+</tr>
+</tbody>
+</table>
+<h2>Transfer Opportunities</h2>
+<strong><a href="https://www.kellogg.edu/services/academic-advising/educational-planning/transfer-guides/" target="_blank" rel="noopener noreferrer">Transfer Guides</a></strong> are available to view opportunities for students looking to transfer their KCC credits to a four-year institution. Popular transfer destinations for KCC’s Industrial Electricity and Electronics students include Siena Heights University and Western Michigan University.
+<h3>For additional advice on transfer opportunities, contact:</h3>
+<ul>
+ 	<li>KCC’s Regional Manufacturing Technology Center at 269-965-4137 or <strong><a href="mailto:rmtc@kellogg.edu" target="_blank" rel="noopener noreferrer">rmtc@kellogg.edu</a></strong>.</li>
+ 	<li>KCC Academic Advising offices at 269-965-4124 or <strong><a href="mailto:advising@kellogg.edu" target="_blank" rel="noopener noreferrer">advising@kellogg.edu</a></strong>.</li>
+</ul>
+<a name="renewableenergycareers"></a>
+<h2>Renewable Energy Careers</h2>
+<h3>Possible job titles for graduates with an education in renewable energy&nbsp;include:</h3>
+<ul>
+ 	<li>Electrician</li>
+ 	<li>Energy auditor</li>
+ 	<li>Energy management technician</li>
+ 	<li>Solar energy installation manager</li>
+ 	<li>Solar energy technician</li>
+ 	<li>Sustainability specialist</li>
+ 	<li>Wind energy project manager</li>
+</ul>
+<h3>Projected Job Outlook &amp; Salary Info</h3>
+For the latest employment and wage estimates for renewable energy careers in Michigan, visit the&nbsp; <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">U.S. Department of Labor's Bureau of Labor Statistics website</a>.</strong>
+<a name="studyrenewableenergyatkcc"></a>
+<h2>Why Study Renewable Energy at KCC?</h2>
+<h3>RMTC Equipment &amp; Facilities</h3>
+Across Michigan, there are few facilities like the Regional Manufacturing Technology Center, which KCC started in 1990 as a way to serve the workforce needs of the industries that are active and growing in south central Michigan. Thanks to an ongoing commitment from the College, private employers and local, state and federal agencies, the RMTC is a premier provider of industrial and skilled-trades education with highly experienced instructors and top-notch equipment. Machinery used for training at the RMTC is similar or identical to the equipment that students will use in the workplace.
+<h3>Self-Paced Learning</h3>
+Because of the self-paced instructional model at the RMTC, students can move at their own pace through the modules and units. As their work and life schedules allow, they can spend as many or as few hours each week learning alongside our instructors, who are available in labs during lab hours.
+
+Please see the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/RMTC-Fall-2021-Lab-Schedule-1.pdf" target="_blank" rel="noreferrer noopener">RMTC Fall 2021 Lab Schedule</a> </strong>for current lab hour availability.
+<h3>Prior-Learning Credits</h3>
+Students who hold a journeyman or U.S. Department of Labor (USDOL) apprenticeship certificate are eligible to receive prior learning credits that can be applied toward a KCC certificate or degree.
+<h3>Tour the RMTC</h3>
+Prospective students have an open invitation to visit the RMTC to take a tour of the facility, meet instructors and learn more about individual programs.
+<h2></h2>
