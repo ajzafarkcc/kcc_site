@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Credit Calculator</title>
+        <meta charset="UTF-8" />
+        <script type="text/javascript">
+            var last; // record which field was last edited, so a date change modifies the expected field
+
+            function weeks_left(d) {
+                var sem_end = new Date(2021,11,17);
+                var one_week = 1000 * 60 * 60 * 24 * 7;
+                document.getElementById("weeksleft").value = Math.ceil((sem_end - new Date(d)) / one_week);
+            }
+
+            function wkhrs_updated() {
+                last = wkhrs_updated;
+                document.getElementById("credit").value = (document.getElementById("wkhrs").value * document.getElementById("weeksleft").value / 24).toFixed(2);
+            }
+
+            function credit_updated() {
+                last = credit_updated;
+                document.getElementById("wkhrs").value = (document.getElementById("credit").value * 24 / document.getElementById("weeksleft").value).toFixed(2);
+            }
+
+            last = wkhrs_updated
+            window.onload = function() {
+                    var start = document.getElementById("daystart");
+                    var n = new Date();
+                    start.value = n.getFullYear() + "-" +
+                        ("0" + (n.getMonth() + 1)).slice(-2) + "-" +
+                        n.getDate();
+                    start.addEventListener("change", function() { weeks_left(start.value); last(); });
+                    document.getElementById("wkhrs").addEventListener("change", wkhrs_updated);
+                    document.getElementById("credit").addEventListener("change", credit_updated);
+                    weeks_left(start.value);
+                };
+
+
+        </script>
+    </head>
+    <body>
+
+        <form id="calc">
+            <label for="daystart">Starting day for class</label>
+            <input type="text" id="daystart" name="daystart" /><br>
+            <label for="weeksleft">Weeks left in semester</label>
+            <input type="text" id="weeksleft" name="weeksleft" readonly /><br>
+            <label for="wkhrs">Hours worked per week</label>
+            <input type="text" id="wkhrs" name="wkhrs" value="10" /><br>
+            <label for="credit">Credit Hours</label>
+            <input type="text" id="credit" name="credit" />
+        </form>
+
+    </body>
+</html>
