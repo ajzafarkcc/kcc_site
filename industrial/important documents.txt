@@ -1,9 +1,5 @@
-<h2>Career Center&nbsp;Articulation</h2>
 <ul>
-<li>Calhoun Area Career Center</li>
-<li>Branch Area Career Center</li>
 </ul>
-<p>The <strong><a title="High School Articulation Form" href="https://www.kellogg.edu/wp-content/uploads/2014/03/ArticulatedTechCourse1.pdf" target="_blank" rel="noopener noreferrer">Request for an Articulated Technical Education Course</a></strong>&nbsp;form must be submitted with a program cost sheet (program outline)&nbsp;and a career center transcript. To obtain a program cost sheet (program outline) for the industrial trades program which corresponds to the student's technical education course of study, click on the appropriate program found&nbsp;on the left side of your screen.</p>
 <h2>Company Sponsored Students</h2>
 <h2>Lab Schedules</h2>
 <p>Lab Schedules are revised at the start of each semester and may be revised during the semester for unscheduled closures. Currently, the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/RMTC-Fall-2021-Lab-Schedule-1.pdf" target="_blank" rel="noreferrer noopener">RMTC Fall 2021 Lab Schedule</a></strong>&nbsp;is available online. Please check the semester lab schedule prior to visiting the RMTC.</p>
@@ -25,6 +21,8 @@ In order to receive end-of-semester progress reports on sponsored students, ther
 If a student feels they are unable to finish one or more modules by the end of the semester, they can work with their program's respective faculty to submit an <a href="/wp-content/uploads/2021/09/RMTC_Incomplete_Contract.pdf" target="_blank" rel="noreferrer noopener"><strong>incomplete contract</strong></a>. Once approved, the student will receive an I grade for Incomplete and be permitted a full year after the end of the semester to finish the module(s) on the incomplete contract. Without the incomplete contract, the student would receive an N for No Credit and be required to pay for the module(s) a second time in order to finish them.
 
 Incomplete contracts can also be <strong><a href="mailto:rmtc@kellogg.edu">submitted via email</a>;</strong> however, only those sent from a KCC email address will be considered.
+<h2>Career Center Articulation</h2>
+The <strong><a title="High School Articulation Form" href="/wp-content/uploads/2014/03/ArticulatedTechCourse1.pdf" target="_blank" rel="noopener noreferrer">Request for an Articulated Technical Education Course</a></strong> form must be submitted with a <a href="#costsheet"><strong>program cost sheet</strong></a> and a career center transcript. Note that at least one semester must be completed at KCC before articulation can be considered.
 <h2>Available Online Module Content</h2>
 <ul>
 <li><strong>Online Learning Options:</strong> Information about online options is listed below by program. If a module is not listed, unfortunately it is not an online option. See the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/05/Industrial-Trades-Online-Modules-Reference-Sheet.pdf">Industrial Trades Online Modules Reference Sheet</a></strong> for a list of online module content available.
