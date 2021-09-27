@@ -22,14 +22,5 @@ Incomplete contracts can also be <strong><a href="mailto:rmtc@kellogg.edu">submi
 <h2>Career Center Articulation</h2>
 The <strong><a title="High School Articulation Form" href="/wp-content/uploads/2014/03/ArticulatedTechCourse1.pdf" target="_blank" rel="noopener noreferrer">Request for an Articulated Technical Education Course</a></strong> form must be submitted with a <a href="#costsheet"><strong>program cost sheet</strong></a> and a career center transcript. Note that at least one semester must be completed at KCC before articulation can be considered.
 <h2>Available Online Module Content</h2>
+Students can complete <a href="/wp-content/uploads/2021/05/Industrial-Trades-Online-Modules-Reference-Sheet.pdf" target="_blank" rel="noreferrer noopener"><strong>certain modules</strong></a> offered here entirely online. Once a student is registered, all content for these courses can be found entirely on <strong><a href="http://moodle.kellogg.edu/" target="_blank" rel="noreferrer noopener">Moodle</a>.</strong>
 <ul>
-<li><strong>Online Learning Options:</strong> Information about online options is listed below by program. If a module is not listed, unfortunately it is not an online option. See the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/05/Industrial-Trades-Online-Modules-Reference-Sheet.pdf">Industrial Trades Online Modules Reference Sheet</a></strong> for a list of online module content available.
-<ul>
-<li>All modules listed on the reference sheet are available fully online by logging into Moodle via the KCC student portal at <strong><a href="https://moodle.kellogg.edu/">https://moodle.kellogg.edu/</a> </strong>unless otherwise noted.</li>
-</ul>
-</li>
-</ul>
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
