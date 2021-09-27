@@ -20,17 +20,6 @@
 <p><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Renewable-Energy.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Renewable Energy</a></strong></p>
 <p><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-ToolDie.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Tool and Die</a></strong></p>
 <p><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Instrumentation.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Instrumentation</a></strong></p>
-<h2>Incomplete Contracts</h2>
-<ul>
-<li><b>Module Incomplete Grades:</b> If an incomplete grade is requested for a module, students will need to work with their faculty to submit an Incomplete Contract. Here are some important things to remember about Incomplete Contracts:
-<ul>
-<li>As incomplete grades will no longer be automatically awarded, grades of N "No Credit" will be entered for any student with an incomplete module for which a contract is not in place. This means a student would have to register and pay for the module again in the future to continue work on it.</li>
-<li>Students must connect with program faculty to complete the Incomplete Contract, and both the student and faculty must sign it. The original will be left with faculty, and the student is encouraged to keep a copy for their records. It is up to faculty discretion as to whether a student will be awarded the requested Incomplete Contract.</li>
-<li>Students can download the Incomplete Contract and directions here - <strong><a href="https://www.kellogg.edu/wp-content/uploads/2020/11/KCC-RMTC-Incomplete-Contract-FA20.pdf">KCC RMTC Incomplete Contract</a>.</strong> To complete and submit the contract electronically, this version of the document can be typed in directly and emailed to program faculty -&nbsp;<strong><a href="https://www.kellogg.edu/wp-content/uploads/2020/11/RMTC-Incompete-Contract-fillable-PDF.-pdf.pdf">RMTC Incomplete Contract - fillable PDF. pdf</a> &nbsp;</strong>It is important to note that only official KCC email addresses can be used in facilitating this process.</li>
-</ul>
-</li>
-<li><strong>Accessing Content from Past Incomplete Modules:</strong> If a student previously received an incomplete grade on a module that is listed as currently available online and would like to continue to work on it, please contact your program faculty for access.</li>
-</ul>
 <h2>Industrial Trades Registration Process</h2>
 <h3>New Students</h3>
 <ul>
@@ -50,6 +39,10 @@
 Sponsored students and their sponsoring company must submit a <strong><a href="/wp-content/uploads/2021/08/Sponsored-Student-Billing-Authorization-Fall-2021.pdf" target="_blank" rel="noreferrer noopener">Sponsored Student Billing Authorization</a></strong> in order to register for classes. If students are not going to complete modules by the end of semester date, they have the option to drop modules before the drop deadline, or speak to their instructor about doing an <a href="incomplete"><strong>incomplete contract</strong></a> to receive incomplete grades.
 
 In order to receive end-of-semester progress reports on sponsored students, there must be a signed <strong><a href="/wp-content/uploads/2018/08/Email-Agreement.pdf" target="_blank" rel="noopener noreferrer">Email Agreement form</a></strong> on file for each company representative who would like to receive a progress report. Students may obtain a copy of their progress report by contacting RMTC staff. Students can also access their unofficial course history at any time through their <strong><a href="http://portal.kellogg.edu/" target="_blank" rel="noreferrer noopener">Bruin student portal</a>.</strong>
+<h2 id="incomplete">Incomplete Contracts</h2>
+If a student feels they are unable to finish one or more modules by the end of the semester, they can work with their program's respective faculty to submit an <a href="/wp-content/uploads/2021/09/RMTC_Incomplete_Contract.pdf" target="_blank" rel="noreferrer noopener"><strong>incomplete contract</strong></a>. Once approved, the student will receive an I grade for Incomplete and be permitted a full year after the end of the semester to finish the module(s) on the incomplete contract. Without the incomplete contract, the student would receive an N for No Credit and be required to pay for the module(s) a second time in order to finish them.
+
+Incomplete contracts can also be <strong><a href="mailto:rmtc@kellogg.edu">submitted via email</a>;</strong> however, only those sent from a KCC email address will be considered.
 <h2>Available Online Module Content</h2>
 <ul>
 <li><strong>Online Learning Options:</strong> Information about online options is listed below by program. If a module is not listed, unfortunately it is not an online option. See the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/05/Industrial-Trades-Online-Modules-Reference-Sheet.pdf">Industrial Trades Online Modules Reference Sheet</a></strong> for a list of online module content available.
