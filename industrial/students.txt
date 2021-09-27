@@ -1,80 +1,33 @@
-Many Industrial Trades processes and procedures are different from standard KCC processes and procedures because of the non-traditional style of instruction. The Industrial Trades Orientation&nbsp;details many of these differences.
-
-Students enrolling in Industrial Trades Programs should follow these steps:
-<h2>Apply to Kellogg Community College</h2>
-Apply to KCC by creating an account and completing application for admission at <strong><a href="https://www.kellogg.edu">www.kellogg.edu</a></strong>. Submit the form at least 24 hours before completing the NEXT GENERATION Accuplacer assessment and registering for modules. The form may be submitted online or in person at the RMTC.
-
-Admission Criteria:
+Although the RMTC utilizes a nontraditional instructional method, becoming a student is a straightforward, three-step process. Thanks to our non-traditional, Open Entry Open Exit style of teaching, students can begin coursework immediately upon registration.
+<ol>
+ 	<li><strong><a href="#apply">Apply to the college</a>.</strong></li>
+ 	<li><strong><a href="#orientation">Complete orientation</a>.</strong></li>
+ 	<li><strong><a href="#register">Register and pay for modules</a>.</strong></li>
+</ol>
+With a little preparation, the entire process can be completed in a single day with a single roughly hour-long visit to the RMTC.Our staff can assist with any part of the process, in person or by phone at 269-965-4137.
+<h2 id="apply">Apply to Kellogg Community College</h2>
+The first step is to <strong><a href="/apply" target="_blank" rel="noopener noreferrer">apply to KCC</a></strong> as any other student. As part of the college's processes, we do require photo ID and proof of address before students can register for modules.
+Every applicant must:
 <ul>
- 	<li>Adults 18 years of age or older, or</li>
- 	<li>High school graduates (or high school equivalency certificate [GED]), or</li>
- 	<li>Completion of a home school program.</li>
+ 	<li>be 18 years of age or older,</li>
+ 	<li>obtained a high school diploma or equivalent (GED), or</li>
+ 	<li>finished a home school program.</li>
 </ul>
-<strong>Important!</strong> Currently enrolled high school students, or currently enrolled home school students ages 14 -17 may apply through Dual Enrollment (additional approvals and/or materials may be required).
-<h3>Admissions Contact Information</h3>
-Phone: 269-965-4153
-Email: <strong><a href="mailto:adm@kellogg.edu">adm@kellogg.edu</a></strong>
-Web:&nbsp;<strong><a title="Admissions" href="https://www.kellogg.edu/admissions/" target="_blank" rel="noopener noreferrer">www.kellogg.edu/admissions</a></strong>
-<h2>Complete Assessment Testing</h2>
-Assessment testing is not required for Industrial Trades Certificate programs. It is only required for Industrial Trades Associate in Applied Science Degree Programs.
+We do also accept <strong><a href="/academics/departments/industrial-trades/youth-training/" target="_blank" rel="noopener noreferrer">dual enrolled students</a>.</strong>
+<h2 id="orientation">Complete Orientation</h2>
+After applying to KCC, peruse <strong><a href="/academics/departments/industrial-trades/orientation/" target="_blank" rel="noreferrer noopener">our orientation page</a></strong> and visit the RMTC to meet with an instructor in your chosen program(s) to learn more about the program and outline a selection of courses that suits your needs. Once done, our staff can record the orientation, enabling registration for modules.
+<h2 id="register">Register for Modules</h2>
+With orientation completed and proof of address supplied, students are free to register for modules via the <strong><a href="https://portal.kellogg.edu/" target="_blank" rel="noopener noreferrer">Bruin portal</a> (<a href="/wp-content/uploads/2021/02/Registration-Guide.pdf" target="_blank" rel="noreferrer noopener">Registration Guide</a>).</strong> Alternatively our staff are more than willing to register students.
 
-Assessment scores are a prerequisite for many general education courses required for an Industrial Trades Associate in Applied Science Degree. Students pursuing a degree are required to complete testing prior to seeking advising.
-
-Please see the Testing and Assessment department website at <strong><a href="https://www.kellogg.edu/admissions/testing-assessment/placement/" target="_blank" rel="noreferrer noopener">https://www.kellogg.edu/admissions/testing-assessment/placement/</a></strong> for more information and available testing times.
-<h3>Testing and Assessment Contact Information</h3>
-Phone: 269-965-4136
-Email:<strong>&nbsp;<a href="mailto:testing@kellogg.edu">testing@kellogg.edu</a></strong>
-Web:&nbsp;<strong><a title="Testing &amp; Assessment" href="https://www.kellogg.edu/admissions/testing-assessment/" target="_blank" rel="noopener noreferrer">www.kellogg.edu/admissions/testing-assessment</a></strong>
-<h2>Meet with a Program Instructor</h2>
-After applying to KCC, meet with an Industrial Trades program instructor during the Industrial Trades orientation to learn more about the Industrial Trades Program selected. If considering an Associate in Applied Science, meet with&nbsp;the Industrial Trades KCC Academic Advisor, after completing the Assessment Testing and&nbsp;after meeting with the Industrial Trades program instructor to:
+In all cases, KCC requires payment for courses within 24 hours of registration, whether that's out of pocket, <strong><a href="/admissions/financial-aid/" target="_blank" rel="noreferrer noopener">using financial aid</a>,</strong> or through a <strong><a href="/academics/departments/industrial-trades/companies/" target="_blank" rel="noopener noreferrer">company sponsorship</a>.</strong> Staff must verify payment is made in order to register students as well. Financial aid students must also <strong><a href="https://portal.kellogg.edu/Student/Finance/NelnetPayments" target="_blank" rel="noopener noreferrer">enroll in a payment plan</a>.</strong>
+<h2>Additional Information</h2>
+If considering an Associate in Applied Science, be sure to meet with <strong><a href="mailto:houstonm@kellogg.edu">Michael Houston in Academic Advising</a></strong> in order to
 <ul>
+ 	<li>Arrange to take the Next Generation ACCUPLACER</li>
  	<li>Select appropriate general education courses</li>
  	<li>Understand graduation requirements</li>
  	<li>Navigate the transfer process</li>
  	<li>Identify and access career resources</li>
  	<li>Seek appropriate college resources</li>
 </ul>
-<h3>Academic Advising Contact Information</h3>
-Phone: 269-965-4124
-Email: <strong><a href="mailto:advising@kellogg.edu" target="_blank" rel="noopener noreferrer">advising@kellogg.edu</a></strong>
-Web:&nbsp;<strong><a title="Academic Advising" href="https://www.kellogg.edu/services/academic-advising/" target="_blank" rel="noopener noreferrer">www.kellogg.edu/services/academic-advising</a></strong>
-<h2>Apply for Financial Aid</h2>
-Industrial Trades programs may be covered by financial aid. To determine financial aid eligibility, submit the <strong><a title="FAFSA Website" href="http://www.fafsa.ed.gov" target="_blank" rel="noopener noreferrer">Free Application for Federal Student Aid (FAFSA)</a> </strong>online at least three months prior to the semester in which you plan to start training. This should provide sufficient time to process the application. Go to the FAFSA website at <strong><a href="http://www.fafsa.ed.gov">www.fafsa.ed.gov</a></strong> to apply.
-
-Go to the KCC web site at <strong><a href="http://www.kellogg.edu/financial">www.kellogg.edu/financial</a></strong> for eligibility requirements and information on grants, scholarships, student loans, work-study, and veteran’s benefits.
-
 All financial aid information will be transmitted via the Self Service section within the KCC Bruin Portal. Students should periodically review financial aid information through the KCC Bruin Portal and watch for emails, which will provide financial aid information.
-<h3>Financial Aid &amp; Scholarships Contact Information</h3>
-Phone: 269-965-4123
-Email: <strong><a href="mailto:finaid@kellogg.edu">finaid@kellogg.edu</a></strong>
-Web:&nbsp;<strong><a title="Financial Aid &amp; Scholarships" href="https://www.kellogg.edu/admissions/financial-aid-scholarships/" target="_blank" rel="noopener noreferrer">www.kellogg.edu/admissions/financial-aid-scholarships</a></strong>
-Fill out FAFSA:&nbsp;<strong><a title="FAFSA" href="http://www.fafsa.ed.gov" target="_blank" rel="noopener noreferrer">www.fafsa.ed.gov</a></strong>
-<h2>Complete the Industrial Trades Orientation</h2>
-<h3>Industrial Trades Program Orientations</h3>
-Industrial Trades Students must complete the Industrial Trades Orientation Module. The Orientation Module consists of the <strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/orientation/" target="_blank" rel="noopener noreferrer">online orientation</a>,</strong> which contains general information about the RMTC, as well as a meeting with a program instructor for each program that the student intends to enroll in. The orientation modules are free of charge.
-
-The program orientation module is a prerequisite for program modules. Industrial Trades students must meet this prerequisite in order to register for modules within their chosen program of study.
-<h3>Industrial Trades Department</h3>
-Phone: 269-965-4137
-Email: <strong><a href="mailto:rmtc@kellogg.edu">rmtc@kellogg.edu</a></strong>
-Web:&nbsp;<strong><a title="Industrial Trades" href="https://www.kellogg.edu/academics/departments/industrial-trades/" target="_blank" rel="noopener noreferrer">www.kellogg.edu/academics/departments/industrial-trades</a></strong>
-<h2>Register for Modules</h2>
-Industrial Trades students may register for modules online via the <strong><a title="KCC Web Portal" href="https://klive.kellogg.edu/CookieAuth.dll?GetLogon?curl=Z2F&amp;reason=0&amp;formdir=6" target="_blank" rel="noopener noreferrer">KCC Web Portal</a>.</strong> Assistance registering online is available at the RMTC or in the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/02/Registration-Guide.pdf" target="_blank" rel="noreferrer noopener">Registration Guide</a>.</strong>
-
-<strong>Important!</strong> Students must establish residency prior to registration. See KCC's&nbsp;<strong><a title="Publications" href="http://catalog.kellogg.edu" target="_blank" rel="noopener noreferrer">Academic Catalog</a></strong> for acceptable documentation for establishing and proving your residency.
-<h3>Records and Registration Contact Information</h3>
-Phone: 269-965-5522
-Email: <strong><a href="mailto:regoffice@kellogg.edu">regoffice@kellogg.edu</a></strong>
-Web:&nbsp;<strong><a title="Registrar" href="https://www.kellogg.edu/admissions/registrar/" target="_blank" rel="noopener noreferrer">www.kellogg.edu/admissions/registrar</a></strong>
-<h2>Pay for Modules</h2>
-Students (including those with awarded financial aid) have two payment options:
-<ul>
- 	<li>Payment in full when registering for classes</li>
- 	<li>Enrollment in a payment plan (through the student Bruin Portal)</li>
-</ul>
-After registering for classes students have 24 hours to pay in full or enroll in a payment plan. Failure to pay in full or enroll in a payment plan&nbsp;will result in classes being dropped.
-
-Important! In order to take advantage of this payment plan, students must register during traditional registration periods.
-<h3>Business Office Contact Information</h3>
-Phone: 269-965-4140
-Email: <strong><a href="mailto:busoffice@kellogg.edu">busoffice@kellogg.edu</a></strong>
