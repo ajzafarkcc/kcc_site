@@ -1,23 +1,26 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Credit Calculator</title>
-        <meta charset="UTF-8" />
-        <script type="text/javascript" src="credit_calc.js">
-        </script>
-    </head>
-    <body>
+  <head>
+    <title>Credit Calculator</title>
+    <meta charset="UTF-8" />
+    <script type="text/javascript" src="credit_calc.js">
+    </script>
+  </head>
+  <body>
 
-        <form id="calc">
-            <label for="daystart">Starting day for class</label>
-            <input type="text" id="daystart" name="daystart" /><br/>
-            <label for="weeksleft">Weeks left in semester</label>
-            <input type="text" id="weeksleft" name="weeksleft" readonly /><br/>
-            <label for="wkhrs">Hours worked per week</label>
-            <input type="text" id="wkhrs" name="wkhrs" value="10" /><br/>
-            <label for="credit">Credit Hours</label>
-            <input type="text" id="credit" name="credit" />
-        </form>
+    <form id="calc">
+      <label for="daystart">Choose your starting date:</label>
+      <input type="text" id="daystart" name="daystart" /><br/>
+      Semester: <span id="sem">current semester</span><br/>
+      Semester start: <span id="sem_start">2021-08-30</span><br/>
+      Semester end: <span id="sem_end">2021-12-17</span><br/>
+      <label for="weeksleft">Weeks left in semester</label>
+      <input type="text" id="weeksleft" name="weeksleft" readonly /><br/>
+      <label for="wkhrs">Hours worked per week</label>
+      <input type="text" id="wkhrs" name="wkhrs" value="10" /><br/>
+      <label for="credit">Credit Hours</label>
+      <input type="text" id="credit" name="credit" />
+    </form>
 
-    </body>
+  </body>
 </html>
