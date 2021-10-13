@@ -1,5 +1,15 @@
-Kellogg Community College offers several partnership opportunities for business and industry, including workforce training through the College's Workforce Solutions and Industrial Trades Departments.
+At Kellogg Community College, we offer several partnership opportunities for business and industry.
+<div style="columns: 2 200px;margin-bottom: 1.25em">
+<div id="trades" style="margin-right: 5em">
+<h2><a href="/academics/departments/industrial-trades/industrial-trades/">Industrial Trades</a></h2>
+<img style="max-width: 90%;height: auto;margin-bottom: 1em" src="/wp-content/uploads/2013/12/RMTC_03.jpg" alt="Instructor Jason Moore demonstrates operation of a machine cell">
+KCC's industrial trades department offers certification in several trades utilizing an innovative, nontraditional instructional style enabling students to learn at their own pace on their own schedule.
 
-To learn more about customized training for groups of employees, please visit <strong><a href="https://www.kellogg.edu/business-industry/workforce-solutions/" target="_blank" rel="noopener noreferrer">Workforce Solutions</a>.</strong>
+</div>
+<div id="wfs" style="margin-right: 1em">
+<h2><a href="/business-industry/workforcesolutions">Workforce Solutions</a></h2>
+<img style="max-width: 80%;height: auto;margin-bottom: 1em" src="/wp-content/uploads/2014/02/WorkforceGraphic.png" alt="Any Class, Any Group, Any Time, Any Location">
+Our Workforce Solutions department offers cost-effective, high-quality, and flexible learning solutions designed to suit your company's needs.
 
-For more information on open-entry, open-exit individualized skilled trades training, please&nbsp;visit <strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-trades/" target="_blank" rel="noopener noreferrer">Industrial Trades</a>.</strong>
+</div>
+</div>

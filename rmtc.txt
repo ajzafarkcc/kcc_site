@@ -1,5 +1,20 @@
-The Regional Manufacturing Technology Center (RMTC) is an innovative, community-driven training facility in the Fort Custer Industrial Park in Battle Creek, Michigan. The facility is home to KCC's Industrial Trades and Workforce Solutions. Together, these departments design training programs using blended learning techniques.
+Across Michigan, there are few facilities like the Regional Manufacturing Technology Center (RMTC), which KCC started in 1990 as a way to serve the workforce needs of the industries that are active and growing in south central Michigan. Thanks to an ongoing commitment from the College, private employers and local, state and federal agencies, the RMTC is a premier provider of industrial and skilled-trades education with highly experienced instructors and top-notch equipment. Machinery used for training at the RMTC is similar or identical to the equipment that students will use in the workplace.
 
+The facility is home to KCC's <strong><a href="/industrial" target="_blank" rel="noopener noreferrer">Industrial Trades programs</a></strong> and <strong><a href="/business-industry/workforcesolutions/" target="_blank" rel="noopener noreferrer">Workforce Solutions</a>.</strong> The RMTC is an innovative, community-driven training facility in the Fort Custer Industrial Park in Battle Creek where these departments design training programs using blended learning techniques.
+<div style="columns: 2 200px;margin-bottom: 1.25em">
+<div id="trades" style="margin-right: 5em">
+<h2><a href="/academics/departments/industrial-trades/industrial-trades/">Industrial Trades</a></h2>
+<img style="max-width: 90%;height: auto;margin-bottom: 1em" src="/wp-content/uploads/2013/12/RMTC_03.jpg" alt="Instructor Jason Moore demonstrates operation of a machine cell">
+KCC's industrial trades department offers certification in several trades utilizing an innovative, nontraditional instructional style enabling students to learn at their own pace on their own schedule.
+
+</div>
+<div id="wfs" style="margin-right: 1em">
+<h2><a href="/business-industry/workforcesolutions">Workforce Solutions</a></h2>
+<img style="max-width: 80%;height: auto;margin-bottom: 1em" src="/wp-content/uploads/2014/02/WorkforceGraphic.png" alt="Any Class, Any Group, Any Time, Any Location">
+Our Workforce Solutions department offers cost-effective, high-quality, and flexible learning solutions designed to suit your company's needs.
+
+</div>
+</div>
 Training programs are designed to meet the employee training needs of area business and industry. The innovative approach to training enables the RMTC to respond to training needs quickly and efficiently. Training is available to individuals on a walk-in basis or can be scheduled to meet production and service schedules and may be provided either at the worksite, at the RMTC or at any location in the community.
 
-To find out more about training available through the RMTC, please spend a few minutes reviewing this website or contact the RMTC directly at 269-965-4137.
+<strong><a href="/academics/departments/industrial-trades/contact-us/" target="_blank" rel="noopener noreferrer">Contact us</a></strong> today to see how we can suit your training needs.
