@@ -1,22 +1,56 @@
-The Industrial Technology Program at Kellogg Community College trains students in the fundamentals of how to install, maintain and repair manufacturing equipment in a variety of settings, from the robotic machines that assemble products to the hydraulics and pneumatics that control mechanical motion. Simply put, this program will teach students how to figure things out.
+<img class="alignright size-full wp-image-35882" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-Industrial-Tech-lab-11-25-19.jpg" alt="A KCC Industrial Electricity/Electronics student works with electrical equipment at the RMTC." width="430" height="287">The Industrial Technology program at Kellogg Community College fosters the ingenuity of students who like taking things apart. This program hinges on the complex problem solving involved in the installation and maintenance of a variety of manufacturing equipment ranging from hydraulic and pneumatic systems to robotic and automated systems. Additionally the program emphasizes quality control and blueprint reading to ensure products meet standards and specifications.
 
-It's designed for students who like taking things apart, solving complex problems, understanding how things work and don't mind getting dirty.
+KCC offers a certificate and an associate degree in Industrial Technology, as well as the more generalized Skilled Trades associate degree. Specific requirements can be found in the <strong><a href="http://catalog.kellogg.edu/" target="_blank" rel="noopener noreferrer">Academic Catalog</a>.</strong>
+<ul>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1736" target="_blank" rel="noreferrer noopener">Industrial Technology Certificate</a></strong> (30 credits)</li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1735" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Industrial Technology</a></strong> (60 credits)</li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
+</ul>
+<h3>Industry-Recognized Certifications</h3>
+The Industrial Technology program at KCC offers a series of industry-recognized certifications, including:
+<ul>
+ 	<li>Forklift operation</li>
+ 	<li>Occupational Safety and Health Administration (OSHA) certifications in OSHA 10 and OSHA 30</li>
+ 	<li>Manufacturing Skills Standards Council (MSSC) Certified Production Technician in the areas of safety, quality and manufacturing processes</li>
+ 	<li>American Society for Quality (ASQ) certifications for quality inspectors, quality process analysts and quality improvement associates</li>
+ 	<li>Society of Manufacturing Engineering certifications for certified manufacturing technologists</li>
+ 	<li>Aerial platform operation</li>
+</ul>
+<h3>Instrumentation Modules</h3>
+Students enrolled in Instrumentation modules at the RMTC will learn process control, measurement instrumentation, pressure measurement, force weight and motion in instrumentation, flow measurement, level measurement, temperature measurement, analytical measurement and final control elements.
 
-KCC offers the following Industrial Technology Program credentials:
+View the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Instrumentation-1.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Instrumentation cost sheet</a></strong> for a complete listing of modules and their costs, or contact <strong><a href="mailto:kruegert@kellogg.edu">program instructor Tim Krueger</a>.</strong>
+
+<h2 id="industrialtechnologycareers">Industrial Technology Careers</h2>
+People trained in Industrial Technology at KCC are prepared for rewarding, long-term work in a wide variety of settings.
+Possible job titles for graduates with an education in industrial technology include:
 <ul>
- 	<li>Industrial Technology Certificate (30 credits)</li>
- 	<li>Associate in Applied Science: Industrial Technology (60 credits)</li>
+ 	<li>Robotics technician</li>
+ 	<li>Machine technician</li>
+ 	<li>Maintenance mechanic</li>
+ 	<li>Electro-mechanical technician</li>
+ 	<li>Mechanical engineering technician</li>
+ 	<li>Machine repair technician</li>
+ 	<li>Multi-skilled maintenance repair technician</li>
+ 	<li>Industrial engineering technician</li>
+ 	<li>Manufacturing production technician</li>
+ 	<li>Quality technician</li>
 </ul>
-<h2>For more information about KCC’s Industrial Technology&nbsp;Program, see:</h2>
+With additional education after the program, opportunities include:
 <ul>
- 	<li>KCC's latest&nbsp;<strong><a href="http://catalog.kellogg.edu" target="_blank" rel="noopener noreferrer">Academic Catalog</a></strong></li>
- 	<li>KCC’s&nbsp;<strong><a href="https://www.kellogg.edu/wp-content/uploads/2018/11/RMTC_Overall-program-brochure.pdf" target="_blank" rel="noopener noreferrer">Industrial Trades program brochure</a></strong></li>
- 	<li>KCC's<strong> <a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Industrial Technology Cost Sheet</a></strong></li>
- 	<li>Information about <strong><a href="#industrialtechnologycareers">industrial technology&nbsp;careers</a></strong></li>
- 	<li>Information about <strong><a href="#studyindustrialtechnologyatkcc">why you should study industrial&nbsp;technology&nbsp;at KCC</a></strong></li>
+ 	<li>Business/shop owner</li>
+ 	<li>Engineer</li>
+ 	<li>Facilities manager</li>
+ 	<li>Maintenance supervisor</li>
+ 	<li>Manufacturing/process engineer</li>
+ 	<li>Production supervisor</li>
+ 	<li>Quality control engineer</li>
+ 	<li>Service manager</li>
 </ul>
+<h3>Projected Job Outlook &amp; Salary Info</h3>
+For the latest employment and wage estimates for Industrial Technology careers in Michigan, visit the <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">Bureau of Labor Statistics website</a>.</strong>
 <h2>Course Sequences</h2>
-Unlike traditional academic courses, the offerings in KCC’s Industrial Technology&nbsp;Program&nbsp;consist of short modules that are components of larger units. Modules are often less than 1 credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from one to 30 modules, depending on the area of instruction.
+Unlike traditional academic courses, the offerings in KCC’s Industrial Technology program consist of short modules that are components of larger units. Modules are often less than one credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from one to 30 modules, depending on the area of instruction.
 
 Industrial Technology modules carry the course designator INT as detailed in the most recent <a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener"><strong>Fall 2021 Industrial Technology Cost Sheet.</strong></a> Units in this program include:
 <table>
@@ -29,7 +63,7 @@ Industrial Technology modules carry the course designator INT as detailed in the
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center">Unit 5</td>
+<td style="text-align: center">Unit 05</td>
 <td style="text-align: left">Mathematics</td>
 <td style="text-align: center">4.92</td>
 </tr>
@@ -78,64 +112,4 @@ Industrial Technology modules carry the course designator INT as detailed in the
 <h2>Transfer Opportunities</h2>
 <strong><a href="https://www.kellogg.edu/services/academic-advising/educational-planning/transfer-guides/" target="_blank" rel="noopener noreferrer">Transfer Guides</a></strong> are available to view opportunities for students looking to transfer their KCC credits to a four-year institution. Popular transfer destinations for KCC’s Industrial Technology students include Siena Heights University and Western Michigan University.
 
-For additional advice on transfer opportunities, contact:
-<ul>
- 	<li>KCC’s Regional Manufacturing Technology Center at 269-965-4137 or <strong><a href="mailto:rmtc@kellogg.edu" target="_blank" rel="noopener noreferrer">rmtc@kellogg.edu</a></strong>.</li>
- 	<li>KCC Academic Advising offices at 269-965-4124 or <strong><a href="mailto:advising@kellogg.edu" target="_blank" rel="noopener noreferrer">advising@kellogg.edu</a></strong>.</li>
-</ul>
-<a name="industrialtechnologycareers"></a>
-<h2>Industrial Technology Careers</h2>
-People trained in Industrial Technology at KCC are prepared for rewarding, long-term work in a wide variety of settings.
-Possible job titles for graduates with an education in industrial technology include:
-<ul>
- 	<li>Robotics&nbsp;technician</li>
- 	<li>Machine technician</li>
- 	<li>Maintenance mechanic</li>
- 	<li>Electro-mechanical technician</li>
- 	<li>Mechanical engineering technician</li>
- 	<li>Machine repair technician</li>
- 	<li>Multi-skilled maintenance repair technician</li>
- 	<li>Industrial engineering technician</li>
- 	<li>Manufacturing production technician</li>
- 	<li>Quality technician</li>
-</ul>
-With additional education after the program, opportunities include:
-<ul>
- 	<li>Business/shop owner</li>
- 	<li>Engineer</li>
- 	<li>Facilities manager</li>
- 	<li>Maintenance supervisor</li>
- 	<li>Manufacturing/process engineer</li>
- 	<li>Production supervisor</li>
- 	<li>Quality control engineer</li>
- 	<li>Service manager</li>
-</ul>
-<h3>Projected Job Outlook &amp; Salary Info</h3>
-For the latest employment and wage estimates for industrial technology careers in Michigan, visit the U.S. Department of Labor’s Bureau of Labor Statistics website at <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">U.S. Department of Labor's Bureau of Labor Statistics website</a>.</strong>
-<a name="studyindustrialtechnologyatkcc"></a>
-<h2>Why Study&nbsp;Industrial Technology at KCC?</h2>
-The Industrial Technology Program at KCC includes significant instruction in the area of robotics, a branch of mechanical engineering that involves the installation, programming, maintenance, operation and repair of robotic machines and automated systems. The program also emphasizes quality control, which is the skill of inspecting components, reading blueprints and examining products and systems to determine how well they meet standards and specifications.
-<h3>Industry-Recognized Certifications</h3>
-The Industrial Technology Program at KCC offers a series of industry-recognized certifications, including:
-<ul>
- 	<li>Manufacturing Skills Standards Council (MSCC) Certified Production Technician in the areas of safety, quality and manufacturing processes</li>
- 	<li>American Society for Quality (ASQ) certifications for quality inspectors, quality process analysts and quality improvement associates</li>
- 	<li>Society of Manufacturing Engineering certifications for certified manufacturing technologists</li>
- 	<li>Occupational Safety and Health Administration (OSHA) certifications in OSHA 10 and OSHA 30</li>
- 	<li>Forklift operation</li>
- 	<li>Aerial platform operation</li>
-</ul>
-<h3>RMTC Equipment &amp; Facilities</h3>
-Across Michigan, there are few facilities like the Regional Manufacturing Technology Center, which KCC started in 1990 as a way to serve the workforce needs of the industries that are active and growing in south central Michigan. Thanks to an ongoing commitment from the College, private employers and local, state and federal agencies, the RMTC is a premier provider of industrial and skilled-trades education with highly experienced instructors and top-notch equipment. Machinery used for training at the RMTC is similar or identical to the equipment that students will use in the workplace.
-<h3>Self-Paced Learning</h3>
-Because of the self-paced instructional model at the RMTC, students can move at their own pace through the modules and units. As their work and life schedules allow, they can spend as many or as few hours each week learning alongside our instructors, who are available in labs day and night.
-
-Please see the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/RMTC-Fall-2021-Lab-Schedule-1.pdf" target="_blank" rel="noreferrer noopener">RMTC Fall 2021 Lab Schedule</a> </strong>for current available lab hours.
-<h3>Prior-Learning Credits</h3>
-Students who hold a journeyman or U.S. Department of Labor (USDOL) apprenticeship certificate are eligible to receive prior learning credits that can be applied toward a KCC certificate or degree.
-<h3>Tour the RMTC</h3>
-Prospective students have an open invitation to visit the RMTC to take a tour of the facility, meet instructors and learn more about individual programs.
-<h2>Instrumentation Modules</h2>
-Students enrolled in Instrumentation modules&nbsp;at the RMTC will learn process control, measurement instrumentation, pressure measurement, force weight and motion in instrumentation, flow measurement, level measurement, temperature measurement, analytical measurement and final control elements.
-
-View the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Instrumentation-1.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Instrumentation cost sheet</a> </strong><b></b>for a complete listing of modules and their costs, or contact program instructor Tim Krueger at <strong><a href="mailto:kruegert@kellogg.edu">kruegerti@kellogg.edu</a>.</strong>
+For additional advice on transfer opportunities, contact <strong><a href="https://www.kellogg.edu/services/academic-advising/" target="_blank" rel="noopener noreferrer">our academic advising department</a>.</strong>

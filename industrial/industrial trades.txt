@@ -1,49 +1,29 @@
-<a href="https://www.kellogg.edu/wp-content/uploads/2016/01/Industrial-Trades-at-KCC.jpg"><img class="alignright wp-image-36207" src="https://www.kellogg.edu/wp-content/uploads/2016/01/Industrial-Trades-at-KCC.jpg" alt="An Industrial Trades student works with equipment at KCC's RMTC." width="430" height="287"></a>Students who have completed 25 or more credits in any combination of Industrial Trades core curricula may earn an Industrial Trades Certificate. This program is available for students who are enrolled in multi-craft apprenticeship programs. Students must seek approval from the director of the RMTC prior to applying for graduation.
+<img class="alignright wp-image-36207" src="https://www.kellogg.edu/wp-content/uploads/2016/01/Industrial-Trades-at-KCC.jpg" alt="An Industrial Trades student works with equipment at KCC's RMTC." width="430" height="287">Recognizing that many students may be interested in or require training in multiple trades, Kellogg Community College offers credentials for those students. While this targets students in multi-craft apprenticeship programs, anyone is able to pursue these credentials.
+
+<p><strong>The Industrial Trades Certificate is not eligible for financial aid.</strong></p>
 
 KCC offers the following Industrial Trades credential:
 <ul>
- 	<li>Industrial Trades Certificate (25 credits)</li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1729" target="_blank" rel="noreferrer noopener">Industrial Trades Certificate</a></strong> (25 credits)</li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
 </ul>
-For more information about KCC’s Industrial Trades&nbsp;Program, see:
+<h2 id="industrialtradescareers">Industrial Trades Careers</h2>
+Students with an education in Industrial Trades work in a variety of career fields. For more information about careers in specific Industrial Trades areas, visit the following KCC Industrial Trades web pages:
 <ul>
- 	<li>KCC's latest&nbsp;<strong><a href="http://catalog.kellogg.edu" target="_blank" rel="noopener noreferrer">Academic Catalog</a></strong></li>
- 	<li>Information about <strong><a href="#industrialtradescareers">industrial trades&nbsp;careers</a></strong></li>
- 	<li>Information about <strong><a href="#studyindustrialtradesatkcc">why you should study industrial trades&nbsp;at KCC</a></strong></li>
-</ul>
-<h2>Course Sequences</h2>
-Course sequences vary in the Industrial Trades Program depending on any given student’s area of study. For information and advice on coursework to satisfy the requirements of the Industrial Trades Certificate, contact&nbsp;KCC’s Regional Manufacturing Technology Center at 269-965-4137 or <strong><a href="mailto:rmtc@kellogg.edu" target="_blank" rel="noopener noreferrer">rmtc@kellogg.edu</a>.</strong>
-<h2>Transfer&nbsp;Opportunities</h2>
-<strong><a href="https://www.kellogg.edu/services/academic-advising/educational-planning/transfer-guides/" target="_blank" rel="noopener noreferrer">Transfer Guides</a></strong> are available to view opportunities for students looking to transfer their KCC credits to a four-year institution. Popular transfer destinations for KCC’s Industrial Trades students include Siena Heights University and Western Michigan University.
-
-For additional advice on transfer opportunities, contact:
-<ul>
- 	<li>KCC’s Regional Manufacturing Technology Center at 269-965-4137 or <strong><a href="mailto:rmtc@kellogg.edu" target="_blank" rel="noopener noreferrer">rmtc@kellogg.edu</a></strong></li>
- 	<li>KCC Academic Advising offices at 269-965-4124 or <strong><a href="mailto:advising@kellogg.edu" target="_blank" rel="noopener noreferrer">advising@kellogg.edu</a></strong></li>
-</ul>
-<a name="industrialtradescareers"></a>
-<h2>Industrial Trades Careers</h2>
-Students with an education in Industrial Trades work in a variety of career fields. For more information about careers in specific Industrial Trades areas, visit the following KCC&nbsp;Industrial Trades Web pages:
-<ul>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-electricityelectronics/" target="_blank" rel="noopener noreferrer">Industrial Electricity and Electronics</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-hvac-r/" target="_blank" rel="noopener noreferrer">Industrial Heating, Ventilation, Air Conditioning and Refrigeration (HVAC-R)</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-machining-technology/" target="_blank" rel="noopener noreferrer">Industrial Machining Technology</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-pipefitting/" target="_blank" rel="noopener noreferrer">Industrial Pipefitting</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-technology/" target="_blank" rel="noopener noreferrer">Industrial Technology</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-welding/" target="_blank" rel="noopener noreferrer">Industrial Welding</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/renewable-energy/" target="_blank" rel="noopener noreferrer">Renewable Energy</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-electricityelectronics/" target="_blank" rel="noopener noreferrer">Industrial Electricity and Electronics</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-hvac-r/" target="_blank" rel="noopener noreferrer">Industrial Heating, Ventilation, Air Conditioning and Refrigeration (HVAC-R)</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-machining-technology/" target="_blank" rel="noopener noreferrer">Industrial Machining Technology</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-pipefitting/" target="_blank" rel="noopener noreferrer">Industrial Pipefitting</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-technology/" target="_blank" rel="noopener noreferrer">Industrial Technology</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-welding/" target="_blank" rel="noopener noreferrer">Industrial Welding</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/renewable-energy/" target="_blank" rel="noopener noreferrer">Renewable Energy</a></strong></li>
 </ul>
 <h3>Projected Job Outlook &amp; Salary Info</h3>
-For the latest employment and wage estimates for industrial trades&nbsp;careers in Michigan, visit the U.S. Department of Labor’s Bureau of Labor Statistics website at <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">www.bls.gov/oes/current/oes_mi.htm</a>.</strong>
-<a name="studyindustrialtradesatkcc"></a>
-<h2>Why Study Industrial Trades at KCC?</h2>
-<h3>RMTC Equipment &amp; Facilities</h3>
-Across Michigan, there are few facilities like the Regional Manufacturing Technology Center, which KCC started in 1990 as a way to serve the workforce needs of the industries that are active and growing in south central Michigan. Thanks to an ongoing commitment from the College, private employers and local, state and federal agencies, the RMTC is a premier provider of industrial and skilled-trades education with highly experienced instructors and top-notch equipment. Machinery used for training at the RMTC is similar or identical to the equipment that students will use in the workplace.
-<h3>Self-Paced Learning</h3>
-Because of the self-paced instructional model at the RMTC, students can move at their own pace through the modules and units. As their work and life schedules allow, they can spend as many or as few hours each week learning alongside our instructors, who are available in labs day and night.
+For the latest employment and wage estimates for Industrial Trades careers in Michigan, visit the <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">Bureau of Labor Statistics website</a>.</strong>
+<h2>Course Sequences</h2>
+Course sequences vary in the Industrial trades program depending on each student's goals and areas of study. In addition to the sequences of each individual program (found at the links above), <strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/contact-us/#secondary" target="_blank" rel="noreferrer noopener">contact our faculty</a></strong> to help outline a course sequence.
 
-Please see the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/RMTC-Fall-2021-Lab-Schedule-1.pdf" target="_blank" rel="noreferrer noopener">RMTC Fall 2021 Lab Schedule</a></strong>&nbsp;for current lab hour availability.
-<h3>Prior-Learning Credits</h3>
-Students who hold a journeyman or U.S. Department of Labor (USDOL) apprenticeship certificate are eligible to receive prior learning credits that can be applied toward a KCC certificate or degree.
-<h3>Tour the RMTC</h3>
-Prospective students have an open invitation to visit the RMTC to take a tour of the facility, meet instructors and learn more about individual programs.
-<h2></h2>
+<h2>Transfer Opportunities</h2>
+<strong><a href="https://www.kellogg.edu/services/academic-advising/educational-planning/transfer-guides/" target="_blank" rel="noopener noreferrer">Transfer Guides</a></strong> are available to view opportunities for students looking to transfer their KCC credits to a four-year institution. Popular transfer destinations for KCC’s Industrial Trades students include Siena Heights University and Western Michigan University.
+
+For additional advice on transfer opportunities, contact <strong><a href="https://www.kellogg.edu/services/academic-advising/" target="_blank" rel="noopener noreferrer">our academic advising department</a>.</strong>

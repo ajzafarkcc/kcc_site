@@ -1,135 +1,120 @@
-<a href="https://www.kellogg.edu/wp-content/uploads/2016/01/kcc-welding.jpg"><img class="alignright wp-image-36212" src="https://www.kellogg.edu/wp-content/uploads/2016/01/kcc-welding.jpg" alt="Kellogg Community College welding instructor Blaine Lautzenheiser welds at the college's Regional Manufacturing Technology Center." width="430" height="285"></a>Welding is the most common way of permanently joining metal parts. Through welding, heat is applied to metal pieces, melting and fusing them to form a permanent bond. There are a variety of welding processes, including stick, MIG and TIG. The Industrial Welding Program at Kellogg Community College prepares students to weld many different metals in various positions using each of these processes.
+<img class="alignright wp-image-36212" src="https://www.kellogg.edu/wp-content/uploads/2016/01/kcc-welding.jpg" alt="Kellogg Community College welding instructor Blaine Lautzenheiser welds at the college's Regional Manufacturing Technology Center." width="430" height="285">Welding is the most common way of permanently joining metal parts. Through welding, heat is applied to metal pieces, melting and fusing them to form a permanent bond. There are a variety of welding processes, including stick, MIG and TIG. The Industrial Welding program at Kellogg Community College prepares students to weld many different metals in various positions using each of these processes.
 
-KCC offers the following Industrial Welding credentials:
-<ul>
- 	<li>Industrial Welding Certificate (25 credits)</li>
- 	<li>Associate in Applied Science: Industrial Welding (60 credits)</li>
-</ul>
-<h3>For more information about KCC’s Industrial Welding Program, see:</h3>
-<ul>
- 	<li>KCC's latest&nbsp;<strong><a href="http://catalog.kellogg.edu" target="_blank" rel="noopener noreferrer">Academic Catalog</a></strong></li>
- 	<li>KCC’s&nbsp;<strong><a href="https://www.kellogg.edu/wp-content/uploads/2018/11/RMTC_Overall-program-brochure.pdf" target="_blank" rel="noopener noreferrer">Industrial Trades program brochure</a></strong></li>
- 	<li>KCC's<strong> <a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Welding.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Welding Cost Sheet</a></strong></li>
- 	<li>Information about <strong><a href="#industrialweldingcareers">industrial welding&nbsp;careers</a></strong></li>
- 	<li>Information about <strong><a href="#studyindustrialweldingatkcc">why you should study industrial welding&nbsp;at KCC</a></strong></li>
-</ul>
-<ul>
- 	<li><strong>Welding Students: </strong>Due to the risks presented by the COVID virus in sharing welding gear, all students will be required to provide their own Personal Protective Equipment (PPE) going forward. Students will not be allowed to weld in the lab without this gear.
-<ul>
- 	<li><strong>Where to Purchase PPE:</strong> Direct from local vendor – Airgas, <strong><a href="https://www.airgas.com/">https://www.airgas.com/</a></strong> or 2475 W Dickman Rd, Springfield, MI&nbsp; 49037, phone (269) 963-7929. <em>On your own</em> - It is recommended you verify with a KCC welding instructor whether an item is appropriate before making any purchases on your own.</li>
- 	<li><strong>Required PPE:</strong> 1) Work boots/shoes (determined by student), 2) Welding helmet (Lincoln 1740 helmet or similar), 3) Welding jacket (green FR type jacket (not brand specific), 4) Welding gloves, 5) Oxy-fuel face shield (#5, not brand specific), and 6) Safety glasses (determined by student). Estimated cost excluding shoes $125 to $150.</li>
-</ul>
-</li>
-</ul>
-<h2>Course Sequences</h2>
-Unlike traditional academic courses, the offerings in KCC’s Industrial Welding&nbsp;Program&nbsp;consist of short modules that are components of larger units. Modules are often less than 1 credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from one to 30 modules, depending on the area of instruction.
+KCC offers a variety of American Welding Society (AWS) and American Society of Mechanical Engineers (ASME) certifications, including shielded metal arc welding (SMAW), gas metal arc welding (GMAW) and gas tungsten arc welding (GTAW). As part of the curriculum, KCC offers students vast amounts of hands-on training time in a state-of-the-art welding lab. As they learn to become expert welders, KCC students can expect to spend less time in the classroom and more time on the RMTC training floor mastering welding skills according to AWS standards.
 
-Industrial Welding modules carry the course designator INWE as detailed in the most recent <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Welding.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Welding Cost Sheet.</a></strong> Units in this program include:
-<table>
-<thead>
-<tr>
-<th style="text-align: center">Unit</th>
-<th style="text-align: center">Title</th>
-<th style="text-align: center">Credits</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center">Unit 5</td>
-<td style="text-align: left">Basics of Welding</td>
-<td style="text-align: center">.43</td>
-</tr>
-<tr>
-<td style="text-align: center">Unit 10</td>
-<td style="text-align: left">Oxyacetylene Welding</td>
-<td style="text-align: center">1.54</td>
-</tr>
-<tr>
-<td style="text-align: center">Unit 15</td>
-<td style="text-align: left">Cutting Processes</td>
-<td style="text-align: center">.79</td>
-</tr>
-<tr>
-<td style="text-align: center">Unit 20</td>
-<td style="text-align: left">Brazing and Soldering</td>
-<td style="text-align: center">.92</td>
-</tr>
-<tr>
-<td style="text-align: center">Unit 25</td>
-<td style="text-align: left">Shielded Metal Arc Welding</td>
-<td style="text-align: center">4.02</td>
-</tr>
-<tr>
-<td style="text-align: center">Unit 30</td>
-<td style="text-align: left">Advanced Arc Welding</td>
-<td style="text-align: center">5.74</td>
-</tr>
-<tr>
-<td style="text-align: center">Unit 35</td>
-<td style="text-align: left">Welding Metallurgy</td>
-<td style="text-align: center">1.27</td>
-</tr>
-<tr>
-<td style="text-align: center">Unit 40</td>
-<td style="text-align: left">Gas Metal Arc Welding</td>
-<td style="text-align: center">2.80</td>
-</tr>
-<tr>
-<td style="text-align: center">Unit 45</td>
-<td style="text-align: left">Gas Tungsten Arc Welding</td>
-<td style="text-align: center">5.01</td>
-</tr>
-<tr>
-<td style="text-align: center">Unit 50</td>
-<td style="text-align: left">Pipe Welding</td>
-<td style="text-align: center">4.37</td>
-</tr>
-<tr>
-<td style="text-align: center">Unit 55</td>
-<td style="text-align: left">Special Applications</td>
-<td style="text-align: center">1.68</td>
-</tr>
-</tbody>
-</table>
-<h2>Transfer Opportunities</h2>
-<strong><a href="https://www.kellogg.edu/services/academic-advising/educational-planning/transfer-guides/" target="_blank" rel="noopener noreferrer">Transfer Guides</a></strong> are available to view opportunities for students looking to transfer their KCC credits to a four-year institution. Popular transfer destinations for KCC’s Industrial Welding students include Ferris State University, Siena Heights University and Western Michigan University.
-<h3>For additional advice on transfer opportunities, contact:</h3>
+KCC offers a certificate and an associate degree in Industrial Welding, as well as the more generalized Skilled Trades associate degree. Specific requirements and course details can be found in the <strong><a href="http://catalog.kellogg.edu/" target="_blank" rel="noopener noreferrer">Academic Catalog</a>.</strong>
 <ul>
- 	<li>KCC’s Regional Manufacturing Technology Center at 269-965-4137 or <strong><a href="mailto:rmtc@kellogg.edu" target="_blank" rel="noopener noreferrer">rmtc@kellogg.edu</a>.</strong></li>
- 	<li>KCC Academic Advising offices at 269-965-4124 or <strong><a href="mailto:advising@kellogg.edu">advising@kellogg.edu</a>.</strong></li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1742" target="_blank" rel="noreferrer noopener">Industrial Welding Certificate</a></strong> (25 credits)</li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1741" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Industrial Welding</a></strong> (60 credits)</li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
 </ul>
-<a name="industrialweldingcareers"></a>
-<h2>Industrial Welding Careers</h2>
+<h3>Welding Personal Protective Equipment (PPE)</h3>
+Due to the risks presented by COVID-19, all students are required to provide their own PPE for use in the welding lab. Students will not be allowed to weld in the lab without this gear.
+
+PPE can be purchased directly from <strong><a href="https://airgas.com" target="_blank" rel="noopener noreferrer">Airgas</a></strong>, who have a <strong><a href="https://locations.airgas.com/mi/springfield/airgas-store-n017.html" target="_blank" rel="noopener noreferrer">branch on Dickman Rd</a>.</strong> Contact the <strong><a href="mailto:welding@kellogg.edu">welding instructors</a></strong> if unsure about any equipment purchases.
+
+The following items are needed, with an estimated cost of $125 to $150 excluding shoes.
+<ul>
+  <li>Safety glasses</li>
+  <li>Work boots</li>
+  <li>Welding helmet (Lincoln 1740 helmet or similar)</li>
+  <li>Welding jacket (green fire-resistant type jacket, not brand specific)</li>
+  <li>Welding gloves</li>
+  <li>Oxy-fuel face shield (#5, not brand specific)</li>
+</ul>
+<h2 id="industrialweldingcareers">Industrial Welding Careers</h2>
 Welders work in a variety of industries, including construction, transportation, manufacturing, aerospace, ship building and maintenance and repair services. They also work in the mining, oil and gas extraction industries. There are a host of specialties within the field of welding, including underwater, robotic and laser welding.
-<h3>Possible job titles for graduates with an education in industrial welding&nbsp;include:</h3>
+
+Possible job titles for graduates with an education in Industrial Welding include:
 <ul>
- 	<li>Fabricator</li>
- 	<li>Maintenance technician</li>
- 	<li>Pipefitter</li>
- 	<li>Robotic welding technician</li>
- 	<li>Sheet metal worker</li>
- 	<li>Welding technician</li>
+  <li>Fabricator</li>
+  <li>Maintenance technician</li>
+  <li>Pipefitter</li>
+  <li>Robotic welding technician</li>
+  <li>Sheet metal worker</li>
+  <li>Welding technician</li>
 </ul>
-<h3>With additional education after the program, opportunities include:</h3>
+With additional education after the program, opportunities include:
 <ul>
- 	<li>Business/shop owner</li>
- 	<li>Certified welding inspector/educator (CWI or CWE)</li>
- 	<li>Production supervisor</li>
- 	<li>Sales manager</li>
- 	<li>Welding engineer</li>
+  <li>Business/shop owner</li>
+  <li>Certified welding inspector/educator (CWI or CWE)</li>
+  <li>Production supervisor</li>
+  <li>Sales manager</li>
+  <li>Welding engineer</li>
 </ul>
 <h3>Projected Job Outlook &amp; Salary Info</h3>
 For the latest employment and wage estimates for industrial welding careers in Michigan, visit the <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">U.S. Department of Labor's Bureau of Labor Statistics</a></strong> website<strong>.</strong>
-<a name="studyindustrialweldingatkcc"></a>
-<h2>Why Study Industrial Welding at KCC?</h2>
-KCC offers a variety of American Welding Society (AWS) and American Society of Mechanical Engineers (ASME) certifications, including shielded metal arc welding (SMAW), gas metal arc welding (GMAW) and gas tungsten arc welding (GTAW). As part of the curriculum, KCC offers students vast amounts of hands-on training time in a state-of-the-art welding lab. As they learn to become expert welders, KCC students can expect to spend less time in the classroom and more time on the RMTC training floor mastering welding skills according to AWS standards.
-<h3>RMTC Equipment &amp; Facilities</h3>
-Across Michigan, there are few facilities like the Regional Manufacturing Technology Center, which KCC started in 1990 as a way to serve the workforce needs of the industries that are active and growing in south central Michigan. Thanks to an ongoing commitment from the College, private employers and local, state and federal agencies, the RMTC is a premier provider of industrial and skilled-trades education with highly experienced instructors and top-notch equipment. Machinery used for training at the RMTC is similar or identical to the equipment that students will use in the workplace.
-<h3>Self-Paced Learning</h3>
-Because of the self-paced instructional model at the RMTC, students can move at their own pace through the modules and units. As their work and life schedules allow, they can spend as many or as few hours each week learning alongside our instructors, who are available in labs during lab hours.
+<h2>Course Sequences</h2>
+Unlike traditional academic courses, the offerings in KCC’s Industrial Welding program consist of short modules that are components of larger units. Modules are often less than one credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from one to 30 modules, depending on the area of instruction.
 
-Please see the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/RMTC-Fall-2021-Lab-Schedule-1.pdf" target="_blank" rel="noreferrer noopener">RMTC Fall 2021 Lab Schedule</a> </strong>for current lab availability.
-<h3>Prior-Learning Credits</h3>
-Students who hold a journeyman or U.S. Department of Labor (USDOL) apprenticeship certificate are eligible to receive prior learning credits that can be applied toward a KCC certificate or degree.
-<h3>Tour the RMTC</h3>
-Prospective students have an open invitation to visit the RMTC to take a tour of the facility, meet instructors and learn more about individual programs.
+Industrial Welding modules carry the course designator INWE as detailed in the most recent <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Welding.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Welding Cost Sheet.</a></strong> Units in this program include:
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Unit</th>
+      <th style="text-align: center">Title</th>
+      <th style="text-align: center">Credits</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Unit 05</td>
+      <td style="text-align: left">Basics of Welding</td>
+      <td style="text-align: center">.43</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Unit 10</td>
+      <td style="text-align: left">Oxyacetylene Welding</td>
+      <td style="text-align: center">1.54</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Unit 15</td>
+      <td style="text-align: left">Cutting Processes</td>
+      <td style="text-align: center">.79</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Unit 20</td>
+      <td style="text-align: left">Brazing and Soldering</td>
+      <td style="text-align: center">.92</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Unit 25</td>
+      <td style="text-align: left">Shielded Metal Arc Welding</td>
+      <td style="text-align: center">4.02</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Unit 30</td>
+      <td style="text-align: left">Advanced Arc Welding</td>
+      <td style="text-align: center">5.74</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Unit 35</td>
+      <td style="text-align: left">Welding Metallurgy</td>
+      <td style="text-align: center">1.27</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Unit 40</td>
+      <td style="text-align: left">Gas Metal Arc Welding</td>
+      <td style="text-align: center">2.80</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Unit 45</td>
+      <td style="text-align: left">Gas Tungsten Arc Welding</td>
+      <td style="text-align: center">5.01</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Unit 50</td>
+      <td style="text-align: left">Pipe Welding</td>
+      <td style="text-align: center">4.37</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Unit 55</td>
+      <td style="text-align: left">Special Applications</td>
+      <td style="text-align: center">1.68</td>
+    </tr>
+  </tbody>
+</table>
+<h2>Transfer Opportunities</h2>
+<strong><a href="https://www.kellogg.edu/services/academic-advising/educational-planning/transfer-guides/" target="_blank" rel="noopener noreferrer">Transfer Guides</a></strong> are available to view opportunities for students looking to transfer their KCC credits to a four-year institution. Popular transfer destinations for KCC’s Industrial Welding students include Ferris State University, Siena Heights University and Western Michigan University.
+
+For additional advice on transfer opportunities, contact <strong><a href="https://www.kellogg.edu/services/academic-advising/" target="_blank" rel="noopener noreferrer">our academic advising department</a>.</strong>
