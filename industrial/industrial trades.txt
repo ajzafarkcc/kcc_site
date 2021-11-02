@@ -1,6 +1,6 @@
 <img class="alignright wp-image-36207" src="https://www.kellogg.edu/wp-content/uploads/2016/01/Industrial-Trades-at-KCC.jpg" alt="An Industrial Trades student works with equipment at KCC's RMTC." width="430" height="287">Recognizing that many students may be interested in or require training in multiple trades, Kellogg Community College offers credentials for those students. While this targets students in multi-craft apprenticeship programs, anyone is able to pursue these credentials.
 
-<p><strong>The Industrial Trades Certificate is not eligible for financial aid.</strong></p>
+<p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb; overflow: hidden;"><strong>The Industrial Trades Certificate is not eligible for financial aid.</strong></p>
 
 KCC offers the following Industrial Trades credential:
 <ul>
