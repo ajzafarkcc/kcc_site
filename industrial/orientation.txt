@@ -1,93 +1,45 @@
 <h2 style="text-align: center">Welcome to Kellogg Community College's Regional Manufacturing Technology Center!</h2>
-<h2 style="text-align: center"><img class="wp-image-42831 alignright" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-sign-11-25-19-300x195.jpg" alt="An exterior view of the RMTC" width="430" height="280"></h2>
-Please obtain the RMTC Industrial Trades Orientation Packet from the front desk at the RMTC. Read and sign the agreement. After completing all steps in the packet, including reviewing the online orientation below, turn the agreement in to registration desk staff at the time of enrollment.
-<h3>Regional Manufacturing Technology Center</h3>
-The Regional Manufacturing Technology Center (RMTC) is a regional campus for Kellogg Community College (KCC). Both the <strong><a title="Industrial Trades" href="https://www.kellogg.edu/academics/departments/industrial-trades/" target="_blank" rel="noopener noreferrer">Industrial Trades</a></strong> and <strong><a title="Workforce Solutions" href="https://www.kellogg.edu/business-industry/workforce-solutions/" target="_blank" rel="noopener noreferrer">Workforce Solutions</a></strong> programs are headquartered at the RMTC.
-<h3>Industrial Trades Programs</h3>
-Industrial Trades Programs are offered at:
+<img class="wp-image-42831 alignright" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-sign-11-25-19-300x195.jpg" alt="An exterior view of the RMTC" width="430" height="280">
+The Regional Manufacturing Technology Center (RMTC) is a regional campus for Kellogg Community College (KCC) and home to all industrial trades programs offered by KCC. Limited offerings are also available at other locations:
 <ul>
- 	<li>the RMTC (Battle Creek, MI)
-<ul>
- 	<li>Industrial Welding</li>
- 	<li>Industrial Machining Technology</li>
- 	<li>Industrial Electricity and Electronics</li>
- 	<li>Industrial Technology</li>
- 	<li>Industrial Heating, Ventilation, Air Conditioning and Refrigeration (HVAC-R)</li>
- 	<li>Industrial Pipefitting</li>
- 	<li>Renewable Energy</li>
- 	<li>Industrial Tool &amp; Die</li>
- 	<li>Instrumentation</li>
-</ul>
-</li>
- 	<li>the<strong> <a title="Branch Area Careers Center" href="http://branchisd.org/bacc/" target="_blank" rel="noopener noreferrer">Branch Area Careers Center</a></strong>&nbsp;(Coldwater, MI)
-<ul>
- 	<li>Industrial Electricity and Electronics</li>
- 	<li>Industrial Machining Technology</li>
- 	<li>Industrial Technology</li>
-</ul>
-</li>
- 	<li>Hastings High School&nbsp;(Hastings, MI)
-<ul>
- 	<li>Industrial Welding</li>
-</ul>
-</li>
- 	<li>The Eastern Academic Center (Albion, MI)
+ 	<li>Eastern Academic Center (EAC) in Albion, MI</li>
 <ul>
  	<li>Industrial Technology</li>
  	<li>Industrial Electricity/Electronics</li>
  	<li>Industrial Welding</li>
 </ul>
-</li>
+ 	<li>the<strong> <a title="Branch Area Careers Center" href="http://branchisd.org/bacc/" target="_blank" rel="noopener noreferrer">Branch Area Careers Center</a></strong> (BACC) in Coldwater, MI</li>
+<ul>
+ 	<li>Industrial Electricity and Electronics</li>
+ 	<li>Industrial Machining Technology</li>
+ 	<li>Industrial Technology</li>
 </ul>
-The Industrial Trades Programs are provided in a non-traditional format, which is often described using terms such as open entry open exit, modular, and competency-based. To learn more about the open-entry open-exit format visit the <a title="Industrial Trades" href="https://www.kellogg.edu/academics/departments/industrial-trades/" target="_blank" rel="noopener noreferrer"><strong>Industrial Trades</strong></a>&nbsp;page on the website.
+ 	<li>Hastings High School</li>
+<ul>
+ 	<li>Industrial Welding</li>
+</ul>
+</ul>
+The Industrial Trades programs are provided in a non-traditional format, which is often described using terms such as open entry open exit, modular, and competency-based. To learn more about the open-entry open-exit format visit the <a title="Industrial Trades" href="https://www.kellogg.edu/academics/departments/industrial-trades/" target="_blank" rel="noopener noreferrer"><strong>Industrial Trades</strong></a> page on the website.
 <h2>Kellogg Community College</h2>
 Since Industrial Trades students are KCC students, all policies and procedures which apply to KCC students also apply to Industrial Trades students. KCC policies and procedures are discussed within two KCC documents - the Student Handbook and the <strong><a href="http://catalog.kellogg.edu" target="_blank" rel="noopener noreferrer">Academic Catalog</a>.</strong> To learn more about programs, services, and extra-curricular activities available at KCC, take the <strong><a title="Orientation" href="https://www.kellogg.edu/admissions/orientation/" target="_blank" rel="noopener noreferrer">Online Student Orientation</a>.</strong> All RMTC students must apply to KCC. Students may complete the online <strong><a title="Online Application for Admissions" href="https://apply.kellogg.edu" target="_blank" rel="noopener noreferrer">Application for Admission</a>.</strong>
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
 
-<h2>Location and Parking</h2>
-<p style="text-align: center"><img class="wp-image-42832 aligncenter" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-parking-area-11-25-19-300x200.jpg" alt="RMTC parking lot" width="430" height="287"></p>
-The RMTC is located in Fort Custer Industrial Park just west of Battle Creek. Maps to the RMTC are located online and in the RMTC program guide. There is plenty of parking at the RMTC. No parking permits are required.
-<h2>Registration Desk</h2>
-<p style="text-align: center"><img class="wp-image-42833 aligncenter" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-Front-Desk-11-25-19-300x200.jpg" alt="RMTC front desk" width="430" height="287"></p>
-The first stop at the RMTC should be the registration desk in the front office. Registration staff help students with orientation and registration. If no registration staff are available, go through the doorway into the Resource Center and request assistance from Resource Center staff.
-All students are required to register for Industrial Trades modules online using the Self Service system, located in the Bruin Portal.&nbsp;<a href="https://www.kellogg.edu/wp-content/uploads/2018/11/Registration-Guide.pdf">
-</a>
-
-Wait! Sponsored students must have a <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/Sponsored-Student-Billing-Authorization-Fall-2021.pdf" target="_blank" rel="noreferrer noopener">Sponsored Student Billing Authorization - Fall 2021</a></strong><b>&nbsp;</b>on file at the RMTC prior to registering for modules. Check with registration staff to verify billing authorization status.
+Sponsored students must have a <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/Sponsored-Student-Billing-Authorization-Fall-2021.pdf" target="_blank" rel="noreferrer noopener">Sponsored Student Billing Authorization - Fall 2021</a></strong> on file at the RMTC prior to registering for modules. Check with registration staff to verify billing authorization status.
 
 <strong>Note:</strong> Students who are sponsored by a third party or who are receiving financial aid may be required to follow special registration and course completion guidelines.
-<a id="k_id"></a>
+<h2>Hours of Operation</h2>
+The RMTC is open year round with exceptions for holidays, general session, interim session, spring break, and summer break or other college closing dates. There is no instruction or open lab hours between semesters. RMTC closures will be published on the Lab Schedule. Printed copies of the Lab Schedule are available at the Registration Desk, the Resource Center, and are posted throughout the facility.
+
+Please see the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/RMTC-Fall-2021-Lab-Schedule-1.pdf" target="_blank" rel="noreferrer noopener">RMTC Fall 2021 Lab Schedule</a>&nbsp;</strong>for the current semester's hours of operation at the RMTC in Battle Creek, Michigan. Please contact a satellite location for their lab availability.
+
+Sign up for campus alerts to determine if the RMTC is closed. For more information on the types of campus closures or where to find campus closing information, refer to the Student Handbook.
 <h2>K-IDs and Computer Usage</h2>
 All KCC students are assigned a student ID number also referred to as a K-ID (or KCC ID number). The K-ID number should be used in place of a social security number on all KCC documents. Resource Center staff can assist students with K-ID number questions or problems.
 
 The K-ID number is also required for email, Internet access, and the time clock. Resource Center staff can assist students with accessing email and the Internet. All KCC students must abide by the KCC <strong><a title="Acceptable Use Policy" href="https://www.kellogg.edu/services/information-services/acceptable-use-policy/" target="_blank" rel="noopener noreferrer">Acceptable Use Policy</a></strong> when using KCC computers. Please read this policy prior to accessing online services.
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
 <h2>Bruin Portal Instructions</h2>
 <p style="text-align: center"><a href="https://www.kellogg.edu/wp-content/uploads/2014/08/Portal-Login3-e1408495691156.jpg"><img class="alignnone wp-image-26143" src="https://www.kellogg.edu/wp-content/uploads/2014/08/Portal-Login3-e1408495691156.jpg" alt="Portal Login" width="719" height="252"></a></p>
 Students will use the Bruin Portal to access the student email system, register for classes, access online classes, print class schedules, print sponsor progress reports, and look up grades.
 <a id="instcalcredit"></a>
-<h2>Instructions for Calculating Credit</h2>
-<ul>
- 	<li>Get a copy of the lab schedule online under Industrial Trades Important Documents.</li>
- 	<li>From the lab schedule, get the Industrial Trades semester end date.</li>
- 	<li>Count the weeks from your start date to the date classes end.</li>
- 	<li>Determine how many hours per week you plan to attend school.</li>
- 	<li>Multiply the number of weeks by the number of hours you plan to attend. This is the total number of contact hours you will complete in the semester.</li>
- 	<li>Divide this number by 24 (24 contact hours equals one credit hour).</li>
- 	<li>This is the total number of credit hours you should register for in the semester.</li>
-</ul>
-Using your program outline count the number of credit hours for the next consecutive modules.
-<p style="text-align: center"><a href="https://www.kellogg.edu/wp-content/uploads/2014/07/Calculating-Credit-e1404409191357.jpg"><img class="alignnone size-full wp-image-25481" src="https://www.kellogg.edu/wp-content/uploads/2014/07/Calculating-Credit-e1404409191357.jpg" alt="Calculating Credit" width="670" height="412"></a></p>
-16 X 5 = 80 ÷ 24 = 3.33 You should register for modules INEL 05 050 through INEL 15 090. Total registered credit hours for the semester would equal 3.41.
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
-<h2>Dropping Modules</h2>
-Students may drop RMTC modules that have not been completed yet, throughout the drop period. The drop deadline can be found on the RMTC lab schedule each semester. Some modules may not be dropped, such as forklift, OSHA, and assessment modules. See staff for more information.
-
-After the drop period, students may <strong><span style="text-decoration: underline">not</span></strong> drop modules.
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
 <h2>Self Pay Students</h2>
 Self-pay students are students who are paying for their own education with cash, credit, scholarships, loans, or financial aid.
 
@@ -230,38 +182,6 @@ Financial aid and certain sponsored students are required to punch in and out on
 
 Sponsored students are responsible for obtaining their own time clock reports and submitting those reports to their sponsors. See the <a href="https://www.kellogg.edu/wp-content/uploads/2021/05/Time-Clock-Student-Printing-Instructions.pdf" target="_blank" rel="noreferrer noopener"><strong>Timeclock Printing Instructions</strong></a> for information on how to print time clock reports.
 <a id="trainlab"></a>
-<h2>Training Labs</h2>
-Each Industrial Trades Program has one training lab in which students complete hands-on learning activities using specially designed trainers or real-world equipment.
-
-Industrial Electricity/Electronics Lab
-
-<img class="wp-image-42842 aligncenter" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-Electrical-Lab-11-25-19-300x198.jpg" alt="RMTC Electrical Lab" width="430" height="284">
-
-Industrial HVAC-R and Industrial Pipefitting Lab
-
-<img class="wp-image-42843 aligncenter" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-HVAC-lab-11-25-19-300x190.jpg" alt="RMTC HVAC-R and Pipefitting Lab" width="430" height="272">
-
-Industrial Technology Lab
-
-<img class="wp-image-42844 aligncenter" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-Industrial-Tech-lab-11-25-19-300x195.jpg" alt="RMTC Industrial Technology Lab" width="430" height="279">
-
-Industrial Machining Technology Lab
-
-<img class="wp-image-42845 aligncenter" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-Machining-lab-11-25-19-300x199.jpg" alt="RMTC Machining Lab" width="430" height="285">
-
-Industrial Welding Lab
-
-<img class="wp-image-42846 aligncenter" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-Welding-lab-11-25-19-300x200.jpg" alt="RMTC Welding Lab" width="430" height="286">
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
-<h2>Hours of Operation</h2>
-The RMTC is open year round with exceptions for holidays, general session, interim session, spring break, and summer break or other college closing dates. There is no instruction or open lab hours between semesters. RMTC closures will be published on the Lab Schedule. Printed copies of the Lab Schedule are available at the Registration Desk, the Resource Center, and are posted throughout the facility.
-
-Please see the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/RMTC-Fall-2021-Lab-Schedule-1.pdf" target="_blank" rel="noreferrer noopener">RMTC Fall 2021 Lab Schedule</a>&nbsp;</strong>for the current semester's hours of operation at the RMTC in Battle Creek, Michigan. Please contact a satellite location for their lab availability.
-
-Sign up for campus alerts to determine if the RMTC is closed. For more information on the types of campus closures or where to find campus closing information, refer to the Student Handbook.
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
 <h2>Training Lab Guidelines</h2>
 The equipment and materials used in the training lab may be dangerous. Training modules will review safety procedures. The following lab guidelines apply to all RMTC students:
 
@@ -290,25 +210,6 @@ Students<strong> must</strong> <strong>clean</strong> their workstations when fi
 </ul>
 </li>
 </ul>
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
-<h2>Industrial Trades Faculty</h2>
-Any problems, questions, or concerns with learning activities or checkout activities should be immediately addressed with the program instructor. Program instructors are available during the day Monday through Thursday or by appointment.
-
-Kevin Barnes, Faculty, Industrial Electricity and Electronics and Renewable Energy
-
-Tim Krueger, Faculty, Industrial Technology and Instrumentation
-
-Jason Moore, Faculty, Industrial Machining Technology &nbsp;and Industrial Tool &amp; Die
-
-Steve Casselman, Faculty, Industrial Welding
-
-Andrew Redlon, Faculty, Industrial HVAC-R and Industrial Pipefitting
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
-<h2>Other Amenities</h2>
-Basic amenities are available for students. There is a break room with vending machines and tables. There are also quiet study areas located in the Resource Center. Please remember the RMTC is a smoke free facility. Smoking is only allowed outside the south entrance of the building.
-<p style="text-align: center"><img class="wp-image-42847 aligncenter" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-Student-Lounge-11-25-19-300x198.jpg" alt="RMTC Student Lounge" width="430" height="283"></p>
 <p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
 
 <h2>Prior Experiential Learning and Transfer Credit</h2>
