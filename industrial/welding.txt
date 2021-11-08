@@ -2,12 +2,14 @@
 
 KCC offers a variety of American Welding Society (AWS) and American Society of Mechanical Engineers (ASME) certifications, including shielded metal arc welding (SMAW), gas metal arc welding (GMAW) and gas tungsten arc welding (GTAW). As part of the curriculum, KCC offers students vast amounts of hands-on training time in a state-of-the-art welding lab. As they learn to become expert welders, KCC students can expect to spend less time in the classroom and more time on the RMTC training floor mastering welding skills according to AWS standards.
 
-KCC offers a certificate and an associate degree in Industrial Welding, as well as the more generalized Skilled Trades associate degree. Specific requirements and course details can be found in the <strong><a href="http://catalog.kellogg.edu/" target="_blank" rel="noopener noreferrer">Academic Catalog</a>.</strong>
+KCC offers a certificate and an associate degree in Industrial Electricity and Electronics, as well as the more generalized Trades certificate and associate degree geared towards company-sponsored students.
 <ul>
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1742" target="_blank" rel="noreferrer noopener">Industrial Welding Certificate</a></strong> (25 credits)</li>
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1741" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Industrial Welding</a></strong> (60 credits)</li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1729" target="_blank" rel="noreferrer noopener">Industrial Trades Certificate</a></strong> (25 credits)</li>
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
 </ul>
+<p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb; overflow: hidden;"><strong>The Industrial Trades Certificate is not eligible for financial aid.</strong></p>
 <h3>Welding Personal Protective Equipment (PPE)</h3>
 Due to the risks presented by COVID-19, all students are required to provide their own PPE for use in the welding lab. Students will not be allowed to weld in the lab without this gear.
 

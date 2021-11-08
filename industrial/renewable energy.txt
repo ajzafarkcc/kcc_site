@@ -1,10 +1,12 @@
 <img class="alignright wp-image-36216" src="https://www.kellogg.edu/wp-content/uploads/2016/01/KCC-Renewable-Energy.jpg" alt="KCC Industrial Electricity and Electronics professor Kevin Barnes assists a student at the RMTC." width="430" height="289">Kellogg Community College's Industrial Trades Renewal Energy program trains industrial electricians to install, monitor and maintain small-scale solar and wind energy systems in residential, commercial and industrial facilities. The program follows the Electronics Technicians Association training guides for photovoltaic and small-scale wind installers.
 
-KCC offers a certificate in Renewable Energy, as well as the more generalized Skilled Trades associate degree. Specific requirements and course details can be found in the <strong><a href="http://catalog.kellogg.edu/" target="_blank" rel="noopener noreferrer">Academic Catalog</a>.</strong>
+KCC offers a certificate in Renewable Energy, as well as the more generalized Trades certificate and associate degree geared towards company-sponsored students.
 <ul>
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1732" target="_blank" rel="noreferrer noopener">Renewable Energy Certificate</a></strong> (25 credits)</li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1729" target="_blank" rel="noreferrer noopener">Industrial Trades Certificate</a></strong> (25 credits)</li>
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
 </ul>
+<p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb; overflow: hidden;"><strong>The Industrial Trades Certificate is not eligible for financial aid.</strong></p>
 <h2 id="reewableenergycareers">Renewable Energy Careers</h2>
 Possible job titles for graduates with an education in renewable energy include:
 <ul>

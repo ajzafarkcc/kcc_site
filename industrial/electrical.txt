@@ -1,11 +1,13 @@
 <img class="alignright size-full wp-image-35882" src="https://www.kellogg.edu/wp-content/uploads/2016/01/KCC-electricity-electronics.jpg" alt="A KCC Industrial Electricity/Electronics student works with electrical equipment at the RMTC." width="430" height="287">In the processes of advanced manufacturing and electrical construction, electrical and electronic control systems are crucial components that require sophisticated computer programming, monitoring and diagnostics skills. The Industrial Electricity and Electronics program at Kellogg Community College prepares students to install, maintain and repair such systems utilizing our top-notch equipment and self-paced instructional method.
 
-KCC offers a certificate and an associate degree in Industrial Electricity and Electronics, as well as the more generalized Skilled Trades associate degree. Specific requirements and course details can be found in the <strong><a href="http://catalog.kellogg.edu/" target="_blank" rel="noopener noreferrer">Academic Catalog</a>.</strong>
+KCC offers a certificate and an associate degree in Industrial Electricity and Electronics, as well as the more generalized Trades certificate and associate degree company-sponsored students.
 <ul>
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1731" target="_blank" rel="noreferrer noopener">Industrial Electricity and Electronics Certificate</a></strong> (30 credits)</li>
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1730" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Industrial Electricity and Electronics</a></strong> (60 credits)</li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1729" target="_blank" rel="noreferrer noopener">Industrial Trades Certificate</a></strong> (25 credits)</li>
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
 </ul>
+<p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb; overflow: hidden;"><strong>The Industrial Trades Certificate is not eligible for financial aid.</strong></p>
 <h2 id="industrialelectricityelectronicscareers">Industrial Electricity &amp; Electronics Careers</h2>
 Electricians and technicians trained at KCC work for companies and private contractors in a wide variety of residential, commercial and industrial settings, including homes, schools, hospitals, manufacturing facilities, shopping centers, office buildings and apartment complexes. Industrial electricians work in manufacturing facilities on machines and automated equipment.
 
