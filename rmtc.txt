@@ -2,18 +2,18 @@ Across Michigan, there are few facilities like the Regional Manufacturing Techno
 
 The facility is home to KCC's <strong><a href="/industrial" target="_blank" rel="noopener noreferrer">Industrial Trades programs</a></strong> and <strong><a href="/business-industry/workforcesolutions/" target="_blank" rel="noopener noreferrer">Workforce Solutions</a>.</strong> The RMTC is an innovative, community-driven training facility in the Fort Custer Industrial Park in Battle Creek where these departments design training programs using blended learning techniques.
 <div style="columns: 2 200px;margin-bottom: 1.25em">
-<div id="trades" style="margin-right: 5em">
-<h2><a href="/academics/departments/industrial-trades/industrial-trades/">Industrial Trades</a></h2>
-<img style="max-width: 90%;height: auto;margin-bottom: 1em" src="/wp-content/uploads/2013/12/RMTC_03.jpg" alt="Instructor Jason Moore demonstrates operation of a machine cell">
-KCC's Industrial Trades department offers degrees and certificates in several trades utilizing an innovative, nontraditional instructional style enabling students to learn at their own pace on their own schedule.
+  <div id="trades" style="margin-right: 5em">
+    <h2><a href="/academics/departments/industrial-trades/industrial-trades/">Industrial Trades</a></h2>
+    <img style="max-width: 90%;height: auto;margin-bottom: 1em" src="/wp-content/uploads/2013/12/RMTC_03.jpg" alt="Instructor Jason Moore demonstrates operation of a machine cell">
+    KCC's Industrial Trades department offers degrees and certificates in several trades utilizing an innovative, nontraditional instructional style enabling students to learn at their own pace on their own schedule.
 
-</div>
-<div id="wfs" style="margin-right: 1em">
-<h2><a href="/business-industry/workforcesolutions">Workforce Solutions</a></h2>
-<img style="max-width: 80%;height: auto;margin-bottom: 1em" src="/wp-content/uploads/2014/02/WorkforceGraphic.png" alt="Any Class, Any Group, Any Time, Any Location">
-Our Workforce Solutions department offers cost-effective, high-quality, and flexible learning solutions designed to suit your business needs.
+  </div>
+  <div id="wfs" style="margin-right: 1em">
+    <h2><a href="/business-industry/workforcesolutions">Workforce Solutions</a></h2>
+    <img style="max-width: 80%;height: auto;margin-bottom: 1em" src="/wp-content/uploads/2014/02/WorkforceGraphic.png" alt="Any Class, Any Group, Any Time, Any Location">
+    Our Workforce Solutions department offers cost-effective, high-quality, and flexible learning solutions designed to suit your business needs.
 
-</div>
+  </div>
 </div>
 Training programs are designed to meet the employee training needs of area business and industry. The innovative approach to training enables the RMTC to respond to training needs quickly and efficiently. Training is available to individuals on a walk-in basis or can be scheduled to meet production and service schedules and may be provided either at the worksite, at the RMTC or at any location in the community.
 
