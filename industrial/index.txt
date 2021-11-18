@@ -6,14 +6,14 @@ https://www.youtube.com/watch?v=oA5w8KDaHNE
 
 KCC offers the training in the following programs, offering certificates and Associate Degrees:
 <ul>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-electricityelectronics/" target="_blank" rel="noopener noreferrer">Industrial Electricity &amp; Electronics</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-hvac-r/" target="_blank" rel="noopener noreferrer">Industrial Heating, Ventilation, Air Conditioning and Refrigeration (HVAC-R)</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-machining-technology/" target="_blank" rel="noopener noreferrer">Industrial Machining Technology</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-pipefitting/" target="_blank" rel="noopener noreferrer">Industrial Pipefitting</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-technology/" target="_blank" rel="noopener noreferrer">Industrial Technology</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-trades/" target="_blank" rel="noopener noreferrer">Industrial Trades</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-welding/" target="_blank" rel="noopener noreferrer">Industrial Welding</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/renewable-energy/" target="_blank" rel="noopener noreferrer">Renewable Energy</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-electricityelectronics/" target="_blank" rel="noopener noreferrer">Industrial Electricity &amp; Electronics</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-hvac-r/" target="_blank" rel="noopener noreferrer">Industrial Heating, Ventilation, Air Conditioning and Refrigeration (HVAC-R)</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-machining-technology/" target="_blank" rel="noopener noreferrer">Industrial Machining Technology</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-pipefitting/" target="_blank" rel="noopener noreferrer">Industrial Pipefitting</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-technology/" target="_blank" rel="noopener noreferrer">Industrial Technology</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-trades/" target="_blank" rel="noopener noreferrer">Industrial Trades</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-welding/" target="_blank" rel="noopener noreferrer">Industrial Welding</a></strong></li>
+  <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/renewable-energy/" target="_blank" rel="noopener noreferrer">Renewable Energy</a></strong></li>
 </ul>
 For more information about our degree programs, <strong><a href="mailto:FaistJ@kellogg.edu">contact Julia Faist</a>.</strong>
 <h2>Open Entry, Open Exit</h2>
