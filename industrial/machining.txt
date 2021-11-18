@@ -46,7 +46,7 @@ For the latest employment and wage estimates for Industrial Machining careers in
 Unlike traditional academic courses, the offerings in KCC's Industrial Machining Technology program consist of short modules that are components of larger units. Modules are often less than one credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from one to 30 modules, depending on the area of instruction.
 
 Industrial Machining Technology modules carry the course designator INMT as detailed in the most recent <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Machining-Technology.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Machining Technology Cost Sheet</a>.</strong> Units in this program include:
-<table>
+<table style="margin-left: auto; margin-right: auto">
   <thead>
     <tr>
       <th style="text-align: center">Unit</th>

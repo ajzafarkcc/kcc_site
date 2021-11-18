@@ -55,7 +55,7 @@ For the latest employment and wage estimates for Industrial Technology careers i
 Unlike traditional academic courses, the offerings in KCC’s Industrial Technology program consist of short modules that are components of larger units. Modules are often less than one credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from one to 30 modules, depending on the area of instruction.
 
 Industrial Technology modules carry the course designator INT as detailed in the most recent <a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener"><strong>Fall 2021 Industrial Technology Cost Sheet.</strong></a> Units in this program include:
-<table>
+<table style="margin-left: auto; margin-right: auto">
 <thead>
 <tr>
 <th style="text-align: center">Unit</th>

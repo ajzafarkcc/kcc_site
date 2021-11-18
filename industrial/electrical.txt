@@ -37,7 +37,7 @@ For the latest employment and wage estimates for Industrial Electricity and Elec
 Unlike traditional academic courses, the offerings in KCC's Industrial Electricity and Electronics program consist of short modules that are components of larger units. Modules are often less than one credit apiece and can be completed at a student's own pace in a matter of hours or days. Units range from one to 30 modules, depending on the area of instruction.
 
 Industrial Electricity and Electronics modules carry the course designator INEL as detailed in the most recent <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Electricity-1.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Industrial Electricity/Electronics cost sheet.</a></strong> Units in this program include:
-<table>
+<table style="margin-left: auto; margin-right: auto">
   <thead>
     <tr>
       <th style="text-align: center">Unit</th>
