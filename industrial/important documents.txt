@@ -1,16 +1,54 @@
-Our <strong><a href="/wp-content/uploads/2021/08/RMTC-Fall-2021-Lab-Schedule-1.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 lab schedule</a></strong> details our hours as well as important dates throughout the semester. Our location and contact information is included as well.
-<h2 id="costsheet">Fall 2021 Cost Sheets</h2>
-<ul>
- 	<li><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Electricity-2.pdf" target="_blank" rel="noreferrer noopener">Industrial Electricity/Electronics</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-HVACR-1.pdf" target="_blank" rel="noreferrer noopener">Industrial HVAC-R</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Machining-Technology.pdf" target="_blank" rel="noreferrer noopener">Industrial Machining Technology</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Pipefitting.pdf" target="_blank" rel="noreferrer noopener">Industrial Pipefitting</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Industrial Technology</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Welding.pdf" target="_blank" rel="noreferrer noopener">Industrial Welding</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Renewable-Energy.pdf" target="_blank" rel="noreferrer noopener">Renewable Energy</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-ToolDie.pdf" target="_blank" rel="noreferrer noopener">Tool and Die</a></strong></li>
- 	<li><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Instrumentation.pdf" target="_blank" rel="noreferrer noopener">Instrumentation</a></strong></li>
-</ul>
+Our lab schedule for <strong><a href="/wp-content/uploads/2021/08/RMTC-Fall-2021-Lab-Schedule-1.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></strong> and <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/RMTC-Spring-2022-Lab-Schedule.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong> details our hours as well as important dates throughout the semester. Our location and contact information is included as well.
+<h2 id="costsheet">Cost Sheets</h2>
+Our cost sheets for each program lists all the modules we offer in that program as well as important information like credit counts, tuition amounts, and lab fees.
+<table style="margin-left: auto; margin-right: auto">
+  <tr>
+    <td>Industrial Electricity/Electronics</td>
+    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Electricity-2.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></td>
+    <td></strong><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Electricity-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+  </tr>
+  <tr>
+    <td>Industrial HVAC-R</td>
+    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-HVACR-1.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></td>
+    <td></strong><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-HVACR-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+  </tr>
+  <tr>
+    <td>Machining Technology</td>
+    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Machining-Technology.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></td>
+    <td></strong><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Machining-Technology-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+  </tr>
+  <tr>
+    <td>Industrial Pipefitting</td>
+    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Pipefitting.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></td>
+    <td></strong><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Pipefitting-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+  </tr>
+  <tr>
+    <td>Industrial Technology</td>
+    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></td>
+    <td></strong><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Industrial-Technology-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+  </tr>
+  <tr>
+    <td>Industrial Welding</td>
+    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Welding.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></td>
+    <td></strong><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Welding-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+  </tr>
+  <tr>
+    <td>Renewable Energy</td>
+    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Renewable-Energy.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></td>
+    <td></strong><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Renewable-Energy-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+  </tr>
+  <tr>
+    <td>Instrumentation</td>
+    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Instrumentation.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></td>
+    <td></strong><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Instrumentation-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+  </tr>
+  <tr>
+    <td>Tool and Die</td>
+    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-ToolDie.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></td>
+    <td></strong><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-ToolDie-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+  </tr>
+</table>
+
 <h2>Company Sponsored Students</h2>
 Sponsored students and their sponsoring company must submit a <strong><a href="/wp-content/uploads/2021/08/Sponsored-Student-Billing-Authorization-Fall-2021.pdf" target="_blank" rel="noreferrer noopener">Sponsored Student Billing Authorization</a></strong> in order to register for classes. If students are not going to complete modules by the end of semester date, they have the option to drop modules before the drop deadline, or speak to their instructor about doing an <a href="#incomplete"><strong>incomplete contract</strong></a> to receive incomplete grades.
 
