@@ -23,7 +23,8 @@ Students enrolled in Instrumentation modules at the RMTC will learn process cont
 
 View the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Instrumentation-1.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Instrumentation cost sheet</a></strong> for a complete listing of modules and their costs, or contact <strong><a href="mailto:kruegert@kellogg.edu">program instructor Tim Krueger</a>.</strong>
 
-<h2 id="industrialtechnologycareers">Industrial Technology Careers</h2>
+<a id="industrialtechnologycareers"></a>
+<h2 id="careers">Industrial Technology Careers</h2>
 People trained in Industrial Technology at KCC are prepared for rewarding, long-term work in a wide variety of settings.
 Possible job titles for graduates with an education in industrial technology include:
 <ul>
@@ -51,7 +52,7 @@ With additional education after the program, opportunities include:
 </ul>
 <h3>Projected Job Outlook &amp; Salary Info</h3>
 For the latest employment and wage estimates for Industrial Technology careers in Michigan, visit the <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">Bureau of Labor Statistics website</a>.</strong>
-<h2>Course Sequences</h2>
+<h2 id="sequences">Course Sequences</h2>
 Unlike traditional academic courses, the offerings in KCC’s Industrial Technology program consist of short modules that are components of larger units. Modules are often less than one credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from one to 30 modules, depending on the area of instruction.
 
 Industrial Technology modules carry the course designator INT as detailed in the most recent <a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener"><strong>Fall 2021 Industrial Technology Cost Sheet.</strong></a> Units in this program include:

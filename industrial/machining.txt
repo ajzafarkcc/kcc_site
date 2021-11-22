@@ -15,7 +15,8 @@ KCC offers a certificate and an associate degree in Industrial Electricity and E
 Our Tool and Die modules are designed for company-sponsored students who are working as machinists or toolmakers. Our Tool and Die instructor will work with the student or company to find specific modules within the Tool and Die curriculum which will best serve the student’s individual needs. Students will learn how to heat-treat steel and how to design and make jigs, fixtures, gauges, dies and molds.
 
 View the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-ToolDie-1.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Tool and Die cost sheet</a></strong> for a complete listing of modules and their costs, or contact <strong><a href="mailto:moorej@kellogg.edu">program instructor Jason Moore</a>.</strong>
-<h2>Industrial Machining Technology Careers</h2>
+<a id="industrialmachiningtechnologycareers"></a>
+<h2 id="careers">Industrial Machining Technology Careers</h2>
 Industrial Machining Technology is a rewarding, viable field for students who demonstrate mechanical aptitude, enjoy creating things with their hands and have the skills to use precision tools. Career opportunities for such students in this program cover a variety of industries.
 
 Possible job titles for graduates with an education in Industrial Machining Technology include:
@@ -42,7 +43,7 @@ With additional education after the program, opportunities include:
 <h3>Projected Job Outlook &amp; Salary Info</h3>
 For the latest employment and wage estimates for Industrial Machining careers in Michigan, visit the <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">Bureau of Labor Statistics website</a>.</strong>
 
-<h2>Course Sequences</h2>
+<h2 id="sequences">Course Sequences</h2>
 Unlike traditional academic courses, the offerings in KCC's Industrial Machining Technology program consist of short modules that are components of larger units. Modules are often less than one credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from one to 30 modules, depending on the area of instruction.
 
 Industrial Machining Technology modules carry the course designator INMT as detailed in the most recent <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Machining-Technology.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Machining Technology Cost Sheet</a>.</strong> Units in this program include:

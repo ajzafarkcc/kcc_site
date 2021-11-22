@@ -7,7 +7,8 @@ KCC offers a certificate in Renewable Energy, as well as the more generalized Tr
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
 </ul>
 <p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb; overflow: hidden;"><strong>The Industrial Trades Certificate is not eligible for financial aid.</strong></p>
-<h2 id="reewableenergycareers">Renewable Energy Careers</h2>
+<a id="renewableenergycareers"></a>
+<h2 id="careers">Renewable Energy Careers</h2>
 Possible job titles for graduates with an education in renewable energy include:
 <ul>
   <li>Electrician</li>
@@ -20,7 +21,7 @@ Possible job titles for graduates with an education in renewable energy include:
 </ul>
 <h3>Projected Job Outlook &amp; Salary Info</h3>
 For the latest employment and wage estimates for renewable energy careers in Michigan, visit the <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">U.S. Department of Labor's Bureau of Labor Statistics website</a>.</strong>
-<h2>Course Sequences</h2>
+<h2 id="sequences">Course Sequences</h2>
 Unlike traditional academic courses, the offerings in KCC’s Renewable Energy program consist of short modules that are components of larger units. Modules are often less than one credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from one to 30 modules, depending on the area of instruction.
 
 Renewable Energy modules carry the course designators INEL &amp; INRE as detailed in the most recent<strong> <a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Renewable-Energy.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Renewable Energy Cost Sheet</a>. </strong>Units in this program include:
