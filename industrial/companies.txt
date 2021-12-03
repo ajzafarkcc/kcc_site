@@ -1,9 +1,22 @@
-The RMTC's unique style of training was designed specifically for the demanding and dynamic manufacturing environment. The Industrial Trades programs provide a variety of training options to meet production and skilled trades training needs. The format enables companies to quickly and efficiently manage the training process. The process includes designing a training program, setting up a training account, enrolling employees in training, and monitoring employee training progress.
-<h2>Design a Training Program</h2>
+The RMTC's unique style of training was designed specifically for the demanding and dynamic manufacturing environment. The Industrial Trades programs provide a variety of training options to meet production and skilled trades training needs. The format enables companies to quickly and efficiently manage the training process.
+
+We've tried to make employee training as easy as possible for companies:
+<ol>
+  <li><strong><a href="#design">Design a training program</a></strong> that fits your company's needs, if one doesn't already exist for you.</li>
+  <li><strong><a href="#enroll">For each student</a>,</strong></li>
+  <ol type="A" style="margin-bottom: 0px">
+    <li>Send a completed <strong><a href=https://www.kellogg.edu/academics/departments/industrial-trades/documents/#sponsor" target="_blank" rel="noreferrer noopener">billing authorization</a></strong> either directly to us or with your employee.</li>
+    <li>Send your employee to the RMTC with a photo ID and proof of address (driver's license can be both).</li>
+    <li>Our staff can handle the rest needed for your employee to start that very day.</li>
+  </ol>
+  <li><strong><a href="#monitor">Monitor your employees' progress</a>.</strong> We'll also send progress reports at the end of the semester.</li>
+</ol>
+
+<h2 id="design">Design a Training Program</h2>
 Our topical, competency-based modules enable manufacturers to quickly and efficiently design custom training programs to meet their unique training needs with no design costs. Contact <strong><a href="mailto:cubberlys@kellogg.edu">Scott Cubberly</a></strong> at 269-565-2802, and together we'll coordinate a meeting between faculty and company subject matter experts to outline a training program for your needs.
-<h2>Enroll Employees</h2>
+<h2 id="enroll">Enroll Employees</h2>
 Our open entry open exit format enables students to start immediately without waiting for the next semester to start and enables companies to plan training around production schedules. Once the RMTC receives a <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/Sponsored-Student-Billing-Authorization-Fall-2021.pdf" target="_blank" rel="noreferrer noopener">sponsored student billing authorization</a></strong> completed by the company representative and the student, the student is able to register and start courses immediately. Companies will be invoiced throughout the semester as their students register.
-<h2>Monitor Training Progress</h2>
+<h2 id="monitor">Monitor Training Progress</h2>
 Companies are making a sizable investment in training, and to assist in managing that investment, we provide progress reports for all students out at the end of every semester, provided we have <strong><a href="https://www.kellogg.edu/wp-content/uploads/2018/08/Email-Agreement.pdf" target="_blank" rel="noopener noreferrer">an email agreement</a></strong> on file. Should a company desire more regular progress reports, our staff is willing to provide them. Students are also able to request these reports for themselves as well.
 
 For more information on establishing a training program at the RMTC or to schedule a faculty consultation, simply <strong><a href="mailto:RMTC@kellogg.edu">contact the RMTC</a></strong> at 269-965-4137.

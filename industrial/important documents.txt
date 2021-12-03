@@ -49,7 +49,7 @@ Our cost sheets for each program lists all the modules we offer in that program 
   </tr>
 </table>
 
-<h2>Company Sponsored Students</h2>
+<h2 id="sponsor">Company Sponsored Students</h2>
 Sponsored students and their sponsoring company must submit a <strong><a href="/wp-content/uploads/2021/08/Sponsored-Student-Billing-Authorization-Fall-2021.pdf" target="_blank" rel="noreferrer noopener">Sponsored Student Billing Authorization</a></strong> in order to register for classes. If students are not going to complete modules by the end of semester date, they have the option to drop modules before the drop deadline, or speak to their instructor about doing an <a href="#incomplete"><strong>incomplete contract</strong></a> to receive incomplete grades.
 
 In order to receive end-of-semester progress reports on sponsored students, there must be a signed <strong><a href="/wp-content/uploads/2018/08/Email-Agreement.pdf" target="_blank" rel="noopener noreferrer">Email Agreement form</a></strong> on file for each company representative who would like to receive a progress report. Students may obtain a copy of their progress report by contacting RMTC staff. Students can also access their unofficial course history at any time through their <strong><a href="http://portal.kellogg.edu/" target="_blank" rel="noreferrer noopener">Bruin student portal</a>.</strong>
