@@ -63,7 +63,7 @@ Industrial Welding modules carry the course designator INWE as detailed in the m
     <tr>
       <td style="text-align: center">Unit 05</td>
       <td style="text-align: left">Basics of Welding</td>
-      <td style="text-align: center">.43</td>
+      <td style="text-align: center">0.43</td>
     </tr>
     <tr>
       <td style="text-align: center">Unit 10</td>
@@ -73,12 +73,12 @@ Industrial Welding modules carry the course designator INWE as detailed in the m
     <tr>
       <td style="text-align: center">Unit 15</td>
       <td style="text-align: left">Cutting Processes</td>
-      <td style="text-align: center">.79</td>
+      <td style="text-align: center">0.79</td>
     </tr>
     <tr>
       <td style="text-align: center">Unit 20</td>
       <td style="text-align: left">Brazing and Soldering</td>
-      <td style="text-align: center">.92</td>
+      <td style="text-align: center">0.92</td>
     </tr>
     <tr>
       <td style="text-align: center">Unit 25</td>

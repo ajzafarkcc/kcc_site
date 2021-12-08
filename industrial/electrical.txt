@@ -50,12 +50,12 @@ Industrial Electricity and Electronics modules carry the course designator INEL 
     <tr>
       <td style="text-align: center">Unit 05</td>
       <td style="text-align: left">Electrical Safety</td>
-      <td style="text-align: center">.17</td>
+      <td style="text-align: center">0.17</td>
     </tr>
     <tr>
       <td style="text-align: center">Unit 10</td>
       <td style="text-align: left">Mathematics for Electricians</td>
-      <td style="text-align: center">.58</td>
+      <td style="text-align: center">0.58</td>
     </tr>
     <tr>
       <td style="text-align: center">Unit 15</td>

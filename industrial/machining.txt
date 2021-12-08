@@ -59,12 +59,12 @@ Industrial Machining Technology modules carry the course designator INMT as deta
     <tr>
       <td style="text-align: center">Unit 05</td>
       <td style="text-align: left">Machine Tool Basics</td>
-      <td style="text-align: center">.17</td>
+      <td style="text-align: center">0.17</td>
     </tr>
     <tr>
       <td style="text-align: center">Unit 10</td>
       <td style="text-align: left">Machine Tool Safety</td>
-      <td style="text-align: center">.17</td>
+      <td style="text-align: center">0.17</td>
     </tr>
     <tr>
       <td style="text-align: center">Unit 15</td>
@@ -94,7 +94,7 @@ Industrial Machining Technology modules carry the course designator INMT as deta
     <tr>
       <td style="text-align: center">Unit 40</td>
       <td style="text-align: left">Electronic Discharge Machining</td>
-      <td style="text-align: center">.79</td>
+      <td style="text-align: center">0.79</td>
     </tr>
     <tr>
       <td style="text-align: center">Unit 45</td>

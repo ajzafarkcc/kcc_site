@@ -83,7 +83,7 @@ Industrial Technology modules carry the course designator INT as detailed in the
 <tr>
 <td style="text-align: center">Unit 20</td>
 <td style="text-align: left">Standards and Regulations</td>
-<td style="text-align: center">.80</td>
+<td style="text-align: center">0.80</td>
 </tr>
 <tr>
 <td style="text-align: center">Unit 25</td>
