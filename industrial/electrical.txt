@@ -1,6 +1,6 @@
 <img class="alignright size-full wp-image-35882" src="https://www.kellogg.edu/wp-content/uploads/2016/01/KCC-electricity-electronics.jpg" alt="A KCC Industrial Electricity/Electronics student works with electrical equipment at the RMTC." width="430" height="287">In the processes of advanced manufacturing and electrical construction, electrical and electronic control systems are crucial components that require sophisticated computer programming, monitoring and diagnostics skills. The Industrial Electricity and Electronics program at Kellogg Community College prepares students to install, maintain and repair such systems utilizing our top-notch equipment and self-paced instructional method.
 
-KCC offers a certificate and an associate degree in Industrial Electricity and Electronics, as well as the more generalized Trades certificate and associate degree company-sponsored students.
+KCC offers a certificate and an associate degree in Industrial Electricity and Electronics, as well as the more generalized Trades certificate and associate degree geared towards company-sponsored students.
 <ul>
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1731" target="_blank" rel="noreferrer noopener">Industrial Electricity and Electronics Certificate</a></strong> (30 credits)</li>
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1730" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Industrial Electricity and Electronics</a></strong> (60 credits)</li>
@@ -36,8 +36,6 @@ With additional education after the program, opportunities include:
 For the latest employment and wage estimates for Industrial Electricity and Electronics careers in Michigan, visit the <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">Bureau of Labor Statistics website</a>.</strong>
 <h2 id="sequences">Course Sequences</h2>
 Unlike traditional academic courses, the offerings in KCC's Industrial Electricity and Electronics program consist of short modules that are components of larger units. Modules are often less than one credit apiece and can be completed at a student's own pace in a matter of hours or days. Units range from one to 30 modules, depending on the area of instruction.
-
-Industrial Electricity and Electronics modules carry the course designator INEL as detailed in the most recent <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Electricity-1.pdf" target="_blank" rel="noreferrer noopener">Fall 2021 Industrial Electricity/Electronics cost sheet.</a></strong> Units in this program include:
 <table style="margin-left: auto; margin-right: auto">
   <thead>
     <tr>
@@ -136,6 +134,12 @@ Industrial Electricity and Electronics modules carry the course designator INEL 
       <td style="text-align: center">Unit 95</td>
       <td style="text-align: left">Mechatronics</td>
       <td style="text-align: center">2.31</td>
+    </tr>
+    <tr>
+      <th scope="row" style="text-align: center">Full course listings</th>
+      <td colspan="2">
+        <strong style="padding-right: 2.5em"><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Electricity-2.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></strong><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Electricity-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong>
+      </td>
     </tr>
   </tbody>
 </table>
