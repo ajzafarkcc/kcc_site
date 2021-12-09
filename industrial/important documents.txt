@@ -13,7 +13,7 @@ Our cost sheets for each program lists all the modules we offer in that program 
     <td></strong><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-HVACR-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
   </tr>
   <tr>
-    <td>Machining Technology</td>
+    <td>Industrial Machining Technology</td>
     <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Machining-Technology.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></td>
     <td></strong><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Machining-Technology-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
   </tr>
