@@ -11,7 +11,7 @@ KCC offers a certificate and an associate degree in Industrial Electricity and E
 </ul>
 <p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb; overflow: hidden;"><strong>The Industrial Trades Certificate is not eligible for financial aid.</strong></p>
 
-<h3>Tool &amp; Die Modules (unavailable in Summer)</h3>
+<h3 id="tooldie">Tool &amp; Die Modules (unavailable in Summer)</h3>
 Our Tool and Die modules are designed for company-sponsored students who are working as machinists or toolmakers. Our Tool and Die instructor will work with the student or company to find specific modules within the Tool and Die curriculum which will best serve the student’s individual needs. Students will learn how to heat-treat steel and how to design and make jigs, fixtures, gauges, dies and molds.
 
 View the Tool and Die cost sheets for <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-ToolDie-1.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></strong> or <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-ToolDie-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong> for a complete listing of modules and their costs, or contact <strong><a href="mailto:moorej@kellogg.edu">program instructor Jason Moore</a>.</strong>
@@ -133,7 +133,7 @@ Unlike traditional academic courses, the offerings in KCC's Industrial Machining
     </tr>
   </tbody>
 </table>
-<h2>Transfer Opportunities</h2>
+<h2 id="transfer">Transfer Opportunities</h2>
 <strong><a href="https://www.kellogg.edu/services/academic-advising/educational-planning/transfer-guides/" target="_blank" rel="noopener noreferrer">Transfer Guides</a></strong> are available to view opportunities for students looking to transfer their KCC credits to a four-year institution. Popular transfer destinations for KCC’s Industrial Machining Technology students include Ferris State University, Siena Heights University and Western Michigan University.
 
 For additional advice on transfer opportunities, contact <strong><a href="https://www.kellogg.edu/services/academic-advising/" target="_blank" rel="noopener noreferrer">our academic advising department</a>.</strong>

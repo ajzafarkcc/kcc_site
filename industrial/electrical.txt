@@ -143,7 +143,7 @@ Unlike traditional academic courses, the offerings in KCC's Industrial Electrici
     </tr>
   </tbody>
 </table>
-<h2>Transfer Opportunities</h2>
+<h2 id="transfer">Transfer Opportunities</h2>
 <strong><a href="https://www.kellogg.edu/services/academic-advising/educational-planning/transfer-guides/" target="_blank" rel="noopener noreferrer">Transfer Guides</a></strong> are available to view opportunities for students looking to transfer their KCC credits to a four-year institution. Popular transfer destinations for KCC's Industrial Electricity and Electronics students include Siena Heights University and Western Michigan University.
 
 For additional advice on transfer opportunities, contact <strong><a href="https://www.kellogg.edu/services/academic-advising/" target="_blank" rel="noopener noreferrer">our academic advising department</a>.</strong>

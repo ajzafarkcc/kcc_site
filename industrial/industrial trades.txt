@@ -7,7 +7,8 @@ KCC offers the following Industrial Trades credential:
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1729" target="_blank" rel="noreferrer noopener">Industrial Trades Certificate</a></strong> (25 credits)</li>
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
 </ul>
-<h2 id="industrialtradescareers">Industrial Trades Careers</h2>
+<a id="industrialtradescareers"></a>
+<h2 id="careers">Industrial Trades Careers</h2>
 Students with an education in Industrial Trades work in a variety of career fields. For more information about careers in specific Industrial Trades areas, visit the following KCC Industrial Trades web pages:
 <ul>
   <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-electricityelectronics/" target="_blank" rel="noopener noreferrer">Industrial Electricity and Electronics</a></strong></li>
@@ -20,10 +21,10 @@ Students with an education in Industrial Trades work in a variety of career fiel
 </ul>
 <h3>Projected Job Outlook &amp; Salary Info</h3>
 For the latest employment and wage estimates for Industrial Trades careers in Michigan, visit the <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">Bureau of Labor Statistics website</a>.</strong>
-<h2>Course Sequences</h2>
+<h2 id="sequences">Course Sequences</h2>
 Course sequences vary in the Industrial trades program depending on each student's goals and areas of study. In addition to the sequences of each individual program (found at the links above), <strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/contact-us/#secondary" target="_blank" rel="noreferrer noopener">contact our faculty</a></strong> to help outline a course sequence.
 
-<h2>Transfer Opportunities</h2>
+<h2 id="transfer">Transfer Opportunities</h2>
 <strong><a href="https://www.kellogg.edu/services/academic-advising/educational-planning/transfer-guides/" target="_blank" rel="noopener noreferrer">Transfer Guides</a></strong> are available to view opportunities for students looking to transfer their KCC credits to a four-year institution. Popular transfer destinations for KCC’s Industrial Trades students include Siena Heights University and Western Michigan University.
 
 For additional advice on transfer opportunities, contact <strong><a href="https://www.kellogg.edu/services/academic-advising/" target="_blank" rel="noopener noreferrer">our academic advising department</a>.</strong>

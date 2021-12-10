@@ -8,7 +8,7 @@ KCC offers a certificate and an associate degree in Industrial Electricity and E
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
 </ul>
 <p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb; overflow: hidden;"><strong>The Industrial Trades Certificate is not eligible for financial aid.</strong></p>
-<h3>Industry-Recognized Certifications</h3>
+<h3 id="certifications">Industry-Recognized Certifications</h3>
 The Industrial Technology program at KCC offers a series of industry-recognized certifications, including:
 <ul>
   <li>Forklift operation</li>
@@ -18,7 +18,7 @@ The Industrial Technology program at KCC offers a series of industry-recognized 
   <li>Society of Manufacturing Engineering certifications for certified manufacturing technologists</li>
   <li>Aerial platform operation</li>
 </ul>
-<h3>Instrumentation Modules</h3>
+<h3 id="instrumentation">Instrumentation Modules</h3>
 Students enrolled in Instrumentation modules at the RMTC will learn process control, measurement instrumentation, pressure measurement, force weight and motion in instrumentation, flow measurement, level measurement, temperature measurement, analytical measurement and final control elements.
 
 View the Instrumentation cost sheets for <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/07/FA21-Instrumentation-1.pdf" target="_blank" rel="noreferrer noopener">Fall 2021</a></strong> or <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Instrumentation-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong> for a complete listing of modules and their costs, or contact <strong><a href="mailto:kruegert@kellogg.edu">program instructor Tim Krueger</a>.</strong>
@@ -117,7 +117,7 @@ Unlike traditional academic courses, the offerings in KCC’s Industrial Technol
     </tr>
   </tbody>
 </table>
-<h2>Transfer Opportunities</h2>
+<h2 id="transfer">Transfer Opportunities</h2>
 <strong><a href="https://www.kellogg.edu/services/academic-advising/educational-planning/transfer-guides/" target="_blank" rel="noopener noreferrer">Transfer Guides</a></strong> are available to view opportunities for students looking to transfer their KCC credits to a four-year institution. Popular transfer destinations for KCC’s Industrial Technology students include Siena Heights University and Western Michigan University.
 
 For additional advice on transfer opportunities, contact <strong><a href="https://www.kellogg.edu/services/academic-advising/" target="_blank" rel="noopener noreferrer">our academic advising department</a>.</strong>
