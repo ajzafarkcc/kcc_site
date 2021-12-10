@@ -3,7 +3,7 @@ The RMTC's unique style of training was designed specifically for the demanding 
 We've tried to make employee training as easy as possible for companies:
 <ol>
   <li><strong><a href="#design">Design a training program</a></strong> that fits your company's needs, if one doesn't already exist for you.</li>
-  <li><strong><a href="#enroll">For each student</a>,</strong></li>
+  <li><strong><a href="#enroll">Enroll your employees</a>.</strong> For each student,</li>
   <ol type="A" style="margin-bottom: 0px">
     <li>Send a completed <strong><a href=https://www.kellogg.edu/academics/departments/industrial-trades/documents/#sponsor" target="_blank" rel="noreferrer noopener">billing authorization</a></strong> either directly to us or with your employee.</li>
     <li>Send your employee to the RMTC with a photo ID and proof of address (driver's license can be both).</li>
