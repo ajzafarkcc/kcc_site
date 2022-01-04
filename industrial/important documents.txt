@@ -54,14 +54,16 @@ If a student feels they are unable to finish one or more modules by the end of t
 
 Incomplete contracts can also be <strong><a href="mailto:rmtc@kellogg.edu">submitted via email</a>;</strong> however, only those sent from a KCC email address will be considered.
 
-<h2 id="transcripts">Transcripts</h2>
-Unofficial transcripts can be obtained from our staff or from the student's Bruin Portal. Official transcripts can be obtained <strong><a href="https://www.kellogg.edu/admissions/registrar/transcripts/" target="_blank" rel="noreferrer noopener">from the Registrar's Office</a>.</strong>
-
 <h2 id="articulation">Career Center Articulation</h2>
 The <strong><a title="High School Articulation Form" href="/wp-content/uploads/2014/03/ArticulatedTechCourse1.pdf" target="_blank" rel="noopener noreferrer">Request for an Articulated Technical Education Course</a></strong> form must be submitted with a <a href="#costsheet"><strong>program cost sheet</strong></a> and a career center transcript. Note that at least one semester must be completed at KCC before articulation can be considered.
-<h2>Available Online Module Content</h2>
+
+<h2 id="transcripts">Transcripts</h2>
+Unofficial transcripts can be obtained from our staff or from the student's Bruin Portal. Official transcripts can be obtained <strong><a href="https://www.kellogg.edu/admissions/registrar/transcripts/" target="_blank" rel="noreferrer noopener">from the Registrar's Office</a></strong> for a small fee.
+
+<h2 id="online">Available Online Module Content</h2>
 Students can complete <a href="/wp-content/uploads/2021/05/Industrial-Trades-Online-Modules-Reference-Sheet.pdf" target="_blank" rel="noreferrer noopener"><strong>certain modules</strong></a> offered here entirely online. Once a student is registered, all content for these modules can be found entirely on <strong><a href="http://moodle.kellogg.edu/" target="_blank" rel="noreferrer noopener">Moodle</a>.</strong>
-<h2>Other  Materials</h2>
+
+<h2 id="other">Other Material</h2>
 <ul>
   <li>Our <strong><a href="/wp-content/uploads/2020/12/Industrial-Trades-Schedule-20-21-digital.pdf" target="_blank" rel="noreferrer noopener">Industrial Trades 20-21 catalog</a></strong> contains information about all of our programs as a whole.</li>
   <li>KCC's latest <strong><a href="http://catalog.kellogg.edu" target="_blank" rel="noopener noreferrer">Academic Catalog</a></strong></li>
