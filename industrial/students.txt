@@ -1,17 +1,17 @@
 Although the RMTC utilizes a nontraditional instructional method, becoming a student is a straightforward, three-step process. Thanks to our non-traditional, Open Entry Open Exit style of teaching, students can begin coursework immediately upon registration.
 <ol>
- 	<li><strong><a href="#apply">Apply to the college</a>.</strong></li>
- 	<li><strong><a href="#orientation">Complete orientation</a>.</strong></li>
- 	<li><strong><a href="#register">Register and pay for modules</a>.</strong></li>
+  <li><strong><a href="#apply">Apply to the college</a>.</strong></li>
+  <li><strong><a href="#orientation">Complete orientation</a>.</strong></li>
+  <li><strong><a href="#register">Register and pay for modules</a>.</strong></li>
 </ol>
 With a little preparation, the entire process can be completed in a single day with a single roughly hour-long visit to the RMTC.Our staff can assist with any part of the process, in person or by phone at 269-965-4137.
 <h2 id="apply">Apply to Kellogg Community College</h2>
 The first step is to <strong><a href="/apply" target="_blank" rel="noopener noreferrer">apply to KCC</a></strong> as any other student. As part of the college's processes, we do require photo ID and proof of address before students can register for modules.
 Every applicant must:
 <ul>
- 	<li>be 18 years of age or older,</li>
- 	<li>obtained a high school diploma or equivalent (GED), or</li>
- 	<li>finished a home school program.</li>
+  <li>be 18 years of age or older,</li>
+  <li>obtained a high school diploma or equivalent (GED), or</li>
+  <li>finished a home school program.</li>
 </ul>
 We do also accept <strong><a href="/academics/departments/industrial-trades/youth-training/" target="_blank" rel="noopener noreferrer">dual enrolled students</a>.</strong>
 <h2 id="orientation">Complete Orientation</h2>
@@ -23,11 +23,11 @@ In all cases, KCC requires payment for courses within 24 hours of registration, 
 <h2>Additional Information</h2>
 If considering an Associate in Applied Science, be sure to meet with <strong><a href="mailto:houstonm@kellogg.edu">Michael Houston in Academic Advising</a></strong> in order to
 <ul>
- 	<li>Arrange to take the Next Generation ACCUPLACER</li>
- 	<li>Select appropriate general education courses</li>
- 	<li>Understand graduation requirements</li>
- 	<li>Navigate the transfer process</li>
- 	<li>Identify and access career resources</li>
- 	<li>Seek appropriate college resources</li>
+  <li>Arrange to take the Next Generation ACCUPLACER</li>
+  <li>Select appropriate general education courses</li>
+  <li>Understand graduation requirements</li>
+  <li>Navigate the transfer process</li>
+  <li>Identify and access career resources</li>
+  <li>Seek appropriate college resources</li>
 </ul>
 All financial aid information will be transmitted via the Self Service section within the KCC Bruin Portal. Students should periodically review financial aid information through the KCC Bruin Portal and watch for emails, which will provide financial aid information.
