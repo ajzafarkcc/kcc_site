@@ -4,14 +4,13 @@ We've tried to make employee training as easy as possible for companies:
 <ol>
   <li><strong><a href="#design">Design a training program</a></strong> that fits your company's needs, if one doesn't already exist for you.</li>
   <li><strong><a href="#enroll">Enroll your employees</a>.</strong> For each student,</li>
-  <ol type="A" style="margin-bottom: 0px">
-    <li>Send a completed <strong><a href=https://www.kellogg.edu/academics/departments/industrial-trades/documents/#sponsor" target="_blank" rel="noreferrer noopener">billing authorization</a></strong> either directly to us or with your employee.</li>
+  <ol style="margin-bottom: 0px" type="A">
+    <li>Send a completed <strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/documents/#sponsor" target="_blank" rel="noreferrer noopener">billing authorization</a></strong> either directly to us or with your employee.</li>
     <li>Send your employee to the RMTC with a photo ID and proof of address (driver's license can be both).</li>
     <li>Our staff can handle the rest needed for your employee to start that very day.</li>
   </ol>
   <li><strong><a href="#monitor">Monitor your employees' progress</a>.</strong> We'll also send progress reports at the end of the semester.</li>
 </ol>
-
 <h2 id="design">Design a Training Program</h2>
 Our topical, competency-based modules enable manufacturers to quickly and efficiently design custom training programs to meet their unique training needs with no design costs. Contact <strong><a href="mailto:cubberlys@kellogg.edu">Scott Cubberly</a></strong> at 269-565-2802, and together we'll coordinate a meeting between faculty and company subject matter experts to outline a training program for your needs.
 <h2 id="enroll">Enroll Employees</h2>
