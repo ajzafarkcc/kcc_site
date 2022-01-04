@@ -2,42 +2,44 @@ Our lab schedule for <strong><a href="https://www.kellogg.edu/wp-content/uploads
 <h2 id="costsheet">Cost Sheets</h2>
 Our cost sheets for each program lists all the modules we offer in that program as well as important information like credit counts, tuition amounts, and lab fees.
 <table style="margin-left: auto; margin-right: auto">
-  <tr>
-    <td>Industrial Electricity/Electronics</td>
-    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Electricity-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
-  </tr>
-  <tr>
-    <td>Industrial HVAC-R</td>
-    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-HVACR-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
-  </tr>
-  <tr>
-    <td>Industrial Machining Technology</td>
-    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Machining-Technology-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
-  </tr>
-  <tr>
-    <td>Industrial Pipefitting</td>
-    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Pipefitting-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
-  </tr>
-  <tr>
-    <td>Industrial Technology</td>
-    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Industrial-Technology-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
-  </tr>
-  <tr>
-    <td>Industrial Welding</td>
-    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Welding-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
-  </tr>
-  <tr>
-    <td>Renewable Energy</td>
-    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Renewable-Energy-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
-  </tr>
-  <tr>
-    <td>Instrumentation</td>
-    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Instrumentation-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
-  </tr>
-  <tr>
-    <td>Tool and Die</td>
-    <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-ToolDie-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td>Industrial Electricity/Electronics</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Electricity-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <td>Industrial HVAC-R</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-HVACR-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <td>Industrial Machining Technology</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Machining-Technology-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <td>Industrial Pipefitting</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Pipefitting-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <td>Industrial Technology</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Industrial-Technology-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <td>Industrial Welding</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Welding-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <td>Renewable Energy</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Renewable-Energy-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <td>Instrumentation</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Instrumentation-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <td>Tool and Die</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-ToolDie-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+  </tbody>
 </table>
 
 <h2 id="sponsor">Company Sponsored Students</h2>
