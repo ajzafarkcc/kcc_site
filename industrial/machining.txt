@@ -4,10 +4,10 @@ The Industrial Machining Technology program at Kellogg Community College prepare
 
 KCC offers a certificate and an associate degree in Industrial Electricity and Electronics, as well as the more generalized Trades certificate and associate degree geared towards company-sponsored students.
 <ul>
-  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1738" target="_blank" rel="noopener noreferrer">Industrial Machining Technology Certificate</a></strong> (30 credits)</li>
-  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1737" target="_blank" rel="noopener noreferrer">Associate in Applied Science: Industrial Machining Technology</a></strong> (60 credits)</li>
-  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1729" target="_blank" rel="noreferrer noopener">Industrial Trades Certificate</a></strong> (25 credits)</li>
-  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&amp;poid=1738" target="_blank" rel="noopener noreferrer">Industrial Machining Technology Certificate</a></strong> (30 credits)</li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&amp;poid=1737" target="_blank" rel="noopener noreferrer">Associate in Applied Science: Industrial Machining Technology</a></strong> (60 credits)</li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&amp;poid=1729" target="_blank" rel="noreferrer noopener">Industrial Trades Certificate</a></strong> (25 credits)</li>
+  <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&amp;poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
 </ul>
 <p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb; overflow: hidden;"><strong>The Industrial Trades Certificate is not eligible for financial aid.</strong></p>
 
