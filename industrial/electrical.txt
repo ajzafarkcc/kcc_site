@@ -138,7 +138,7 @@ Unlike traditional academic courses, the offerings in KCC's Industrial Electrici
     <tr>
       <th scope="row" style="text-align: center">Full course listings</th>
       <td colspan="2">
-        <a href="https://www.kellogg.edu/wp-content/uploads/2021/11/SP22-Electricity-RMTC.pdf" target="_blank" rel="noreferrer noopener" style="font-weight: bold; margin-right: 2.5em;">Spring 2022</a>
+        <a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Electricity-RMTC.pdf" target="_blank" rel="noreferrer noopener" style="font-weight: bold; margin-right: 2.5em;">Spring 2022</a>
       </td>
     </tr>
   </tbody>
