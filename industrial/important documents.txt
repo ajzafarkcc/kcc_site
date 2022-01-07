@@ -60,9 +60,6 @@ The <strong><a title="High School Articulation Form" href="/wp-content/uploads/2
 <h2 id="transcripts">Transcripts</h2>
 Unofficial transcripts can be obtained from our staff or from the student's Bruin Portal. Official transcripts can be obtained <strong><a href="https://www.kellogg.edu/admissions/registrar/transcripts/" target="_blank" rel="noreferrer noopener">from the Registrar's Office</a></strong> for a small fee.
 
-<h2 id="online">Available Online Module Content</h2>
-Students can complete <a href="/wp-content/uploads/2021/05/Industrial-Trades-Online-Modules-Reference-Sheet.pdf" target="_blank" rel="noreferrer noopener"><strong>certain modules</strong></a> offered here entirely online. Once a student is registered, all content for these modules can be found entirely on <strong><a href="http://moodle.kellogg.edu/" target="_blank" rel="noreferrer noopener">Moodle</a>.</strong>
-
 <h2 id="other">Other Material</h2>
 <ul>
   <li>Our <strong><a href="/wp-content/uploads/2020/12/Industrial-Trades-Schedule-20-21-digital.pdf" target="_blank" rel="noreferrer noopener">Industrial Trades 20-21 catalog</a></strong> contains information about all of our programs as a whole.</li>
