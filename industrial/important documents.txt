@@ -13,6 +13,9 @@ Our cost sheets for each program lists all the modules we offer in that program 
 <table style="margin-left: auto; margin-right: auto">
   <tbody>
     <tr>
+      <th colspan=2>RMTC</th>
+    </tr>
+    <tr>
       <td>Industrial Electricity/Electronics</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Electricity-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
     </tr>
@@ -48,8 +51,45 @@ Our cost sheets for each program lists all the modules we offer in that program 
       <td>Tool and Die</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-ToolDie-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
     </tr>
+    <tr>
+      <th colspan=2>EAC</th>
+    </tr>
+    <tr>
+      <td>Industrial-Technology</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-EAC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <td>Industrial Electricity &amp; Electronics</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-EAC-Industrial-Electricity-Electronics.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <td>Welding</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-EAC-Welding.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <th colspan=2>BACC</th>
+    </tr>
+    <tr>
+      <td>Industrial Electricity &amp; Electronics*</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-BACC-Electricity.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <th colspan=2>Hastings</th>
+    </tr>
+    <tr>
+      <td>Welding*</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Hastings-Welding.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
   </tbody>
 </table>
+* Availability of these programs depends on enrollment.
+
+<ul>
+  <li>RMTC is our primary location in Battle Creek (schedule above).</li>
+  <li>EAC is the <strong><a href="https://www.kellogg.edu/about/regional-centers/eastern-academic-center-albion/" target="_blank" rel="noreferrer noopener">Eastern Academic Center in Albion</a> (<a href="https://www.kellogg.edu/wp-content/uploads/2022/01/EAC-Spring-2022-Lab-Schedule.pdf" target="_blank" rel="noreferrer noopener">schedule</a>).</strong></li>
+  <li>BACC is the <strong><a href="https://branch-isd.org/bacc/" target="_blank" rel="noreferrer noopener">Branch Area Careers Center</a> (<a href="https://www.kellogg.edu/wp-content/uploads/2022/01/BACC-Spring-2022-Lab-Schedule.pdf" target="_blank" rel="noreferrer noopener">schedule</a>).</strong></li>
+  <li>Hastings is the Hastings High School.</li>
+</ul>
 
 <h2 id="sponsor">Company Sponsored Students</h2>
 Sponsored students and their sponsoring company must submit a <strong><a href="/wp-content/uploads/2021/08/Sponsored-Student-Billing-Authorization-Fall-2021.pdf" target="_blank" rel="noreferrer noopener">Sponsored Student Billing Authorization</a></strong> in order to register for classes. If students are not going to complete modules by the end of semester date, they have the option to drop modules before the drop deadline, or speak to their instructor about doing an <a href="#incomplete"><strong>incomplete contract</strong></a> to receive incomplete grades.
