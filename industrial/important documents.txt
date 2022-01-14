@@ -1,4 +1,13 @@
-Our lab schedule for <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/RMTC-Spring-2022-Lab-Schedule.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong> details our hours as well as important dates throughout the semester. Our location and contact information is included as well.
+Our <span id="schedule">lab schedule</span> for <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/RMTC-Spring-2022-Lab-Schedule.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong> details our hours as well as important dates throughout the semester. Our location and contact information is included as well.
+
+The <strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/Industrial-Trades-Registration-Form.pdf" id="regform">Industrial Trades Registration Form</a></strong> is used to register for Industrial Trades modules. Please include module section numbers ("INEL 05010-7201" for example). The form can be delivered to RMTC staff for processing either:
+<ul>
+  <li>in person (recommended),</li>
+  <li>by email to <strong><a href="mailto:rmtc@kellogg.edu">rmtc@kellogg.edu</a></strong> (only processed if sent from a KCC email address),</li>
+  <li>or by fax to 269-962-7370 (only processed if faxed with a government issued photo ID).</li>
+</ul>
+If received by mail or by fax, our staff will send an email to the student's KCC email address confirming registration. The student can then <strong><a href="https://kellogg.edu/pay">ensure payment for registered modules is made</a>.</strong>
+
 <h2 id="costsheet">Cost Sheets</h2>
 Our cost sheets for each program lists all the modules we offer in that program as well as important information like credit counts, tuition amounts, and lab fees.
 <table style="margin-left: auto; margin-right: auto">
