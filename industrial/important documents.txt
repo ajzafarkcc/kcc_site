@@ -49,7 +49,7 @@ Our cost sheets for each program lists all the modules we offer in that program 
     </tr>
     <tr>
       <td>Tool and Die</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-ToolDie-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-ToolDie-RMTC-1.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
     </tr>
     <tr>
       <th colspan=2>EAC</th>
