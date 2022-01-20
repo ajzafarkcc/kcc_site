@@ -12,7 +12,7 @@ Kellogg Community College's manufacturing, skilled trades, and applied technolog
 
 https://www.youtube.com/watch?v=oA5w8KDaHNE
 
-KCC offers the training in the following programs, offering certificates and Associate Degrees:
+KCC offers the training in the following programs, offering certificates and associate degrees:
 <ul>
   <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-electricityelectronics/" target="_blank" rel="noopener noreferrer">Industrial Electricity &amp; Electronics</a></strong></li>
   <li><strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/industrial-hvac-r/" target="_blank" rel="noopener noreferrer">Industrial Heating, Ventilation, Air Conditioning and Refrigeration (HVAC-R)</a></strong></li>
