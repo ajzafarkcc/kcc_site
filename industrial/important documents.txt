@@ -55,15 +55,15 @@ Our cost sheets for each program lists all the modules we offer in that program 
       <th colspan=2>EAC</th>
     </tr>
     <tr>
-      <td>Industrial-Technology</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-EAC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
-    </tr>
-    <tr>
       <td>Industrial Electricity &amp; Electronics</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-EAC-Industrial-Electricity-Electronics.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
     </tr>
     <tr>
-      <td>Welding</td>
+      <td>Industrial Technology</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-EAC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <td>Industrial Welding</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-EAC-Welding.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
     </tr>
     <tr>
@@ -74,10 +74,18 @@ Our cost sheets for each program lists all the modules we offer in that program 
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-BACC-Electricity.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
     </tr>
     <tr>
+      <td>Industrial Technology*</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-BACC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
+      <td>Industrial Machining Technology*</td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-BACC-Machining-Technology.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+    </tr>
+    <tr>
       <th colspan=2>Hastings</th>
     </tr>
     <tr>
-      <td>Welding*</td>
+      <td>Industrial Welding*</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Hastings-Welding.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
     </tr>
   </tbody>
