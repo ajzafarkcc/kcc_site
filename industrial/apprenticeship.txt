@@ -1,20 +1,9 @@
-An apprenticeship is a combination of on-the-job training and related classroom instruction in which workers learn the practical and theoretical aspects of a highly skilled occupation. Generally, these programs consist of 8,000 hours of on-the-job training and roughly 600 hours of classroom instruction. Apprenticeship programs are company sponsored and overseen by joint apprenticeship committees. These committees are responsible for selecting apprenticeship candidates based on rigorous entry requirements. Students interested in apprenticeship programs must apply for an apprenticeship position in order to be considered for an apprenticeship program.
+An apprenticeship allows those interested in a skilled trade to learn the trade while also being employed. The teaching of the trade comes both from on-the-job training (OJT) and from related technical or classroom instruction (RTI).
 
-The RMTC works with the regional USDOL Office of Apprenticeship to assist companies in designing, registering, and implementing apprenticeship programs. For more information on apprenticeships, contact the Associate Dean of the RMTC or visit the <strong><a href="https://www.apprenticeship.gov">USDOL Office of Apprenticeship website</a></strong><strong>.</strong>
-<h2>Apprenticeship Curricula</h2>
-Industrial Trades curricula at the RMTC are recognized by the U.S. Department of Labor Office of Apprenticeship for registered apprenticeship programs and are used by many regional companies for related training instruction. All Industrial Trades core curricula may be used to develop an apprenticeship program:
-<ul>
- 	<li>Industrial Electricity and Electronics (INEL)</li>
- 	<li>Industrial Heating, Ventilation, Air Conditioning and Refrigeration (INHR)</li>
- 	<li>Instrumentation (INST)</li>
- 	<li>Industrial Technology (INT)</li>
- 	<li>Industrial Machining Technology (INMT)</li>
- 	<li>Industrial Pipefitting (INPF)</li>
- 	<li>Renewable Energy (INRE)</li>
- 	<li>Tool and Die (INTD)</li>
- 	<li>Industrial Welding (INWE)</li>
-</ul>
-<h2>Apprenticeship Programs</h2>
-Apprenticeship programs are registered by companies. Students enrolled in apprenticeship programs are employed and sponsored by the registering companies. These programs are generally four years long and consist of 8,000 hours of on-the-job training and a minimum 576 hours of related training instruction. Successful completion of these programs will result in an apprenticeship certificate from the Office of Apprenticeship. Faculty at the Regional Manufacturing Technology Center will help companies develop apprenticeship programs or update existing apprenticeship programs to meet today’s changing industrial standards.
-<h2>State of Michigan Electrical Licensing Requirements</h2>
-Students enrolled in electrical apprenticeship programs must also be registered with the State of Michigan in order to earn an Electrical License from the State of Michigan. Contact Kevin Barnes at <strong><a href="mailto:barnesk@kellogg.edu">barnesk@kellogg.edu</a> </strong>to learn more about state licensing requirements.
+Regulated by the Department of Labor (DOL), apprenticeships are sponsored by local companies and unions like the IBEW. Students interested in such an apprenticeship must apply for an apprenticeship through one of those organizations. The DOL Office of Apprenticeship provides <strong><a href="https://www.apprenticeship.gov/career-seekers" target="_blank" rel="noreferrer noopener">tools for finding open apprenticeships</a></strong> for those interested.
+
+The RMTC works with the regional USDOL Office of Apprenticeship to assist companies in designing, registering, and implementing apprenticeship programs. All of our Industrial Trades curricula offerings can be used to develop the RTI of an apprenticeship program as recognized by the Office of Apprenticeship, including Tool and Die and Instrumentation.
+
+<h2>Completion and Licensure: the Journeyman Card</h2>
+
+Completing an apprenticeship earns a certificate of completion as well as the opportunity to become a journeyman. The journeyman is a signifier of someone dedicated to their chosen trade, and with licensing in certain states is capable of bidding for contracts and performing unsupervised work. In time a journeyman can even become a master in their trade. Earning a journeyman card demonstrates to prospective employers a certain level of skill and is very widely recognized.
