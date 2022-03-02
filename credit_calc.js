@@ -4,7 +4,7 @@ var sem_map = {
     "Spring 2022" : ["2022-01-18", "2022-05-09"],
     "Summer 2022" : ["2022-05-16", "2022-08-04"]
 }
-var cur_sem = "21fa";
+var cur_sem = "Spring 2022";
 // record which field was last edited,
 // so a date change modifies the expected field
 var last_updated_field;
@@ -41,7 +41,7 @@ function weeks_left(d) {
         // semester start date instead of the given date
         document.getElementById("weeksleft").value =
             Math.ceil((new Date(sem_map[cur_sem][1]) -
-                       (d < st ? st : d)) / one_week);
+                       (d < sem_st ? sem_st : d)) / one_week);
     }
 }
 
