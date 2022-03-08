@@ -1,9 +1,14 @@
-An apprenticeship allows those interested in a skilled trade to learn the trade while also being employed. The teaching of the trade comes both from on-the-job training (OJT) and from related technical or classroom instruction (RTI).
+An apprenticeship allows those interested in a skilled trade to learn the trade while also being gainfully employed. The teaching of the trade comes both from on-the-job training (OJT) and from related trade or classroom instruction (RTI).
 
 Regulated by the Department of Labor (DOL), apprenticeships are sponsored by local companies and unions like the IBEW. Students interested in such an apprenticeship must apply for an apprenticeship through one of those organizations. The DOL Office of Apprenticeship provides <strong><a href="https://www.apprenticeship.gov/career-seekers" target="_blank" rel="noreferrer noopener">tools for finding open apprenticeships</a></strong> for those interested.
 
-The RMTC works with the regional USDOL Office of Apprenticeship to assist companies in designing, registering, and implementing apprenticeship programs. All of our Industrial Trades curricula offerings can be used to develop the RTI of an apprenticeship program as recognized by the Office of Apprenticeship, including Tool and Die and Instrumentation.
+The RMTC works with the regional USDOL Office of Apprenticeship to assist companies in <strong><a href="https://www.apprenticeship.gov/employers/registered-apprenticeship-program/register/standards-builder" target="_blank" rel="noopener noreferrer">designing, registering, and implementing apprenticeship programs</a>.</strong> All of our Industrial Trades curricula offerings can be used to develop the RTI of an apprenticeship program as recognized by the Office of Apprenticeship.
 
-<h2>Completion and Licensure: the Journeyman Card</h2>
+<h2>Becoming a Journeyworker</h2>
 
-Completing an apprenticeship earns a certificate of completion as well as the opportunity to become a journeyman. The journeyman is a signifier of someone dedicated to their chosen trade, and with licensing in certain states is capable of bidding for contracts and performing unsupervised work. In time a journeyman can even become a master in their trade. Earning a journeyman card demonstrates to prospective employers a certain level of skill and is very widely recognized.
+Completing an apprenticeship earns a certificate of completion. If the apprenticeship is registered with the USDOL, the apprentice is then also considered a journeyworker. A journeyworker has the privilege of bidding for contracts and performing unsupervised work, though some states may require licensing. Earning a journeyworker license demonstrates to prospective employers a certain level of skill and is very widely recognized.
+
+Note that some requirements and procedures vary by state or by trade. An apprentice may be required to take an exam in addition to completing the apprenticeship before becoming a journeyworker.
+
+
+<!--  With an additional 4000 hours of training over two years, a journeyman can even become a master of their trade. With a master license, one can also earn a contractor's license.  -->
