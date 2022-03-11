@@ -6,7 +6,7 @@ The facility is home to KCC's <strong><a href="/industrial" target="_blank" rel=
 
 <div style="columns: 2 200px;margin-bottom: 1.25em">
   <div id="trades" style="margin-right: 5em">
-    <h2><a href="/academics/departments/industrial-trades/industrial-trades/">Industrial Trades</a></h2>
+    <h2><a href="/academics/departments/industrial-trades/">Industrial Trades</a></h2>
     <img style="max-width: 90%;height: auto;margin-bottom: 1em" src="/wp-content/uploads/2013/12/RMTC_03.jpg" alt="Instructor Jason Moore demonstrates operation of a machine cell">
     KCC's Industrial Trades department offers degrees and certificates in several trades utilizing an innovative, nontraditional instructional style enabling students to learn at their own pace on their own schedule.
 
