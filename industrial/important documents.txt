@@ -94,7 +94,7 @@ Our cost sheets for each program lists all the modules we offer in that program 
 
 <ul>
   <li>RMTC is our primary location in Battle Creek (schedule above).</li>
-  <li>EAC is the <strong><a href="https://www.kellogg.edu/about/regional-centers/eastern-academic-center-albion/" target="_blank" rel="noreferrer noopener">Eastern Academic Center in Albion</a> (<a href="https://www.kellogg.edu/wp-content/uploads/2022/01/EAC-Spring-2022-Lab-Schedule.pdf" target="_blank" rel="noreferrer noopener">schedule</a>).</strong></li>
+  <li>EAC is the <strong><a href="https://www.kellogg.edu/about/regional-centers/eastern-academic-center-albion/" target="_blank" rel="noreferrer noopener">Eastern Academic Center in Albion</a> (<a href="https://www.kellogg.edu/wp-content/uploads/2022/03/Spring-2022-EAC-Lab-Schedule.pdf" target="_blank" rel="noreferrer noopener">schedule</a>).</strong></li>
   <li>BACC is the <strong><a href="https://branch-isd.org/bacc/" target="_blank" rel="noreferrer noopener">Branch Area Careers Center</a> (<a href="https://www.kellogg.edu/wp-content/uploads/2022/01/BACC-Spring-2022-Lab-Schedule.pdf" target="_blank" rel="noreferrer noopener">schedule</a>).</strong></li>
   <li>Hastings is the <strong><a href="https://hs.hassk12.org/" target="_blank" rel="noreferrer noopener">Hastings High School</a> (<a href="https://www.kellogg.edu/wp-content/uploads/2022/01/Hastings-Welding-Spring-2022-Lab-Schedule.pdf" target="_blank" rel="noreferrer noopener">schedule</a>).</strong></li>
 </ul>
