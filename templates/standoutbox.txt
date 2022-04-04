@@ -1,1 +1,5 @@
+<!-- orangey browny -->
+<p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb;"><strong>Lorem ipsum</strong></p>
+
+<!-- greeny -->
 <p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb;"><strong>Lorem ipsum</strong></p>
