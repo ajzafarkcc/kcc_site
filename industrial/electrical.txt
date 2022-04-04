@@ -44,7 +44,7 @@ Unlike traditional academic courses, the offerings in KCC's Industrial Electrici
           <th scope="row" rowspan="2" style="width: 25%;">Full course listings</th>
           <td>Cost Sheets</td>
           <td><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Electricity-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></td>
-          <td></td>
+          <td><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Electricity.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></td>
           <td></td>
         </tr><tr>
           <td>Academic Catalog</td>

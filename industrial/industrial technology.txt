@@ -21,7 +21,7 @@ The Industrial Technology program at KCC offers a series of industry-recognized 
 <h3 id="instrumentation">Instrumentation Modules</h3>
 Students enrolled in Instrumentation modules at the RMTC will learn process control, measurement instrumentation, pressure measurement, force weight and motion in instrumentation, flow measurement, level measurement, temperature measurement, analytical measurement and final control elements.
 
-View the Instrumentation cost sheets for <strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Instrumentation-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong> for a complete listing of modules and their costs, or contact <strong><a href="mailto:kruegert@kellogg.edu">program instructor Tim Krueger</a>.</strong>
+View the Instrumentation cost sheets for <strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Instrumentation-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong> or <strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Instrumentation.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong> for a complete listing of modules and their costs, or contact <strong><a href="mailto:kruegert@kellogg.edu">program instructor Tim Krueger</a>.</strong>
 
 <a id="industrialtechnologycareers"></a>
 <h2 id="careers">Industrial Technology Careers</h2>
@@ -63,7 +63,7 @@ Unlike traditional academic courses, the offerings in KCC’s Industrial Technol
           <th scope="row" rowspan="2" style="width: 25%;">Full course listings</th>
           <td>Cost Sheets</td>
           <td><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Industrial-Technology-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></td>
-          <td></td>
+          <td><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></td>
           <td></td>
         </tr><tr>
           <td>Academic Catalog</td>

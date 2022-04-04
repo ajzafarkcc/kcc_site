@@ -13,80 +13,96 @@ Our cost sheets for each program lists all the modules we offer in that program 
 <table style="margin-left: auto; margin-right: auto">
   <tbody>
     <tr>
-      <th colspan=2>RMTC</th>
+      <th colspan=3>RMTC</th>
     </tr>
     <tr>
       <td>Industrial Electricity/Electronics</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Electricity-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Electricity.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial HVAC-R</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-HVACR-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-HVACR.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial Machining Technology</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Machining-Technology-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Machining-Technology.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial Pipefitting</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Pipefitting-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Pipefitting.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial Technology</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Industrial-Technology-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial Welding</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Welding-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Welding.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
     </tr>
     <tr>
       <td>Renewable Energy</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Renewable-Energy-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td>Not offered</td>
     </tr>
     <tr>
       <td>Instrumentation</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Instrumentation-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Instrumentation.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
     </tr>
     <tr>
       <td>Tool and Die</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-ToolDie-RMTC-1.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-ToolDie.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
     </tr>
     <tr>
-      <th colspan=2>EAC</th>
+      <th colspan=3>EAC</th>
     </tr>
     <tr>
       <td>Industrial Electricity &amp; Electronics</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-EAC-Industrial-Electricity-Electronics.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td></td>
     </tr>
     <tr>
       <td>Industrial Technology</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-EAC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td></td>
     </tr>
     <tr>
       <td>Industrial Welding</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-EAC-Welding.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td></td>
     </tr>
     <tr>
-      <th colspan=2>BACC</th>
+      <th colspan=3>BACC</th>
     </tr>
     <tr>
       <td>Industrial Electricity &amp; Electronics*</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-BACC-Electricity.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td></td>
     </tr>
     <tr>
       <td>Industrial Technology*</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-BACC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td></td>
     </tr>
     <tr>
       <td>Industrial Machining Technology*</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-BACC-Machining-Technology.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td></td>
     </tr>
     <tr>
-      <th colspan=2>Hastings</th>
+      <th colspan=3>Hastings</th>
     </tr>
     <tr>
       <td>Industrial Welding*</td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Hastings-Welding.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
