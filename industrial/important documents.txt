@@ -3,7 +3,7 @@ Our <span id="schedule">lab schedule</span> for <strong><a href="https://www.kel
 The <strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/Industrial-Trades-Registration-Form-SP22.pdf" id="regform">Industrial Trades Registration Form</a></strong> is used to register for Industrial Trades modules. Please include module section numbers ("INEL 05010-7201" for example). The form can be delivered to RMTC staff for processing either:
 <ul>
   <li>in person (recommended),</li>
-  <li>by email to <strong><a href="mailto:rmtc@kellogg.edu">rmtc@kellogg.edu</a></strong> (only processed if sent from a <strong><a href="https://www.kellogg.edu/helpdesk/student/email/" target="_blank" rel="noreferrer noopener">KCC email address</a>),</strong></li>
+  <li>by email to <strong><a href="mailto:rmtc@kellogg.edu">rmtc@kellogg.edu</a></strong> (only processed if sent from a <strong><a href="https://www.kellogg.edu/helpdesk/student/email/" target="_blank" rel="noreferrer noopener">KCC email address</a></strong> with a government issued photo ID),</li>
   <li>or by fax to 269-962-7370 (only processed if faxed with a government issued photo ID).</li>
 </ul>
 If received by email or by fax, our staff will send an email to the student's KCC email address confirming registration. The student can then <strong><a href="https://kellogg.edu/pay">ensure payment for registered modules is made</a></strong> within 24 hours of registration.
