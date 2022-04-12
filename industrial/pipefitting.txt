@@ -35,25 +35,7 @@ For the latest employment and wage estimates for Industrial Pipefitting careers 
 <h2 id="sequences">Course Sequences</h2>
 Unlike traditional academic courses, the offerings in this program consist of short modules that are components of larger units. Modules are often less than one credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from 1 to 30 modules, depending on the area of instruction.
 
-<table style="margin-left: auto; margin-right: auto">
-  <caption style="caption-side: bottom">
-    <table style="width: 100%; margin-left: auto; margin-right: auto; font-weight: bold; text-align: center">
-      <thead>
-        <tr>
-          <th scope="row" rowspan="2" style="width: 25%;">Full course listings</th>
-          <td>Cost Sheets</td>
-          <td><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Pipefitting-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></td>
-          <td><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Pipefitting.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></td>
-          <td></td>
-        </tr><tr>
-          <td>Academic Catalog</td>
-          <td><a href="http://catalog.kellogg.edu/content.php?filter%5B27%5D=INPF&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=18&expand=&navoid=792&search_database=Filter#acalog_template_course_filter" target="_blank" rel="noopener noreferrer">2021-2022</a></td>
-          <td><a href="http://catalog.kellogg.edu/content.php?filter%5B27%5D=INPF&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=20&expand=&navoid=985&search_database=Filter#acalog_template_course_filter" target="_blank" rel="noopener noreferrer">2022-2023</a></td>
-          <td></td>
-        </tr>
-      </thead>
-    </table>
-  </caption>
+<table style="margin-left: auto;margin-right: auto; margin-bottom: 0px; padding-bottom: 0px">
   <thead>
     <tr>
       <th style="text-align: center">Unit</th>
@@ -143,6 +125,22 @@ Unlike traditional academic courses, the offerings in this program consist of sh
       <td style="text-align: center">0.50</td>
     </tr>
   </tbody>
+</table>
+<table style="margin-left: auto;margin-right: auto;font-weight: bold;text-align: center; margin-top: 0px; padding-top: 0px">
+  <thead>
+    <tr>
+      <th scope="row" rowspan="2" style="width: 25%;">Full course listings</th>
+      <td>Cost Sheets</td>
+      <td><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Pipefitting-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></td>
+      <td><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Pipefitting.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></td>
+      <td></td>
+    </tr><tr>
+      <td>Academic Catalog</td>
+      <td><a href="http://catalog.kellogg.edu/content.php?filter%5B27%5D=INPF&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=18&expand=&navoid=792&search_database=Filter#acalog_template_course_filter" target="_blank" rel="noopener noreferrer">2021-2022</a></td>
+      <td><a href="http://catalog.kellogg.edu/content.php?filter%5B27%5D=INPF&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=20&expand=&navoid=985&search_database=Filter#acalog_template_course_filter" target="_blank" rel="noopener noreferrer">2022-2023</a></td>
+      <td></td>
+    </tr>
+  </thead>
 </table>
 <h2 id="transfer">Transfer Opportunities</h2>
 <strong><a href="https://www.kellogg.edu/services/academic-advising/educational-planning/transfer-guides/" target="_blank" rel="noopener noreferrer">Transfer Guides</a></strong> are available to view opportunities for students looking to transfer their KCC credits to a four-year institution. Popular transfer destinations for KCC’s Industrial Pipefitting students include Siena Heights University and Western Michigan University.
