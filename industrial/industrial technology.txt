@@ -11,12 +11,34 @@ KCC offers a certificate and an associate degree in Industrial Electricity and E
 <h3 id="certifications">Industry-Recognized Certifications</h3>
 The Industrial Technology program at KCC offers a series of industry-recognized certifications, including:
 <ul>
-  <li>Forklift operation</li>
-  <li>Occupational Safety and Health Administration (OSHA) certifications in OSHA 10 and OSHA 30</li>
-  <li>Manufacturing Skills Standards Council (MSSC) Certified Production Technician in the areas of safety, quality and manufacturing processes</li>
-  <li>American Society for Quality (ASQ) certifications for quality inspectors, quality process analysts and quality improvement associates</li>
-  <li>Society of Manufacturing Engineering certifications for certified manufacturing technologists</li>
-  <li>Aerial platform operation</li>
+  <li>American Society for Quality (ASQ)
+    <ul>
+      <li>Quality Inspector</li>
+      <li>Quality Process Analyst</li>
+      <li>Quality Improvement Associate</li>
+    </ul>
+  </li>
+  <li>Forklift License</li>
+  <li>Manufacturing Skills Standards Council (MSSC)
+    <ul>
+      <li>Certified Production Technician</li>
+      <li>Manufacturing Processes</li>
+      <li>Maintenance</li>
+      <li>Safety</li>
+      <li>Quality</li>
+    </ul>
+  </li>
+  <li>Occupational Safety and Health Administration (OSHA)
+    <ul>
+      <li>OSHA 10</li>
+      <li>OSHA 30</li>
+    </ul>
+  </li>
+  <li>Society of Manufacturing Engineering
+    <ul>
+      <li>Certified Manufacturing Technologist</li>
+    </ul>
+  </li>
 </ul>
 <h3 id="instrumentation">Instrumentation Modules</h3>
 Students enrolled in Instrumentation modules at the RMTC will learn process control, measurement instrumentation, pressure measurement, force weight and motion in instrumentation, flow measurement, level measurement, temperature measurement, analytical measurement and final control elements.
@@ -26,29 +48,32 @@ View the Instrumentation cost sheets for <strong><a href="https://www.kellogg.ed
 <a id="industrialtechnologycareers"></a>
 <h2 id="careers">Industrial Technology Careers</h2>
 People trained in Industrial Technology at KCC are prepared for rewarding, long-term work in a wide variety of settings.
-Possible job titles for graduates with an education in industrial technology include:
+Possible employment opportunities for Industrial Technology graduates include:
 <ul>
-  <li>Robotics technician</li>
-  <li>Machine technician</li>
-  <li>Maintenance mechanic</li>
-  <li>Electro-mechanical technician</li>
-  <li>Mechanical engineering technician</li>
-  <li>Machine repair technician</li>
-  <li>Multi-skilled maintenance repair technician</li>
-  <li>Industrial engineering technician</li>
-  <li>Manufacturing production technician</li>
-  <li>Quality technician</li>
+  <li>Electro-Mechanical Technician</li>
+  <li>Industrial Engineering Technician</li>
+  <li>Industrial Maintenance Technician</li>
+  <li>Instrumentation Technician</li>
+  <li>Machine Repair Technician</li>
+  <li>Machine Technician</li>
+  <li>Maintenance and Repair Workers</li>
+  <li>Maintenance Mechanic</li>
+  <li>Manufacturing Production Technician</li>
+  <li>Mechanic</li>
+  <li>Mechanical Engineering Technician</li>
+  <li>Millwright</li>
+  <li>Multi-Skilled Maintenance Repair Technician</li>
+  <li>Quality Technician</li>
+  <li>Robot Technician</li>
 </ul>
-With additional education after the program, opportunities include:
+With further education, opportunities include:
 <ul>
-  <li>Business/shop owner</li>
+  <li>Automation Engineer</li>
   <li>Engineer</li>
-  <li>Facilities manager</li>
-  <li>Maintenance supervisor</li>
-  <li>Manufacturing/process engineer</li>
-  <li>Production supervisor</li>
-  <li>Quality control engineer</li>
-  <li>Service manager</li>
+  <li>Facilities Manager</li>
+  <li>Maintenance Supervisor</li>
+  <li>Production Supervisor</li>
+  <li>Service Manager</li>
 </ul>
 <h3>Projected Job Outlook &amp; Salary Info</h3>
 For the latest employment and wage estimates for Industrial Technology careers in Michigan, visit the <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">Bureau of Labor Statistics website</a>.</strong>

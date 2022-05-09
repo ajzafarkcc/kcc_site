@@ -12,26 +12,18 @@ KCC offers a certificate and an associate degree in Industrial HVAC-R, as well a
 <h2 id="careers">Industrial HVAC-R Careers</h2>
 Heating and air conditioning systems are so common in modern society that the people who install, maintain and repair those systems will have abundant work opportunities for generations to come. In a sense, the HVAC-R industry is recession-resistant because heating and air conditioning are considered necessities in most settings and the work associated with these systems must be performed by local experts. The work is hands-on and no two days are alike.
 
-Possible job areas/titles for graduates with an education in industrial HVAC-R include:
+Possible employment opportunities for Industrial Electricity and Electronics graduates include:
 <ul>
-  <li>Air compressor mechanic</li>
-  <li>Air quality technician</li>
-  <li>Facilities mechanic</li>
-  <li>HVAC automation technician</li>
-  <li>HVAC-R installer</li>
-  <li>HVAC-R mechanic</li>
-  <li>HVAC-R specialist</li>
-  <li>HVAC-R technician</li>
-  <li>Stationary engineer</li>
+  <li>HVAC-R Specialist, Technician, Mechanic, Installer, and Controls</li>
+  <li>HVAC-R Service Manager</li>
+  <li>Air Quality Technician</li>
 </ul>
-With additional education after the program, opportunities include:
+With further education, opportunities include:
 <ul>
-  <li>Business/shop owner</li>
-  <li>Engineer</li>
-  <li>Facilities manager</li>
-  <li>Maintenance supervisor</li>
-  <li>HVAC-R Sales manager</li>
-  <li>Service manager</li>
+  <li>Maintenance Supervisors</li>
+  <li>Mechanical Engineer</li>
+  <li>Mechanical Drafters</li>
+  <li>Manufacturing Technology</li>
 </ul>
 <h3>Projected Job Outlook &amp; Salary Info</h3>
 For the latest employment and wage estimates for industrial HVAC-R careers in Michigan, visit the <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">Bureau of Labor Statistics website</a>.</strong>

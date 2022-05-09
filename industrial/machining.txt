@@ -20,7 +20,7 @@ View the Tool and Die cost sheets for <strong><a href="https://www.kellogg.edu/w
 <h2 id="careers">Industrial Machining Technology Careers</h2>
 Industrial Machining Technology is a rewarding, viable field for students who demonstrate mechanical aptitude, enjoy creating things with their hands and have the skills to use precision tools. Career opportunities for such students in this program cover a variety of industries.
 
-Possible job titles for graduates with an education in Industrial Machining Technology include:
+Possible employment opportunities for Industrial Machining Technology graduates include:
 <ul>
   <li>CNC machinist</li>
   <li>Drafting (CAD/CAM) design technicians</li>
@@ -30,7 +30,7 @@ Possible job titles for graduates with an education in Industrial Machining Tech
   <li>Maintenance mechanic</li>
   <li>Quality technician</li>
 </ul>
-With additional education after the program, opportunities include:
+With further education, opportunities include:
 <ul>
   <li>Business/shop owner</li>
   <li>Engineer</li>

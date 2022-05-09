@@ -12,25 +12,23 @@ KCC offers a certificate and an associate degree in Industrial Electricity and E
 <h2 id="careers">Industrial Electricity &amp; Electronics Careers</h2>
 Electricians and technicians trained at KCC work for companies and private contractors in a wide variety of residential, commercial and industrial settings, including homes, schools, hospitals, manufacturing facilities, shopping centers, office buildings and apartment complexes. Industrial electricians work in manufacturing facilities on machines and automated equipment.
 
-Possible job areas/titles for graduates with an education in Industrial Electricity and Electronics include:
+Possible employment opportunities for Industrial Electricity and Electronics graduates include:
 <ul>
-  <li>Controls technician</li>
-  <li>Electrician</li>
-  <li>Electrical and electronic equipment mechanic</li>
-  <li>Electrical and electronic installation, maintenance and repair worker</li>
-  <li>Electrical engineering technician</li>
-  <li>Electro-mechanical technician</li>
-  <li>Instrumentation and/or electrical technician</li>
-  <li>Self-employed</li>
+  <li>Electrician (residential, commercial, industrial)</li>
+  <li>Instrumentation and/or Electrical Technician</li>
+  <li>Electro-Mechanical Technician</li>
+  <li>Control Technician</li>
+  <li>Electrical and Electronica Equipment Mechanic</li>
+  <li>Electrical and Electronic Installation, Maintenance and Repair Workers</li>
+  <li>Electrical Engineering Technician</li>
 </ul>
-With additional education after the program, opportunities include:
+With further education, opportunities include:
 <ul>
-  <li>Controls engineer</li>
-  <li>Electrical engineer</li>
-  <li>Maintenance supervisor</li>
-  <li>Production supervisor</li>
-  <li>Quality control engineer</li>
-  <li>Sales manager</li>
+  <li>Production Supervisor</li>
+  <li>Maintenance Supervisor</li>
+  <li>Electrical Engineer</li>
+  <li>Quality Control Engineer</li>
+  <li>Manufacturing/Process Engineer</li>
 </ul>
 <h3>Projected Job Outlook &amp; Salary Info</h3>
 For the latest employment and wage estimates for Industrial Electricity and Electronics careers in Michigan, visit the <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">Bureau of Labor Statistics website</a>.</strong>
