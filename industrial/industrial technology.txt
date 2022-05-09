@@ -8,6 +8,7 @@ KCC offers a certificate and an associate degree in Industrial Electricity and E
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&amp;poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
 </ul>
 <p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb; overflow: hidden;"><strong>The Industrial Trades Certificate is not eligible for financial aid.</strong></p>
+
 <h3 id="certifications">Industry-Recognized Certifications</h3>
 The Industrial Technology program at KCC offers a series of industry-recognized certifications, including:
 <ul>
@@ -44,7 +45,6 @@ The Industrial Technology program at KCC offers a series of industry-recognized 
 Students enrolled in Instrumentation modules at the RMTC will learn process control, measurement instrumentation, pressure measurement, force weight and motion in instrumentation, flow measurement, level measurement, temperature measurement, analytical measurement and final control elements.
 
 View the Instrumentation cost sheets for <strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Instrumentation-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong> or <strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Instrumentation.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong> for a complete listing of modules and their costs, or contact <strong><a href="mailto:kruegert@kellogg.edu">program instructor Tim Krueger</a>.</strong>
-
 <a id="industrialtechnologycareers"></a>
 <h2 id="careers">Industrial Technology Careers</h2>
 People trained in Industrial Technology at KCC are prepared for rewarding, long-term work in a wide variety of settings.
@@ -79,8 +79,7 @@ With further education, opportunities include:
 For the latest employment and wage estimates for Industrial Technology careers in Michigan, visit the <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">Bureau of Labor Statistics website</a>.</strong>
 <h2 id="sequences">Course Sequences</h2>
 Unlike traditional academic courses, the offerings in KCC’s Industrial Technology program consist of short modules that are components of larger units. Modules are often less than one credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from 1 to 30 modules, depending on the area of instruction.
-
-<table style="margin-left: auto;margin-right: auto; margin-bottom: 0px; padding-bottom: 0px">
+<table style="margin-left: auto; margin-right: auto; margin-bottom: 0px; padding-bottom: 0px;">
   <thead>
     <tr>
       <th style="text-align: center">Unit</th>
@@ -136,7 +135,7 @@ Unlike traditional academic courses, the offerings in KCC’s Industrial Technol
     </tr>
   </tbody>
 </table>
-<table style="margin-left: auto;margin-right: auto;font-weight: bold;text-align: center; margin-top: 0px; padding-top: 0px">
+<table style="margin-left: auto; margin-right: auto; font-weight: bold; text-align: center; margin-top: 0px; padding-top: 0px;">
   <thead>
     <tr>
       <th scope="row" rowspan="2" style="width: 25%;">Full course listings</th>

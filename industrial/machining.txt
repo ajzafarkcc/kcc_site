@@ -46,8 +46,7 @@ For the latest employment and wage estimates for Industrial Machining careers in
 
 <h2 id="sequences">Course Sequences</h2>
 Unlike traditional academic courses, the offerings in KCC's Industrial Machining Technology program consist of short modules that are components of larger units. Modules are often less than one credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from 1 to 30 modules, depending on the area of instruction.
-
-<table style="margin-left: auto;margin-right: auto; margin-bottom: 0px; padding-bottom: 0px">
+<table style="margin-left: auto; margin-right: auto; margin-bottom: 0px; padding-bottom: 0px;">
   <thead>
     <tr>
       <th style="text-align: center">Unit</th>
@@ -128,7 +127,7 @@ Unlike traditional academic courses, the offerings in KCC's Industrial Machining
     </tr>
   </tbody>
 </table>
-<table style="margin-left: auto;margin-right: auto;font-weight: bold;text-align: center; margin-top: 0px; padding-top: 0px">
+<table style="margin-left: auto; margin-right: auto; font-weight: bold; text-align: center; margin-top: 0px; padding-top: 0px;">
   <thead>
     <tr>
       <th scope="row" rowspan="2" style="width: 25%;">Full course listings</th>

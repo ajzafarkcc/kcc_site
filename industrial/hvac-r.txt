@@ -8,6 +8,7 @@ KCC offers a certificate and an associate degree in Industrial HVAC-R, as well a
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&amp;poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
 </ul>
 <p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb; overflow: hidden;"><strong>The Industrial Trades Certificate is not eligible for financial aid.</strong></p>
+
 <a id="industrialhvacrcareers"></a>
 <h2 id="careers">Industrial HVAC-R Careers</h2>
 Heating and air conditioning systems are so common in modern society that the people who install, maintain and repair those systems will have abundant work opportunities for generations to come. In a sense, the HVAC-R industry is recession-resistant because heating and air conditioning are considered necessities in most settings and the work associated with these systems must be performed by local experts. The work is hands-on and no two days are alike.
@@ -29,7 +30,7 @@ With further education, opportunities include:
 For the latest employment and wage estimates for industrial HVAC-R careers in Michigan, visit the <strong><a href="http://www.bls.gov/oes/current/oes_mi.htm" target="_blank" rel="noopener noreferrer">Bureau of Labor Statistics website</a>.</strong>
 <h2 id="sequences">Course Sequences</h2>
 Unlike traditional academic courses, the offerings in KCC's Industrial HVAC-R program consist of short modules that are components of larger units. Modules are often less than one credit apiece and can be completed at a student’s own pace in a matter of hours or days. Units range from 1 to 30 modules, depending on the area of instruction.
-<table style="margin-left: auto;margin-right: auto; margin-bottom: 0px; padding-bottom: 0px">
+<table style="margin-left: auto; margin-right: auto; margin-bottom: 0px; padding-bottom: 0px;">
   <thead>
     <tr>
       <th style="text-align: center">Unit</th>
@@ -120,7 +121,7 @@ Unlike traditional academic courses, the offerings in KCC's Industrial HVAC-R pr
     </tr>
   </tbody>
 </table>
-<table style="margin-left: auto;margin-right: auto;font-weight: bold;text-align: center; margin-top: 0px; padding-top: 0px">
+<table style="margin-left: auto; margin-right: auto; font-weight: bold; text-align: center; margin-top: 0px; padding-top: 0px;">
   <thead>
     <tr>
       <th scope="row" rowspan="2" style="width: 25%">Full course listings</th>
@@ -128,8 +129,7 @@ Unlike traditional academic courses, the offerings in KCC's Industrial HVAC-R pr
       <td><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-HVACR-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></td>
       <td><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-HVACR.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></td>
       <td></td>
-    </tr>
-    <tr>
+    </tr><tr>
       <td>Academic Catalog</td>
       <td><a href="http://catalog.kellogg.edu/content.php?filter%5B27%5D=INHR&amp;filter%5B29%5D=&amp;filter%5Bcourse_type%5D=-1&amp;filter%5Bkeyword%5D=&amp;filter%5B32%5D=1&amp;filter%5Bcpage%5D=1&amp;cur_cat_oid=18&amp;expand=&amp;navoid=792&amp;search_database=Filter#acalog_template_course_filter" target="_blank" rel="noopener noreferrer">2021-2022</a></td>
       <td><a href="http://catalog.kellogg.edu/content.php?filter%5B27%5D=INHR&amp;filter%5B29%5D=&amp;filter%5Bcourse_type%5D=-1&amp;filter%5Bkeyword%5D=&amp;filter%5B32%5D=1&amp;filter%5Bcpage%5D=1&amp;cur_cat_oid=20&amp;expand=&amp;navoid=985&amp;search_database=Filter#acalog_template_course_filter" target="_blank" rel="noopener noreferrer">2022-2023</a></td>
