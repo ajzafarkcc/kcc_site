@@ -107,8 +107,8 @@ Unlike traditional academic courses, the offerings in KCC’s Renewable Energy p
       <td></td>
     </tr><tr>
       <td>Academic Catalog</td>
-      <td><a href="http://catalog.kellogg.edu/content.php?filter%5B27%5D=INRE&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=18&expand=&navoid=792&search_database=Filter#acalog_template_course_filter" target="_blank" rel="noopener noreferrer">2021-2022</a></td>
-      <td><a href="http://catalog.kellogg.edu/content.php?filter%5B27%5D=INRE&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=20&expand=&navoid=985&search_database=Filter#acalog_template_course_filter" target="_blank" rel="noopener noreferrer">2022-2023</a></td>
+      <td><a href="http://catalog.kellogg.edu/content.php?filter%5B27%5D=INRE&amp;filter%5B29%5D=&amp;filter%5Bcourse_type%5D=-1&amp;filter%5Bkeyword%5D=&amp;filter%5B32%5D=1&amp;filter%5Bcpage%5D=1&amp;cur_cat_oid=18&amp;expand=&amp;navoid=792&amp;search_database=Filter#acalog_template_course_filter" target="_blank" rel="noopener noreferrer">2021-2022</a></td>
+      <td><a href="http://catalog.kellogg.edu/content.php?filter%5B27%5D=INRE&amp;filter%5B29%5D=&amp;filter%5Bcourse_type%5D=-1&amp;filter%5Bkeyword%5D=&amp;filter%5B32%5D=1&amp;filter%5Bcpage%5D=1&amp;cur_cat_oid=20&amp;expand=&amp;navoid=985&amp;search_database=Filter#acalog_template_course_filter" target="_blank" rel="noopener noreferrer">2022-2023</a></td>
       <td></td>
     </tr>
   </thead>
