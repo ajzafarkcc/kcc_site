@@ -1,6 +1,5 @@
-<p style="border: 1px solid black;padding: 10px;background-color: #e6f2d6;margin-left: 2em"><strong>Renewable Energy will not be offered in Summer of 2022.</strong></p>
-<img class="alignright wp-image-36216" src="https://www.kellogg.edu/wp-content/uploads/2016/01/KCC-Renewable-Energy.jpg" alt="KCC Industrial Electricity and Electronics professor Kevin Barnes assists a student at the RMTC." width="430" height="289">Kellogg Community College's Industrial Trades Renewal Energy program trains industrial electricians to install, monitor and maintain small-scale solar and wind energy systems in residential, commercial and industrial facilities. The program follows the Electronics Technicians Association training guides for photovoltaic and small-scale wind installers.
-
+<p style="border: 1px solid black; padding: 10px; background-color: #e6f2d6; margin-left: 2em; margin-right:2em;"><strong>Renewable Energy will not be offered in Summer of 2022.</strong></p>
+<img class="alignright wp-image-36216" src="https://www.kellogg.edu/wp-content/uploads/2016/01/KCC-Renewable-Energy.jpg" alt="KCC Industrial Electricity and Electronics professor Kevin Barnes assists a student at the RMTC." width="430" height="289">Kellogg Community College's Industrial Trades Renewal Energy program trains industrial electricians to install, monitor and maintain small-scale solar and wind energy systems in residential, commercial and industrial facilities.
 
 KCC offers a certificate in Renewable Energy, as well as the more generalized Trades certificate and associate degree geared towards company-sponsored students.
 <ul>
