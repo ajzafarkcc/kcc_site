@@ -1,4 +1,4 @@
-Our <span id="schedule">lab schedule</span> for <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/RMTC-Spring-2022-Lab-Schedule.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong> or <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/RMTC-Spring-2022-Lab-Schedule.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong> detail our hours as well as important dates throughout the semester. Our location and contact information is included as well.
+Our <span id="schedule">lab schedule</span> for <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/11/RMTC-Spring-2022-Lab-Schedule.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong> detail our hours as well as important dates throughout the semester. Our location and contact information is included as well.
 
 The <strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/Industrial-Trades-Registration-Form-SP22.pdf" id="regform">Industrial Trades Registration Form</a></strong> is used to register for Industrial Trades modules. Please include module section numbers ("INEL 05010-7201" for example). The form can be delivered to RMTC staff for processing either:
 <ul>
@@ -16,92 +16,92 @@ Our cost sheets for each program lists all the modules we offer in that program 
     </tr>
     <tr>
       <td>Industrial Electricity/Electronics</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Electricity-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Electricity.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-RMTC-Electricity.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial HVAC-R</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-HVACR-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-HVACR.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-RMTC-HVACR.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial Machining Technology</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Machining-Technology-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Machining-Technology.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-RMTC-Machining-Technology.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial Pipefitting</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Pipefitting-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Pipefitting.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-RMTC-Pipefitting.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial Technology</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Industrial-Technology-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-RMTC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial Welding</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Welding-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Welding.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-RMTC-Welding.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <td>Renewable Energy</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Renewable-Energy-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
-      <td>Not offered</td>
+      <td></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-RMTC-Renewable-Energy.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <td>Instrumentation</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Instrumentation-RMTC.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-Instrumentation.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-RMTC-Instrumentation.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <td>Tool and Die</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-ToolDie-RMTC-1.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/03/SU22-RMTC-ToolDie.pdf" target="_blank" rel="noreferrer noopener">Summer 2022</a></strong></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-RMTC-ToolDie.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <th colspan="3">EAC</th>
     </tr>
     <tr>
       <td>Industrial Electricity &amp; Electronics</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-EAC-Industrial-Electricity-Electronics.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-EAC-Industrial-Electricity-Electronics.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial Technology</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-EAC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-EAC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial Welding</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-EAC-Welding.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-EAC-Welding.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <th colspan="3">BACC</th>
     </tr>
     <tr>
       <td>Industrial Electricity &amp; Electronics*</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-BACC-Electricity.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-BACC-Electricity.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial Technology*</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-BACC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-BACC-Industrial-Technology.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <td>Industrial Machining Technology*</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-BACC-Machining-Technology.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-BACC-Machining-Technology.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
     <tr>
       <th colspan="3">Hastings</th>
     </tr>
     <tr>
       <td>Industrial Welding*</td>
-      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/01/SP22-Hastings-Welding.pdf" target="_blank" rel="noreferrer noopener">Spring 2022</a></strong></td>
       <td></td>
+      <td><strong><a href="https://www.kellogg.edu/wp-content/uploads/2022/06/FA22-Hastings-Welding.pdf" target="_blank" rel="noreferrer noopener">Fall 2022</a></strong></td>
     </tr>
   </tbody>
 </table>
@@ -113,7 +113,7 @@ Our cost sheets for each program lists all the modules we offer in that program 
   <li>Hastings is the <strong><a href="https://hs.hassk12.org/" target="_blank" rel="noreferrer noopener">Hastings High School</a> (<a href="https://www.kellogg.edu/wp-content/uploads/2022/01/Hastings-Welding-Spring-2022-Lab-Schedule.pdf" target="_blank" rel="noreferrer noopener">schedule</a>).</strong></li>
 </ul>
 <h2 id="sponsor">Company Sponsored Students</h2>
-Sponsored students and their sponsoring company must submit a <strong><a href="/wp-content/uploads/2021/08/Sponsored-Student-Billing-Authorization-Fall-2021.pdf" target="_blank" rel="noreferrer noopener">Sponsored Student Billing Authorization</a></strong> in order to register for classes. If students are not going to complete modules by the end of semester date, they have the option to drop modules before the drop deadline, or speak to their instructor about doing an <a href="#incomplete"><strong>incomplete contract</strong></a> to receive incomplete grades.
+Sponsored students and their sponsoring company must submit a <strong><a href="/wp-content/uploads/2022/06/Billing-Authorization-22FA.pdf" target="_blank" rel="noreferrer noopener">Sponsored Student Billing Authorization</a></strong> in order to register for classes. If students are not going to complete modules by the end of semester date, they have the option to drop modules before the drop deadline, or speak to their instructor about doing an <a href="#incomplete"><strong>incomplete contract</strong></a> to receive incomplete grades.
 
 In order to receive end-of-semester progress reports on sponsored students, there must be a signed <strong><a href="/wp-content/uploads/2018/08/Email-Agreement.pdf" target="_blank" rel="noopener noreferrer">Email Agreement form</a></strong> on file for each company representative who would like to receive a progress report. Students may obtain a copy of their progress report by contacting RMTC staff.
 <h2 id="incomplete">Incomplete Contracts</h2>
