@@ -7,7 +7,7 @@ KCC offers a certificate in Renewable Energy, as well as the more generalized Tr
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&amp;poid=1729" target="_blank" rel="noreferrer noopener">Industrial Trades Certificate</a></strong> (25 credits)</li>
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&amp;poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
 </ul>
-<p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb; overflow: hidden;"><strong>Only the Industrial Trades Certificate is not eligible for financial aid.</strong></p>
+<p style="border: 1px solid black; padding: 5px 10px 5px 10px; background-color: #e5d4cb; overflow: hidden;"><strong>Only the Industrial Trades Certificate is not eligible for financial aid.</strong></p>
 
 <a id="renewableenergycareers"></a>
 <h2 id="careers">Renewable Energy Careers</h2>

@@ -9,7 +9,7 @@ KCC offers a certificate and an associate degree in Industrial Electricity and E
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&amp;poid=1729" target="_blank" rel="noreferrer noopener">Industrial Trades Certificate</a></strong> (25 credits)</li>
   <li><strong><a href="http://catalog.kellogg.edu/preview_program.php?catoid=18&amp;poid=1728" target="_blank" rel="noreferrer noopener">Associate in Applied Science: Skilled Trades</a></strong> (60 credits)</li>
 </ul>
-<p style="border: 1px solid black; padding: 5px; background-color: #e5d4cb; overflow: hidden;"><strong>Only the Industrial Trades Certificate is not eligible for financial aid.</strong></p>
+<p style="border: 1px solid black; padding: 5px 10px 5px 10px; background-color: #e5d4cb; overflow: hidden;"><strong>Only the Industrial Trades Certificate is not eligible for financial aid.</strong></p>
 
 <h3 id="tooldie">Tool &amp; Die Modules (Summer availability varies)</h3>
 Our Tool and Die modules are designed for company-sponsored students who are working as machinists or toolmakers. Our Tool and Die instructor will work with the student or company to find specific modules within the Tool and Die curriculum which will best serve the student’s individual needs. Students will learn how to heat-treat steel and how to design and make jigs, fixtures, gauges, dies and molds.
