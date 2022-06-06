@@ -1,275 +1,77 @@
-<h2 style="text-align: center">Welcome to Kellogg Community College's Regional Manufacturing Technology Center!</h2>
-<img class="wp-image-42831 alignright" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-sign-11-25-19-300x195.jpg" alt="An exterior view of the RMTC" width="430" height="280">
-The Regional Manufacturing Technology Center (RMTC) is a regional campus for Kellogg Community College (KCC) and home to all industrial trades programs offered by KCC. Limited offerings are also available at other locations:
+<h2 style="text-align: center">Welcome to the Industrial Trades!</h2>
+<img class="wp-image-42831 alignright" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-sign-11-25-19-300x195.jpg" alt="An exterior view of the RMTC" width="430" height="280">Understand that you are learning a skilled trade. It takes time to learn any skill, and all work here is self-paced. Take your education into your own hands.
+
+<h3>Nontraditional Coursework</h3>
+
+At the heart of KCC's Industrial Trades training is the Open Entry, Open Exit style of teaching. This means a few things:
 <ul>
- 	<li>Eastern Academic Center (EAC) in Albion, MI</li>
+  <li>Students may register for class at almost any time of the semester as long as they finish by the end of the semester.</li>
+  <li>When students finish coursework, they aren't required to stay until the end of the semester.</li>
+  <li>There are no set class periods. Students come and go to do coursework according to their schedule during open lab hours, which can be found on our lab schedule.</li>
+</ul>
+
+All coursework is some combination of reading, videos, lab work, and testing, all of which is provided by us digitally or in the Resource Center. There are opportunities to work remotely. Every module has an associated syllabus with instructions on what needs to be done to pass the course.
+
+Once all the work is completed, it must be checked by an instructor. If competency is achieved, the instructor will give the student a passing P grade as well as a small yellow pass slip as hard proof that the course has been completed. Other possible grades include:
 <ul>
- 	<li>Industrial Technology</li>
- 	<li>Industrial Electricity/Electronics</li>
- 	<li>Industrial Welding</li>
+  <li>N for No Credit, which is given if the coursework is unfinished by the end of all deadlines;</li>
+  <li>I for Incomplete, which is only given if the incomplete contract is approved;</li>
+  <li>W for Withdrawal, which is given if the student drops modules during the withdrawal period listed on the lab schedule (the student is still financially responsible for the course).</li>
 </ul>
- 	<li>the<strong> <a title="Branch Area Careers Center" href="http://branchisd.org/bacc/" target="_blank" rel="noopener noreferrer">Branch Area Careers Center</a></strong> (BACC) in Coldwater, MI</li>
-<ul>
- 	<li>Industrial Electricity and Electronics</li>
- 	<li>Industrial Machining Technology</li>
- 	<li>Industrial Technology</li>
-</ul>
- 	<li>Hastings High School</li>
-<ul>
- 	<li>Industrial Welding</li>
-</ul>
-</ul>
-The Industrial Trades programs are provided in a non-traditional format, which is often described using terms such as open entry open exit, modular, and competency-based. To learn more about the open-entry open-exit format visit the <a title="Industrial Trades" href="https://www.kellogg.edu/academics/departments/industrial-trades/" target="_blank" rel="noopener noreferrer"><strong>Industrial Trades</strong></a> page on the website.
-<h2>Kellogg Community College</h2>
-Since Industrial Trades students are KCC students, all policies and procedures which apply to KCC students also apply to Industrial Trades students. KCC policies and procedures are discussed within two KCC documents - the Student Handbook and the <strong><a href="http://catalog.kellogg.edu" target="_blank" rel="noopener noreferrer">Academic Catalog</a>.</strong> To learn more about programs, services, and extra-curricular activities available at KCC, take the <strong><a title="Orientation" href="https://www.kellogg.edu/admissions/orientation/" target="_blank" rel="noopener noreferrer">Online Student Orientation</a>.</strong> All RMTC students must apply to KCC. Students may complete the online <strong><a title="Online Application for Admissions" href="https://apply.kellogg.edu" target="_blank" rel="noopener noreferrer">Application for Admission</a>.</strong>
-
-Sponsored students must have a <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/Sponsored-Student-Billing-Authorization-Fall-2021.pdf" target="_blank" rel="noreferrer noopener">Sponsored Student Billing Authorization - Fall 2021</a></strong> on file at the RMTC prior to registering for modules. Check with registration staff to verify billing authorization status.
-
-<strong>Note:</strong> Students who are sponsored by a third party or who are receiving financial aid may be required to follow special registration and course completion guidelines.
-<h2>Hours of Operation</h2>
-The RMTC is open year round with exceptions for holidays, general session, interim session, spring break, and summer break or other college closing dates. There is no instruction or open lab hours between semesters. RMTC closures will be published on the Lab Schedule. Printed copies of the Lab Schedule are available at the Registration Desk, the Resource Center, and are posted throughout the facility.
-
-Please see the <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/RMTC-Fall-2021-Lab-Schedule-1.pdf" target="_blank" rel="noreferrer noopener">RMTC Fall 2021 Lab Schedule</a>&nbsp;</strong>for the current semester's hours of operation at the RMTC in Battle Creek, Michigan. Please contact a satellite location for their lab availability.
-
-Sign up for campus alerts to determine if the RMTC is closed. For more information on the types of campus closures or where to find campus closing information, refer to the Student Handbook.
-<h2>K-IDs and Computer Usage</h2>
-All KCC students are assigned a student ID number also referred to as a K-ID (or KCC ID number). The K-ID number should be used in place of a social security number on all KCC documents. Resource Center staff can assist students with K-ID number questions or problems.
-
-The K-ID number is also required for email, Internet access, and the time clock. Resource Center staff can assist students with accessing email and the Internet. All KCC students must abide by the KCC <strong><a title="Acceptable Use Policy" href="https://www.kellogg.edu/services/information-services/acceptable-use-policy/" target="_blank" rel="noopener noreferrer">Acceptable Use Policy</a></strong> when using KCC computers. Please read this policy prior to accessing online services.
-<h2>Bruin Portal Instructions</h2>
-<p style="text-align: center"><a href="https://www.kellogg.edu/wp-content/uploads/2014/08/Portal-Login3-e1408495691156.jpg"><img class="alignnone wp-image-26143" src="https://www.kellogg.edu/wp-content/uploads/2014/08/Portal-Login3-e1408495691156.jpg" alt="Portal Login" width="719" height="252"></a></p>
-Students will use the Bruin Portal to access the student email system, register for classes, access online classes, print class schedules, print sponsor progress reports, and look up grades.
-<a id="instcalcredit"></a>
-<h2>Self Pay Students</h2>
-Self-pay students are students who are paying for their own education with cash, credit, scholarships, loans, or financial aid.
-
-How much a self-pay student can afford to register for and when a self-pay student may register depend on the type of funding he or she is using. Registration staff can help students determine how many modules to register for at one time and when those modules need to be completed.
-<h3>Class Schedules</h3>
-Self-pay students must carry their Class Schedule at all times. Self-pay students will be required to present their Class Schedule to Resource Center staff in order to get module packets and to instructors in order to work on modules in the training labs. Students will not be allowed to start modules without a Class Schedule. Students have access to print their class schedule in their Bruin Portal.
-<h3>Dropped Modules</h3>
-Self-pay students must officially drop modules, which they do not intend to complete. These modules must be dropped prior to the drop deadline. The drop deadline can be found on the RMTC Lab Schedule each semester. Please see the <strong>Final Assessments &amp; Grades</strong> section regarding grading information for modules that are not dropped or completed.
-<h3>Refund Requests</h3>
-The Academic Appeals committee must approve all refund requests made after the drop deadline. Contact the Records and Registration office for more information at 269-965-5522.
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
-<h2>Financial Aid</h2>
-Many RMTC students may be eligible for financial aid. In order to determine whether or not you are eligible, you must complete a Free Application for Federal Student Aid. This form is referred to as the FAFSA. Information provided on this form will be used to determine what type of aid you are eligible to receive. All RMTC students are encouraged to communicate directly with the Financial Aid Office if they have questions or concerns regarding their financial aid.
-
-For more information on financial aid visit the Financial Aid Office on the main KCC campus in the Student Center (which is marked as SC on the map below). Or call Financial Aid at 269-965-4123.
-<h3>Responsibilities of the Student</h3>
-<ol>
- 	<li>Acquire necessary forms to complete the financial aid file. Links to all required forms are provided to students in the Financial Aid Self Service section when logged into their Bruin Portal&nbsp;upon receipt of the processed FAFSA information. If the forms are misplaced, the student may access them online at:<strong> <a href="https://www.kellogg.edu/admissions/financial-aid/student-forms-documents/" target="_blank" rel="noopener noreferrer">https://www.kellogg.edu/admissions/financial-aid/student-forms-documents/</a>.</strong></li>
- 	<li>Complete and return all required forms to the Financial Aid office to complete the financial aid file as soon as possible.</li>
- 	<li>Maintain Satisfactory Academic Progress, as outlined in the Satisfactory Academic Progress section.</li>
- 	<li>Meet all deadlines as established by the institution each academic year.</li>
- 	<li>Read all information provided by the Financial Aid office (provided through KCC email account and the Financial Aid Self Service section of the Bruin Portal).</li>
- 	<li>Maintain a file of all correspondence to and from the Financial Aid office. This would include application information, appeal requests, award letters, promissory notes, employment information, etc.</li>
- 	<li>Report outside sources of financial aid to the Financial Aid office in a timely manner.</li>
- 	<li>Report changes of name and/or address to the Records office.</li>
- 	<li>Be aware of your payment obligations to the college and the status of your financial aid. Continue to meet your payment deadlines, whether or not your financial aid has been processed.</li>
-</ol>
-<h2>Enrollment Levels for Financial Aid</h2>
-These enrollment levels apply to all semesters, including summer semester.
 
-Full-time: 12 or more credit hours
-3/4-time: 9 – 11 credit hours
-1/2-time: 6 – 8 credit hours
-Less than 1/2-time: Less than 6 credit hours
+<h3>Locations</h3>
+All of our Industrial Trades training is offered through the RMTC in Battle Creek. Limited offerings are also available at the following locations:
+<table style="width: 50%; margin-left: auto; margin-right: auto;">
+  <caption style="caption-side: bottom; margin-top: 0.5em;">* Availability of these programs depends on enrollment</caption>
+  <tbody>
+    <tr>
+      <td>EAC</td>
+      <td>Albion, MI</td>
+      <td>INEL, INWE, INT</td>
+    </tr>
+    <tr>
+      <td>BACC</td>
+      <td>Coldwater, MI</td>
+      <td>INEL*, INMT*, INT*</td>
+    </tr>
+    <tr>
+      <td>Hastings HS</td>
+      <td>Hastings, MI</td>
+      <td>INWE*</td>
+    </tr>
+  </tbody>
+</table>
 
-If you add or drop classes after financial aid has been disbursed for the semester your enrollment level will determine if you owe KCC additional funds or if you receive additional financial aid.
+As part of Kellogg Community College, all facilities on KCC's primary North Avenue campus are available to students, including the printing of ID cards, a library, a gym, and the Center for Student Success (CSS). The CSS is a resource available to all KCC students, offering tutoring and assistance in reading, writing, math, disability services and accommodations, and more!
 
-Any courses for which there is an "I" grade on your transcript for a previous enrollment period will not be counted toward your level of enrollment for a current semester for financial aid. An "I" grade means you agreed to complete the course by a specified date without re-enrolling for the class.
-<h3>Satisfactory Academic Progress</h3>
-To remain eligible for state and federal financial aid programs, students need to make Satisfactory Academic Progress toward achieving a degree or certificate. Standards of Satisfactory Academic Progress are applied to all students who wish to establish or maintain financial aid eligibility at Kellogg Community College, regardless if they have received financial aid funds in the past.
+<h3>The Bruin Portal</h3>
+The <strong><a href="https://portal.kellogg.edu/" target="_blank" rel="noopener noreferrer">Bruin Portal</a></strong> is a one stop shop for a variety of student needs. Most importantly, this is where you access your email. The <span style="font-variant: small-caps;">Bruin Portal Login</span> button can be found near the top of every KCC webpage. If you're a new student, then you'll need to activate your account first. Once logged in, there are buttons for accessing your KCC email and accessing Moodle.
 
-Industrial Trade classes are treated like regular courses during the semester for which the student registers. Students must complete all course work by the published last day of the semester when Satisfactory Academic Progress (SAP) is evaluated. Those classes not completed will be counted as attempted and not completed. If the student is placed on probation or suspension due to non-completion, once the course is complete and a grade is assigned, the student may complete a Satisfactory Academic Appeal form to request a re-evaluation of SAP progress. All Industrial Trade courses receive a grade of "P" upon completion. This grade is factored in as a 2.0 GPA for SAP purposes. For more information see<strong> <a href="https://www.kellogg.edu/financial/pdf/SatisfactoryAcademicProgressPolicy.pdf" target="_blank" rel="noopener noreferrer">https://www.kellogg.edu/financial/pdf/SatisfactoryAcademicProgressPolicy.pdf</a>.</strong> Students must participate in these courses with completed assignments to be considered eligible for financial aid.
+<p style="border: 1px solid black; padding: 10px; background-color: #e5d4cb;"><strong>Note:</strong> There is a difference between your k-ID and your KCC email: your email address is <tt>&lt;your k-ID&gt;@kellogg.edu</tt> (if your k-ID is k0123456 then your email login will be <tt>k0123456@kellogg.edu</tt>). The Bruin Portal and your Email Inbox will ask for your email address, while KCC computers accept either one.</p>
 
-Contact the Financial Aid office by phone, fax, email, in person, or visit us on the web
+Also available in the Bruin Portal are Transcript Requests, Student Finance for payments, Graduation Overview (Application for Graduation), and Enrollment Verification.
 
-Phone: 269-965-4123
-Fax: 269-966-4089
-email: <strong><a href="mailto:finaid@kellogg.edu">finaid@kellogg.edu</a></strong>
-On the web: <strong><a href="https://www.kellogg.edu" target="_blank" rel="noopener noreferrer">www.kellogg.edu</a></strong>
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
+KCC also uses the Omnilert alert system, which can notify you of unexpected closings, like for snow or other inclement weather. The system is accessible under Student Resources in the Bruin Portal.
 
-<h2>Calculating Financial Aid Awards for Registration</h2>
-Student financial aid award amounts available for registration are dependent upon the amount of credit the student registers for in a given semester.
+<p style="border: 1px solid black; padding: 10px; background-color: #e5d4cb;">Center Staff are always willing to help diagnose tech issues, or you can <a href="/helpdesk" target="_blank" rel="noreferrer noopener">contact the Help Desk</a>.</strong></p>
 
-<a title="Pell Grant Calculator" href="https://www.kellogg.edu/admissions/financial-aid/financial-aid-programs/pell-grant-calculator/"><img class="wp-image-25418 alignright" src="https://www.kellogg.edu/wp-content/uploads/2014/07/Pell-Grant-Calculator-300x219.jpg" alt="Pell Grant Calculator" width="300" height="219"></a>As Industrial Trades students may register at any point during the semester, the number of credits they are able to complete prior to the end of the semester will dictate the amount of the award they receive. Refer to the Instructions for Calculating Credit.
+<h3>Registration</h3>
+Registration is required every semester. We recommend that students register with our staff, so we can ensure everything flows smoothly. However, we recognize that some of our students travel to attend, and for these students, <strong><a href="https://www.kellogg.edu/academics/departments/industrial-trades/documents/" target="_blank" rel="noreferrer noopener">instructions on how to register remotely are on our Important Documents page</a>.</strong>
 
-Once students have determined the number of credits, they should calculate the total cost (lab fees and tuition) for those credits.
+In all cases, KCC requires that <strong><a href="/pay" target="_blank" rel="noopener noreferrer">payment be made</a></strong> within 24 hours of registration, whether that's financial aid, paying out of pocket, or company sponsorship.
 
-Then students may go to the <strong><a title="Pell Grant Calculator" href="https://www.kellogg.edu/admissions/financial-aid/financial-aid-programs/pell-grant-calculator/" target="_blank" rel="noopener noreferrer">Pell Grant Calculator</a> </strong>on the Financial Aid Website. Students may enter the EFC amount, number of credit hours, and click on Calculate. The calculator will provide the amount of the award available for registration.
+<p style="border: 1px solid black; padding: 10px; background-color: #e5d4cb;">After registering for classes, take your semester schedule to the Resource Room to check if any materials are needed for your modules.</p>
 
-Students should match this amount with the total cost of the credits.
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
+Across from the staff desk in the Resource Center is the time clock. Punch in your k-ID without the "k0". If it doesn't beep nor show your name and a checkmark, please speak with staff to ensure your punch is recorded accurately.
 
-<h2>Sponsored Students</h2>
-Sponsored students are students whose training is paid in full by a third party (either a company or an agency). Once the training program is setup and authorized by the sponsor the student may register for classes.
-<h3>Sponsored Student Billing Authorization</h3>
-Sponsored students must have a current <strong><a href="https://www.kellogg.edu/wp-content/uploads/2021/08/Sponsored-Student-Billing-Authorization-Fall-2021.pdf" target="_blank" rel="noreferrer noopener">Sponsored Student Billing Authorization - Fall 2021</a></strong><b>&nbsp;</b>on file before registering for classes. Billing authorizations for the next semester are due by the last day of classes in the current semester. The last day of classes for each semester can be found in the Academic Calendar. Allow at least two weeks for the billing authorization to be processed.
-<h4>Student Confidentiality</h4>
-Sponsors often require periodic updates on student progress. Sponsored students will sign a statement releasing confidential information to their sponsor.
+<p style="border: 1px solid black; padding: 10px; background-color: #e5d4cb;">Please note that beginning in Fall of 2022, students with incompletes on their record will be unable to register until those incompletes are resolved.
 
-This will authorize the College to release information on the students' academic attendance, integrity, and hardship within the authorized modules.
-<h4>Student Grades</h4>
-Sponsored students will also sign a statement releasing grades to their sponsor. This will authorize the College to release student progress reports at the end of the semester.
-<h4>Program Information</h4>
-The authorization will list the modules the student is allowed to register for during the semester.
+<h3>Financial Aid</h3>
 
-Students who register for modules which are not listed on the authorization will be charged for those modules.
+For federal student loans and most state scholarships, registration in six or more credit hours is required for disbursement.
 
-Students who register for classes prior to the billing authorization being processed or who register for modules which are not listed on the authorization will be dropped from those modules within 24 hours for nonpayment.
-<h3>Student Progress Reports</h3>
-The College will send a progress report to the authorized representative of the sponsor at the end of the semester. If the sponsor requires more frequent progress reports, the student will be required to provide them to the sponsor. Students can pull their unofficial transcript/course history by logging into their Bruin Portal and clicking on the Transcripts link, then downloading an unofficial transcript.
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
+Students registered in only Industrial Trades modules will be required to earn at least one passing P grade prior to disbursement of their federal student aid, i.e. Federal Pell Grant, Federal SEOG, and Federal Student Loans.
 
-<h2>Resource Center</h2>
-<img class="wp-image-42834 aligncenter" src="https://www.kellogg.edu/wp-content/uploads/2019/11/Resource-Room-entry-11-25-19-300x200.jpg" alt="Resource Room Entry" width="430" height="287">
+Due to the competency-based curriculum of RMTC units, Incomplete modules from a previous semester must be completed prior to receiving aid for the following semester.
 
-The Resource Center is central to training at the RMTC. This is where students pick up module packets and materials, study, take tests, watch videos, and use the computer lab for accessing online or CD-ROM content.
-
-<img class="aligncenter wp-image-42835" src="https://www.kellogg.edu/wp-content/uploads/2019/11/Resource-Room-study-and-computer-area-11-25-19-2-300x199.jpg" alt="Resource Room study area" width="430" height="285">
-
-<img class="aligncenter wp-image-42837" src="https://www.kellogg.edu/wp-content/uploads/2019/11/Resource-Room-study-and-computer-area-11-25-19-3-300x200.jpg" alt="Resource Room study area" width="430" height="287">
-
-<strong>A current printed schedule is required in order to obtain module materials.</strong>
-
-All module materials must be returned to the Resource Center prior to taking a test. Only selected books will be permanently issued to students. Resource Center staff will explain which materials students may keep and which materials students must return.
-
-Cell phone usage is not allowed in the Resource Center. Keep discussions to a minimum. Be mindful of other students who are studying or taking tests.
-
-Neither the RMTC nor the RMTC staff are responsible for lost or stolen property. Students should take these items with them as they move from the Resource Center to other areas of the facility.
-<h2>Module Packets and Moodle</h2>
-Your RMTC program is divided into units of study. Each program has a different number of units. Units are numbered consecutively using two digits (05, 10, 15, etc). There can be anywhere from one module to 20 modules within a unit of study. Modules are numbered consecutively using three digits (010, 020, 030, etc).
-
-<a href="https://www.kellogg.edu/wp-content/uploads/2014/07/Modules-e1404843485256.jpg"><img class="size-full wp-image-25515 alignright" src="https://www.kellogg.edu/wp-content/uploads/2014/07/Modules-e1404843485256.jpg" alt="Module Packets" width="400" height="300"></a>There is a packet for each RMTC module or your module syllabus and materials will be available in your student portal by clicking on Moodle. You should check your portal first to see if any materials are found there. If not found in Moodle, the materials and module packets will be available in the Resource Center. Module packets are colored by program and labeled by module number and module title. Module numbers are listed on your program sheet. You should use the module number and your printed class schedule when requesting a module packet and materials. For example, "the test for INEL 05 010."
-
-Each module packet includes an objective sheet with a learning objective, a list of learning activities, a description of check out activities (or assessments), and the minimum score required to pass the module.
-
-Questions pertaining to module content should be addressed to the program instructor. General questions pertaining to module materials such as availability or missing documents may be addressed to Resource Center staff.
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
-<h2>Final Assessments and Grades</h2>
-The RMTC is a for-credit, performance-based program. This means that students must meet minimum performance requirements in order to pass a module. Minimum performance is measured by an activity or assessment. These may be lab activities, other activities and/or written tests. Students must score either an 80%, 90%, or 100% depending upon the activity/assessment.
-
-All lab activities must be performed in the training lab under the supervision of the instructor.
-
-All written tests must be taken in the Resource Center under the supervision of Resource Center staff. No written test can be taken out of the Resource Center. Written test answers should be recorded on a separate sheet of paper. Please do not write on the test itself. After completing a written test, return the test form to Resource Center staff <strong>and take the answer sheet to the instructor for grading</strong>.
-
-Please note: Electricity/Electronics, HVAC/R and Pipefitting written tests are taken in the lab area if taken during open lab hours. Otherwise, students should take the test in the Resource Center.
-
-<strong>Note: It is the student's responsibility to check with the instructor to ensure he/she passed the test.</strong>
-
-The instructor will grade the lab activities and written tests. When the student achieves the minimum score on all activities/assessments, they will obtain a Certificate of Competency "Pass Slip" from their instructor, and a Pass or "P" grade will be applied to the student's transcript.
-<a id="incmod"></a>
-<h3>Grades</h3>
-Students will receive one of three grades for each module:
-
-P (Pass) – Indicates students have successfully completed the module(s)
-I (Incomplete) – Please see College's Incomplete Policy
-N (No Credit) - Indicates students have not passed the module(s) within a course specified time frame or attempt
-
-Incomplete grades and/or No Credit grades could negatively impact your financial aid.
-
-<b>Module Incomplete Grades:</b> To request an incomplete grade, students must work with their faculty to submit an <strong><a href="https://www.kellogg.edu/wp-content/uploads/2020/05/Incomplete-Contract.pdf" target="_blank" rel="noreferrer noopener">incomplete contract</a> </strong>prior to the end of the semester you are registered. Please see <a href="https://www.kellogg.edu/wp-content/uploads/2020/05/Information-about-Requesting-an-Incomplete-Grade-for-Industrial-Trades.pdf" target="_blank" rel="noreferrer noopener"><strong>incomplete contract information</strong></a> for more detailed information about how to request an incomplete grade for industrial trades modules.
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
-<h2>Time Clock</h2>
-<p style="text-align: center"><img class="wp-image-42841 aligncenter" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-time-clock-11-25-19-2-300x197.jpg" alt="RMTC Time Clock " width="430" height="282"></p>
-<p style="text-align: center"><img class="wp-image-42840 aligncenter" src="https://www.kellogg.edu/wp-content/uploads/2019/11/RMTC-time-clock-11-25-19-300x199.jpg" alt="RMTC time clock side view" width="430" height="285"></p>
-Financial aid and certain sponsored students are required to punch in and out on the time clock each time they visit the RMTC. Both sponsors and the Financial Department expect students to use the time clock honestly and ethically.
-
-Sponsored students are responsible for obtaining their own time clock reports and submitting those reports to their sponsors. See the <a href="https://www.kellogg.edu/wp-content/uploads/2021/05/Time-Clock-Student-Printing-Instructions.pdf" target="_blank" rel="noreferrer noopener"><strong>Timeclock Printing Instructions</strong></a> for information on how to print time clock reports.
-<a id="trainlab"></a>
-<h2>Training Lab Guidelines</h2>
-The equipment and materials used in the training lab may be dangerous. Training modules will review safety procedures. The following lab guidelines apply to all RMTC students:
-
-<strong>Safety glasses</strong> must be worn in designated areas.
-
-<strong>Wear appropriate clothing</strong>. No open toe or open heel shoes, no jewelry, and no loose hanging clothing.
-
-<strong>Talk with an instructor</strong> before operating equipment, tools, or machines.
-
-<strong>Report all broken tools or equipment </strong>to the instructor so they may be repaired or replaced. Failure to do this may result in critical injury.
-
-<strong>Immediately report all injuries</strong> to the instructor.
-
-Students are <strong>not allowed in the training labs when the labs</strong> are officially closed. The training labs are officially closed between noon and 1 p.m. for lunch.
-
-Equipment and trainers are available on a first come, first serve basis. Anyone leaving a workstation without notifying the instructor can lose that workstation.
-
-Students<strong> must</strong> <strong>clean</strong> their workstations when finished. This includes taking care of scrap materials and returning all tools and equipment to the tool crib or the instructor.
-
-<strong>Welding Students: </strong>Due to the risks presented by the COVID virus in sharing welding gear, all students will be required to provide their own Personal Protective Equipment (PPE) going forward. Students will not be allowed to weld in the lab without this gear.
-<ul>
- 	<li style="list-style-type: none">
-<ul>
- 	<li>Where to Purchase PPE: Direct from local vendor – Airgas, <strong><a href="https://www.airgas.com/">https://www.airgas.com/</a></strong> or 2475 W Dickman Rd, Springfield, MI&nbsp; 49037, phone 269-963-7929. <em>On your own</em> - It is recommended you verify with a KCC welding instructor whether an item is appropriate before making any purchases on your own.</li>
- 	<li>Required PPE: 1) Work boots/shoes (determined by student), 2) Welding helmet (Lincoln 1740 helmet or similar), 3) Welding jacket (green FR type jacket (not brand specific), 4) Welding gloves, 5) Oxy-fuel face shield (#5, not brand specific), and 6) Safety glasses (determined by student). Estimated cost excluding shoes $125 to $150.</li>
-</ul>
-</li>
-</ul>
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
-<h2>Prior Experiential Learning and Transfer Credit</h2>
-<h3>Prior Experience</h3>
-Instructors may determine that a student already possesses the knowledge, skills and abilities required to pass a module. This is called Prior Experiential Learning Credit. Students who wish to receive Prior Experiential Learning Credit must verify skill attainment with the instructor by either taking the final assessment activity, providing prior training documentation, or presenting a letter from a supervisor. There is a minimal fee for processing credit for prior experience.
-<h3>Transfer</h3>
-Students who would like to have credit transferred from a previous school to KCC, must have an official transcript sent to KCC. Contact the previous school to get information on forwarding transcripts to KCC. Once received, the transcripts will be reviewed by a program instructor. Students will receive KCC credit for classes from the previous school which are equivalent to KCC modules and which meet the minimum grade requirement. For more information on transfer credit, speak with the Executive Director or Process Specialist at the RMTC.
-<a id="acadint"></a>
-<h2>Academic Integrity</h2>
-Because the RMTC provides instructor facilitated training as opposed to instructor led training, there are more opportunities to violate academic integrity. However, violations of academic integrity will meet with harsh penalties and may result in academic suspension. For more information on academic integrity, please refer to the Policy on Academic Integrity in the Student Handbook.
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
-<h2>College Credit and Graduation</h2>
-All Industrial Trades modules are credit bearing. This means students earn college credit for each module they pass. This credit will apply towards a certificate and an associate degree.
-
-All RMTC students are encouraged to apply for graduation when they complete a certificate or associate degree program. Deadlines for graduation are posted on the KCC web site.
-
-More manufacturers are requiring educational credentials for employment. In order to graduate and obtain an official certificate or degree from KCC, students must apply for graduation by completing an Application for Graduation. For more information on graduation and graduation requirements, refer to the <strong><a href="http://catalog.kellogg.edu" target="_blank" rel="noopener noreferrer">Academic Catalog</a></strong>.
-<a id="bridge"></a>
-<h2>Center for Student Success</h2>
-<strong><a href="https://www.kellogg.edu/services/the-bridge/" target="_blank" rel="noopener noreferrer">The Center for Student Success</a> </strong>provides free educational services to all KCC students, including computer stations and software programs devoted to building academic skills.
-
-Students can use the Center for Student Success to complete homework assignments, research papers, and other class projects. Professional staff are available to assist students with core coursework, such as reading, writing, math, science, and learning strategies.
-<ul>
- 	<li>Face-to-Face Academic Tutoring</li>
- 	<li>Virtual Academic Tutoring</li>
- 	<li>Peer and Professional Tutoring</li>
- 	<li>Make-up &amp; Online Testing</li>
- 	<li>Proctored Testing for Non-KCC Students</li>
- 	<li>Disability Services</li>
- 	<li>Special Populations Grant</li>
- 	<li>Student Support Services Grant...and more!</li>
-</ul>
-The Center for Student Success staff members are devoted to promoting, supporting and enhancing student success, persistence and retention. Contact us today to see how we can help you succeed. GoBruins!
-
-KCC North Ave Campus
-Ohm Building, Rm. 207
-269-660-2296 <strong><a href="mailto:css@kellogg.edu">css@kellogg.edu</a></strong>
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
-<h2>Transitional Studies Program</h2>
-Students who need to develop their academic skills in order to be successful in college can enroll in Transitional Studies courses. These courses are designed to help bridge the gap between a student's current skill level and being college-ready.
-
-Students who do not have strong math, reading, and/or English skills are strongly encouraged to take the NEXT GENERATION ACCUPLACER assessment to determine if transitional studies courses can improve their academic performance.
-<a id="mcmap"></a>
-<h2>Main Campus Map</h2>
-Most of the KCC services discussed in this orientation are provided on the main KCC campus. RMTC staff can help you locate departments on campus. See the campus <strong><a title="Main Campus Map" href="https://www.kellogg.edu/wp-content/uploads/2013/10/campus-map-2013.pdf" target="_blank" rel="noopener noreferrer">map</a></strong> to find the buildings in which those departments are located.
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
-
-<h2>Tips for Success</h2>
-In order to be successful at the RMTC, students should fully engage in the learning process.
-
-Talk with the instructor. The instructor is available to explain concepts, demonstrate lab activities, and answer questions. Because of the open entry open exit format, the instructor doesn't always know when students are having difficulties. Students must take the initiative to talk with instructors early and often.
-
-Establish deadlines. Contact hours are provided for each module. Determine how many hours it will take to complete a program and set up an attendance schedule.
-
-Let us know what you need. Feel free to talk with us about training and employment goals.
-
-Thank you for selecting the RMTC.
-
-We are looking forward to helping you succeed!
-<p style="text-align: center">KCC-RMTC Faculty and Staff</p>
-<p style="text-align: center"><strong><a href="#top">Back to Top</a></strong></p>
+<p style="border: 1px solid black; padding: 10px; background-color: #e5d4cb;">Additional assistance can be found through the many KCC Foundation scholarships. Apply to over 100 scholarships with <strong><a href="https://kellogg.academicworks.com/" target="_blank" rel="noreferrer noopener">a single application</a>!</strong></p>
